@@ -1,0 +1,26 @@
+{
+  "name": "qt6book",
+  "version": "1.0.0",
+  "description": "A book about Qt6",
+  "main": "index.js",
+  "repository": "git@github.com:qmlbook/qt6book.git",
+  "author": "Juergen Ryannel <juergen@ryannel.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "copyfiles": "^2.4.1",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-mermaidjs": "^1.8.1"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs --host 127.0.0.1",
+    "docs:build": "vuepress build docs",
+    "docs:pdf": "vuepress export docs",
+    "examples:build": "./scripts/build-examples.sh",
+    "examples:lint": "./scripts/lint-examples.sh",
+    "examples:package": "./scripts/package-examples.sh"
+  },
+  "dependencies": {
+    "@e8johan/vuepress-plugin-pdf-export": "^1.4.0",
+    "vuepress-plugin-export": "^0.2.0"
+  }
+}
