@@ -14,7 +14,7 @@ mkdir local_repository
 #### 二、本地仓库初始化
 
 ```cpp
-cd gittest
+cd local_repository
 git init
 ```
 
