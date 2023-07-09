@@ -1,0 +1,236 @@
+# English
+
+- **gotta＝have got to 不得不**
+  - gotta表示的是客观需要
+  - gotta是老外最常用的口语缩略语，全称为have got to这是美式表达，相当于英式表达中的 have to（必须，不得不），人们也经常把 have got to中的“have”去掉，然后把 got 和 to 进行连读，变成了 [gotta](https://www.zhihu.com/search?q=gotta&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"article"%2C"sourceId"%3A"130674256"})
+- **gonna=going to 将要**
+  - gonna强调的是个人的主观计划
+  - gonna是going to，前面一定要加[be动词](https://www.zhihu.com/search?q=be动词&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"article"%2C"sourceId"%3A"130674256"})，gotta是have got to所以前面不需要再加动词。
+- **wanna＝want to想要**
+- **coulda ＝could have本来可能**
+  - 本来可以，是一种[虚拟语气](https://www.zhihu.com/search?q=虚拟语气&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"article"%2C"sourceId"%3A"130674256"})，情况和现在相反
+
+- **go back and forth**  来回 往返
+- **hatchback** 掀背车 **van**货车 厢式车
+- **This is coming out of nowhere**
+  - 这个短语通常用来描述某事物或情况突然出现，没有明显的前兆或逻辑关联。它可以表示某个想法、观点、事件或行为的突然出现，使人感到意外或困惑
+  - "The sudden rainstorm was coming out of nowhere."（突如其来的暴雨毫无预兆地降临。）
+- **"be about to do sth"** 表示即将做某事
+- **"Turmoil around"** 表示周围环境或背景中存在混乱、困惑或动荡的情况。它暗示着某个特定情况下的骚动或动乱状态。
+  - "There is political turmoil around the world."（世界各地都存在政治动荡。）
+  - "The company is facing financial turmoil due to the economic crisis."（由于经济危机，该公司面临财务动荡。）
+  - "He tried to find peace amidst the turmoil around him."（他试图在周围的混乱中找到宁静。）
+- **All I'm asking for is sth** 我所需求的是...
+- **"lousy"**可以翻译为 "糟糕的"、"糟透的"、"糟糕透顶的"等表示质量低劣或令人不满的含义。
+- **"sth be nowhere near"** 这个短语表示某事物远远不接近或远非如此。它用于形容两者之间的差距非常大或某物与所期望的结果相去甚远。
+  - "His performance was nowhere near expectations."（他的表现远远不符合期望。）
+  - "The quality of the product is nowhere near acceptable."（这个产品的质量远远不能被接受。）
+- **"the walls are closing in on me"** 这个表达意味着某人感到压迫、束缚或受困。它是一种隐喻，用来形容某人感到无处可逃、周围环境变得逼仄或压力逐渐增加。
+  - "I feel like the walls are closing in on me in this job."（我感觉在这份工作中，逼迫感越来越强。）
+  - "The stress and responsibilities are making me feel like the walls are closing in on me."（压力和责任让我感到压迫感越来越大。）
+- **landlord** 房东 **tenant**租户"、"房客"
+- **"sb handling your belongings"** 可以翻译为 "有人处理你的物品"。
+- **happy house**恭喜乔迁   **mustache** 胡须
+- **selent-film comedy** 默片喜剧    **adobe 寒舍**
+- **"Ain't"** 是一个非正式的缩略词，通常用来代替 "am not"、"is not"、"are not"、"has not" 或 "have not"。它在口语和非正式的写作中经常出现，尤其在美国英语中较为常见。
+- "**dictate fashion**" 意思是 "主导时尚" 或 "决定时尚趋势"。它指的是某人或某个群体对时尚的影响力和主导地位，能够引导和塑造流行的服装、风格和趋势。
+  - 例如："She has the ability to dictate fashion with her unique sense of style."（她凭借独特的时尚品味有能力主导时尚。）
+- **"for all of eternity"** 可以翻译为 "永恒地"、"永远地" 或 "一直到永远"。
+- **"**kind of **caught me off guard"** 可以翻译为 "有点**让我措手不及**"、"有点让我猝不及防" 或 "有点让我惊讶"。这个表达意味着某事突然发生或出乎意料，导致对方没有做好准备或感到意外。
+  - "Her question **caught me off guard**, and I didn't know how to respond."（她的问题让我有点措手不及，我不知道该如何回答。）
+- **German shepherd** 德国牧羊犬
+- **"bust someone's chops"** 是一个非正式的表达，意思是 "取笑某人"、"戏弄某人" 或 "开某人的玩笑"。它通常用于形容对某人进行幽默、戏谑或嘲笑的行为。
+  - Why are you busting my chops? 你为什么败坏我的兴致？
+  - "He's always busting my chops about my fashion choices."（他总是拿我的时尚选择开我玩笑。）
+  - "Don't take it seriously, he's just busting your chops."（别当真，他只是在开你的玩笑。）
+- **"let's crack these open"** 的意思是 "我们来打开这些"、"我们来拆开这些" 或 "我们来解决这些问题"。这个表达通常用于表示解决难题、挑战或困境的决心和行动意愿。
+  - "We have a lot of complex issues to address. Let's crack these open one by one."（我们有很多复杂的问题要解决。我们逐个来解决吧。）
+- **"nope"** 是一个非正式的表达，表示 "不，没有" 或 "不是"。它通常用于简洁地回答否定性问题或否认某个陈述。
+- **swastika** 卍（原始符号）是一个象征 
+- **vintage comedy prop**经典喜剧道具
+- "the musical inside the musical" 可以翻译为 "音乐剧中的音乐剧"。
+- **"Be in the cut"** 是一个非正式的口语表达，常用于美国黑人社区和嘻哈文化中，表示某人或某物处于隐藏或隐蔽的位置或状态。它通常指的是某人在一个相对较隐秘或私密的地方，远离人群或关注的焦点。
+  - "He's in the cut, keeping an eye on things."（他在隐蔽的地方，观察着事情。）
+  - "We were in the cut, away from the crowd."（我们在隐蔽的地方，远离人群。）
+  - "Stay in the cut and don't draw too much attention."（保持低调，不要引起太多注意
+- straight up 直截了当的（说）
+- a sense of humor 幽默感
+- **"I'll go so far as to say"** 可以翻译为 "我甚至可以说到" “**我直言不讳**...”。这个短语用于强调某人愿意做出极端或极限性的陈述，表示他们将提出一个非常明确或极端的观点。
+  - "I'll go so far as to say it was the best movie I've ever seen."（我甚至可以说这是我看过的最好的电影。）
+- **go so far/as far to do something**  "做某事到如此地步" 或者 "做某事如此极端"。它表示某人或某事在行动上达到了一个极端或极为不寻常的程度。
+  - "He went so far as to sell all his possessions to fund his startup."（他甚至卖掉了所有财产来为他的创业公司提供资金。）
+- **"Somehow to organize"** 可以解释为以某种方式来组织或安排事物。它表示在面临一些困难或不确定的情况下，寻找方法或策略来进行组织或安排。
+-  **I have a proposition for you** 我有个建议给你
+- **second-in-command**副手
+- **"demonize sb"**   "妖魔化某人"
+  - demonize them in the media 用媒体将他们妖魔化
+- **get rid of all**"摆脱全部  清除所有" 
+- **"Put all of sb/sth in"** can be translated as "将某人/某物全部放入"
+  - "Put all of the ingredients in the mixing bowl." (将所有的配料全部放入搅拌碗中。)
+  - "He put all of his savings in the investment." (他将他所有的储蓄全部投入到投资中。)
+- **"come out of nowhere"** 的意思是 "突然出现" 或者 "出现得出乎意料"。它用于描述某事或某人在没有明显迹象或预兆的情况下突然出现或发生。
+  - "The thunderstorm **came out of nowhere** and caught us by surprise."（那场雷雨突然而来，让我们感到措手不及。）
+- stop at the/that **stop sign** 在（那个）**停车标记**停下来
+- **have** our insurance companies **take care of** it
+  - "take care of sth/sb" 的意思是 "照顾某事/某人" 或者 "照料某事/某人"。这个短语通常用来描述关心、保护、管理或负责某事物或某人的行为。在这里可翻译为**“处理”**
+  - **"have sb do sth**" 表示让某人做某事，即委托或要求某人执行特定的任务或行动。
+    - "I'll have my assistant send you the documents."（我会让我的助理给你发送文件。）
+  - **"have sb done sth"** 表示某人被动地被做某事，即某人成为特定行动的对象或接受某种服务或处理。
+    - "I had my hair cut at the salon."（我在沙龙理发了。）
+  - 总之，**"have sb do sth" 强调让某人执行某项任务**，而**"have sb done sth" 强调某人被动地接受某种服务或处理。**
+- **"glove box"**或**“glove compartment”** 是指汽车中的手套箱。手套箱通常位于汽车前排座位的乘客侧，用于存放小物件和文件等物品。它通常是一个可打开的储物空间，有时也有锁。
+- **"I don't see how"** 这个表达常用于表示对某件事或某种情况感到困惑、不理解或无法理解。翻译为 "我不明白怎么" 或者 "我不理解如何"、“我可不这么认为”
+  - "I don't see how she managed to solve that complex problem so quickly."（我不明白她是怎么那么快解决那个复杂的问题的。）
+- "**License to fart**" 可以理解为 "放屁许可证"。这个表达通常是一种幽默或戏谑的说法，用于形容某人好像拥有一种特殊的权力或许可来随意放屁。
+- "**you are just miming**" 可以理解为 "你只是在装模作样" 或者 "你只是在假装"。这句话暗指对方没有真正的行动或表现，只是在做出虚假的姿态或表演。
+- "that's my **personality**" 的意思是 "那就是我的**个性**"。这句话表示对方认为自己的行为、态度或特质是与自己的个性相关的，并认为这是他们本身的特点或风格。
+- "**mess with someone**" 是一个习语，意思是 "**捉弄某人**"、"戏弄某人" 或者 "招惹某人"。它通常指的是对某人进行恶作剧、开玩笑或不友好的行为。
+  - "I wouldn't **mess with him** if I were you. He has a short temper."（如果我是你的话，我不会招惹他。他脾气很短暂。）
+  - I was messing with you "我是在和你开玩笑" 或者 "我是在逗你玩"
+- "**take off and flee the scene**" 的意思是 "**迅速离开并逃离现场**"。这个短语通常用于描述某人在某种情况下突然离开并急忙逃离现场。车祸情况也可翻译为**“肇事逃逸**”
+  - "The thief took off and fled the scene when he heard the sirens approaching."（当小偷听到警笛声靠近时，他迅速逃离现场。）
+- **It's obviously not** the time or the place 显然现在或这个地方不合适
+- **"Chill up my spine**" 这个表达形容一种不寻常的感觉或情绪，通常是指一种令人不安或恐惧的感觉。它指的是一股寒意或毛骨悚然的感觉沿着脊柱升起。
+  - "When I heard the ghostly whisper in the dark, a chill ran up my spine."（当我在黑暗中听到幽灵般的耳语声时，一阵寒意沿着我的脊柱升起。）
+- "**Official laminated**" 意思是 "官方的层压" "**官方授权**"或者 "正式的覆膜"。这个短语通常用于描述某种文件、证件或标识经过层压处理，以提高其质量、保护其内容，并使其具有官方或正式的外观。
+  - 例如："I received an official laminated ID card from the government."（我收到了一张官方的层压身份证，来自政府。）
+- **"sociopath"** 的中文翻译是 "反社会人格" 或 "反社会性人格障碍者"。
+- **"Here's the deal"** 是一个常用的口语表达，意思是 "这是情况"、"这是交易" 或者 "这是安排"。它用于引入或概括即将被解释或提议的情况、交易或安排。
+  - "Here's the deal: If you help me with this project, I'll give you a share of the profits."（这是情况：如果你帮我完成这个项目，我会给你一部分利润。）
+- **"run out of"** 是一个常用的短语，意思是 "耗尽"、"用完" 或者 "没有了"。它用于描述某物的数量或供应已经消耗完，不再可用。
+  - "I ran out of milk, so I need to buy more."（我的牛奶用完了，所以我需要再买一些。）
+  - "We ran out of time and couldn't finish the project."（我们时间用完了，无法完成这个项目。）
+  - "my car r**an out of gas** about a mile **up** the road" 可以翻译为 "我的车在路上大约一英里的地方没油了"
+    - 在这句话中，"up" 的意思是 "向上" 或 "沿着"。
+- **"a couple of"** 是一个常用的短语，表示 "几个" 或 "一对" 的意思。它通常用来描述数量不多但大约是两个或几个的事物。
+- **"help sb out"** 是一个常见的表达，意思是 "帮助某人" 或 "帮助某人解决问题"。它表示提供协助、支持或服务，以帮助某人完成任务、克服困难或满足需求。
+  - "Can you help me out with this heavy box?"（你能帮我搬一下这个重箱子吗？）
+- "**pssh"** 是一种口语表达，通常用于表示不屑、轻视、嘲弄或表示不相信的情绪。它的含义可以根据语境和语气而有所变化。这个词并没有一个确切的中文翻译，但可以使用类似的表达来传达类似的情感，例如"嘿"、"呸"、"哈"、"嗯"等。
+- **"give sth out"** 指的是分发、分发物品或发放某物。它表示将某物分发给一群人或多个接收者。
+  - "They gave out free samples of the new product."（他们发放了新产品的免费样品。）
+- "straight up legits real" 是一种非正式的口语表达，常用于强调某物或某人是真实、真正或合法的。它传达的意思是某事物或某人是真实的、可信的、合法的或没有欺骗性质的。
+  - "It's totally legit."（它完全合法。）
+- **"Stay fit and conscientious**" 的意思是 "保持身体健康和有责任心"。
+- **ask sb for assistance** 向某人求助    **"apparently**" 的意思是 "显然"、"显而易见地" 或者 "据说"
+- **"fiduciary crisis"** 的翻译可以是 "受托人危机" 或 "信贷危机"。
+- "**languish**" 的意思是 "衰弱"、"枯萎" 或 "失去活力"。它可以表示身体、情感或事物的状态出现衰退、凋落或无生气的情况。
+  - "The plant languished in the dry soil."（植物在干燥的土壤中枯萎了。）
+  - my wife is languishing in the hospitial 我妻子在医院里病得很重。
+- "get eyeball replacement surgery" 意思是 "接受眼球替换手术"。
+- make sb a **full-fledged** astronaut 使某人成为一名全面合格的宇航员。
+  - "full-fledged" 意思是 "完全成熟"、"完全发展" 或 "具备完整资格"。这个词常用来描述某人或某事物已经达到其所需的全部要求、能力或条件。
+  - "After completing her education and training, she became a full-fledged doctor."（在完成教育和培训后，她成为了一名合格的医生。）
+- **"translucent"** 指的是**透明度较高**的，可以透过一些光线或影像的物体或材料。它与完全透明和完全不透明之间的程度相关。
+  - 透明玻璃（translucent glass）：它可以让光线透过，但并不完全清晰。
+  - 透明塑料薄膜（translucent plastic film）：它可以透光，但并不完全透明。
+  - 透明液体（translucent liquid）：它在透光时可能会显示出某种程度的模糊效果。
+- sb had gotten dust in sb's lungs 某人的肺部进入了灰尘。
+- "what's the chance of it?" 的意思是 "它的可能性有多大？" "这是什么概率“
+- **take  a look** 看一看，看一下
+- give me the change in cash 请给我现金找零。
+- **lip-read**进行唇读
+  - "I couldn't hear what she was saying, so I tried to lip-read to understand her better."（我听不清她在说什么，所以我尝试通过唇读来更好地理解她。）
+- **In that dress**可以表示对某人穿着的评论、观察或描述。具体来说，这句话可能是在谈论某人在某种特定的连衣裙里的外貌或外观。
+  - "She looked stunning in that dress."（她穿着那件连衣裙看起来很漂亮。）
+- honeysuckle 金银花
+- **"Follow someone's lead"** 表示跟随某人的引导或榜样。这句话用于表示愿意跟随某人的指导、决策或行动，认为该人具有权威或经验，值得他人效仿。
+  - "I trust John's judgment, so I'll follow his lead on this project."（我信任约翰的判断力，所以在这个项目上我会跟随他的引导。）
+- "**Heavy-handed with something**" 表示对某事物过度或粗暴地处理，通常指某人在处理问题、表达意见或施加控制时采取了过度强硬或不灵活的方式。
+  - "The teacher was heavy-handed with the discipline, giving severe punishments for minor infractions."（老师在纪律方面过于严厉，对于轻微的违规行为给予严厉的惩罚。）
+- **mountain creek** 山泉小溪
+- **"Simply refreshing"** 表示某物或某事物非常简单，但给人一种令人耳目一新的感觉或体验。这个短语常用于描述事物的简洁和清新之处，使人感到舒适、愉悦或焕然一新。
+  - "The minimalist design of the room is simply refreshing."（房间的简约设计非常令人耳目一新。）
+- **Spring thaw（"春天解冻"）**指的是春季时期冻结的水，如雪或冰开始融化并转化为液态的过程。
+- The way that...（那样的方式，或以那种方式）
+  - "The way that she handled the situation was admirable."（她处理这个情况的方式令人钦佩。）
+- **"Pop out"** 可以有多个意思，根据上下文可能有不同的翻译。以下是其中一些常见的含义：
+  - **突然出现、跳出或冒出**：这表示某物或某人在意想不到或突然的情况下出现或露出。例如：
+    - "The cat suddenly popped out from behind the couch."（猫突然从沙发后面跳出来。）
+    - "A surprise guest popped out during the event."（在活动期间冒出了一位意外的客人。）
+  - **弹出、挤出或脱落**：这表示某物从原来的位置或容器中迅速弹出、挤出或脱落。例如：
+    - "The button on my shirt popped out and needs to be sewn back."（我衬衫上的纽扣弹了出来，需要重新缝合。）
+    - "The cork from the champagne bottle popped out with a loud noise."（香槟瓶塞发出巨响地弹了出来。）
+- **"That's verbatim"** 的意思是 **"完全一字不差"** 或 "逐字逐句地"。如果某人说 "That's verbatim"，他们可能在强调他们所说的内容与原文或先前的陈述之间的准确一致性。这表明他们没有进行解释、改变或概括，而是直接使用了原文的措辞。
+  - "He repeated the statement verbatim, without adding or removing any words."（他逐字重复了这个陈述，没有增加或删减任何词语。）
+  - "I copied the email verbatim in my report to ensure accuracy."（我在报告中逐字复制了电子邮件，以确保准确性。）
+- **"No words altogether"** 可以解释为 "完全**没有话可说**" 或 "一言不发"。**这个短语通常用于表达某人因为震惊、惊讶、困惑或沉默而无法说话的状态**。它可以暗示情感上的无法言表、思绪混乱或意外的情况。
+  - "When he saw the surprise proposal, he was speechless and had no words altogether."（当他看到那个令人惊喜的求婚场景时，他目瞪口呆，一言不发。）
+- What the hell was that?那是什么鬼东西？
+- "Shake your tail feathers" 是一个俚语表达，意思是开始跳舞、动起来或展示你的活力和自信。
+- **chase sb away**意味着追赶某人离开，通常指通过言行或行为导致某人离开或逃离某个地方或情境。
+  - 请注意，**这个短语通常表示某人的行为导致他人离开，而不一定涉及实际的追赶动作。**具体解释取决于上下文和情境。
+  - "The aggressive behavior of the dog chased the children away from the park."（那只狗的攻击性行为使孩子们离开了公园。）
+  - "The security guard chased the trespassers away from the private property."（保安把闯入者赶离了私人财产。）
+- **stay away from sb** 远离某人
+- **"You got to be subtle"** 是一种表达，意思是 "你必须要细腻/巧妙"。它强调在某种行为、表达或处理方式中需要运用细腻、巧妙或不显眼的技巧。
+  - "When asking for a raise, you **have to be subtle** and highlight your accomplishments."（当要求加薪时，你必须细腻地强调你的成就。）
+- **"On the issue of..."** 意思是**关于...的问题**，用于引入对特定问题或主题的讨论。它指的是在讨论、评估或探讨某个特定问题时，提出相关观点、讨论或解决方案。
+  - "There is a heated debate **on the issue of legitimacy** surrounding the recent election."（最近的选举在合法性问题上引发了激烈的辩论。）
+  - "**On the issue of climate change**, there are diverging opinions on the causes and appropriate solutions."（在气候变化问题上，对于其原因和适当的解决方案存在不同的观点。）
+  - "**On the issue of education reform**, policymakers are considering various strategies to improve student outcomes."（在教育改革问题上，决策者正在考虑各种策略以提高学生的学习成果。）
+- **"crescendoing"** 指的是在音乐或其他领域中音量、强度或力量逐渐增强的过程。它表示某种声音、动作、情绪或活动逐渐变得更强烈或更显著。
+  - "The music was crescendoing in this symphony, reaching its peak of intensity."（在这支交响乐中，音乐逐渐增强，达到了强度的顶峰。）
+- "**This is going to be our right here"** 可以表示对某个地点或位置的占有权、归属权或所有权的主张。它可以指示某个地方将成为我们的专属领域、归属地或个人领域。
+  - "After years of hard work, this house is going to be our right here."（经过多年的努力，这所房子将成为我们的归宿。）
+- "Get music jams going up" 意思是开始或启动音乐演奏或音乐创作的活动。
+  - "Let's get the music jams going up at the party and have everyone dancing."（让我们在派对上开始音乐演奏，让每个人跳舞。）
+- "turn sth off" or "**turn off sth**" 表示关闭或停止某个设备、系统、功能或活动。
+  - "Can you turn off the music? It's too loud."（你能把音乐关掉吗？声音太大了。）
+- **turn sth back up** 这个短语通常用于描述调节音量、强度或水平的动作，使其返回原来的状态或增加到更高的水平。
+  - "I turned down the heat, but now it's too cold. I need to turn it back up."（我调低了热量，但现在太冷了。我需要再调高一点。）
+  - "The music was too soft, so I turned it back up to enjoy it."（音乐声太轻了，所以我把它调高来欣赏。）
+- **Don't change the subject about....**.不要转移话题关于...。这句话表达了不希望对话或讨论的焦点被改变的意思。它指示对话中的某个人不要转移话题，而是继续讨论当前的主题或问题。
+  - "Don't change the subject about the upcoming project deadline. We need to address the issues at hand."（关于即将到来的项目截止日期，不要转移话题。我们需要解决眼前的问题。）
+  - Don't change the subject about  what we are going to do in Beijing.(别把话题换成我们到北京后要干什么)
+- **admit sth**承认做某事
+- That's **ridiculous**.这真荒谬。请注意，这句话可以根据上下文和语气的不同，表达出不同程度的不满、嘲笑或批评。
+- "Make up something" 可以指编造、创作或构思某个事物。它表示虚构或创造一个新的事物、概念、故事或解释。
+  - "She likes to **make up** stories to entertain her friends."（她喜欢编造故事来取悦她的朋友。）
+  - "The author **made up** a fictional world for her novel."（作者为她的小说构思了一个虚构的世界。）
+  - "He had to **make up** an excuse for being late."（他不得不编造一个迟到的借口。）
+- "**seems like**" 表示某事物或情况看起来或似乎是某种方式。它常用于表达主观的观察、感受或推测。
+  - "It seems like it's going to rain later."（看起来晚些时候会下雨。）
+  - "She seems like a nice person."（她看起来是个不错的人。）
+  - "It seems like they're not coming to the party."（看起来他们不会来参加派对。）
+- "**Number one track** in the country" 指的是在某个国家中排名第一的音乐曲目或歌曲。
+  - "Their latest single is the number one track in the country right now."（他们最新的单曲目前在该国是排名第一的。）
+- "**On the other side of**" 指在某个**事物、地点或概念**的相对或**对立面**。
+  - "On the other side of the street, there is a park."（在街的另一边有一个公园。）
+  - "On the other side of the argument, some people believe that it's necessary."（在另一方面的论点上，有些人认为这是必要的。）
+  - "On the other side of fear lies opportunity."（在恐惧的另一边是机会。）
+- **warm up**  热身：在进行**体育运动或表演**之前进行的一系列活动，以帮助身体逐渐适应即将到来的运动或表演。也可以表示**使某物变暖和**。
+  - "The team gathered on the field to **warm up** before the big game."（球队在比赛前集合在场地上进行热身。）
+  - "Can you please warm up the soup before serving it?"（请你在上菜前把汤加热一下好吗？）
+  - "I always make sure to warm up my car before driving in cold weather."（在寒冷天气驾车前，我总是确保先把车子预热一下。）
+  - "The band played a few songs to warm up the crowd before the main concert."（乐队在主要音乐会前为观众表演了几首歌曲作为热身。）
+- "**rehearse**" 是一个动词，用于描述练习或排练的行为。名词形式是 "rehearsal"，指的是练习或彩排的过程或会议。
+  - "The **theater troupe** spent several weeks rehearsing the play before the **opening night**."（在**首演**之前，**剧团**花了几周的时间排练这部戏剧。）
+- **"Lift up ... to"** 可以指将某物举起或抬升到特定的位置或高度。
+  - "Please lift up the box to the top shelf."（请将盒子举起放到顶层架子上。）
+- "**Give praise up to"** 的翻译为 "向上赞美"。这个短语**在某些宗教或灵性的语境**中使用，表示向神或更高的力量表达赞美、感激或敬意。
+  - "Let us give praise up to the heavens for the bountiful harvest."（让我们向上天赞美，感谢丰收的果实。）
+  - "**Up to the Lord"（献给主）**指的是将某物指向、奉献或献给主，通常出现在宗教或灵性的背景下。
+- sing merrily 欢唱
+- "Up to sb" 常用于表示某个决定、责任或行动由特定人掌握或决定。
+  - "It's up to you whether we go out for dinner or stay in tonight."（今晚是出去吃饭还是待在家里，由你决定。）
+- "You're off key" 或者 "你唱跑调了" 可以翻译为 "你跑调了"
+  - 或you're off of your note
+- **"Sworn" 是动词 "swear"** 的过去分词形式，表示发誓、宣誓或立下誓言，通常是在宣誓或对某事表示坚定承诺的情况下使用。
+  - "He has sworn allegiance to his country."（他宣誓效忠于他的国家。）
+  - "They were sworn to secrecy and could not reveal the information."（他们宣誓保密，不能透露信息。）
+- **act like**表现得像：模仿或扮演某人的行为、态度或特征。 "Act like" 还可以表示某人假装成为某种状态或情感。
+  - "She acted like a detective, carefully examining the evidence."（她表现得像个侦探，仔细检查证据。）
+  - "You need to act like a professional during the job interview."（在面试中，你需要表现得像个专业人士。）
+  - "She acts like she's happy, but I can sense that something is wrong."（她假装快乐，但我能感觉到有些不对劲。）
+-  "**Mess with**" 可以指**故意干扰、扰乱或打乱某事物的正常状态**。还可以表示与**某人或某事有关联、打交道或纠缠。**
+  - "Don't mess with my computer settings; they're working just fine."（不要搞乱我的电脑设置；它们正常运行。）
+  - "I don't want to mess with that guy; he's trouble."（我不想与那个人打交道；他很麻烦。）
+  - "Why are you messing with my personal life? It's none of your business."（你为什么干涉我的个人生活？那不关你的事。）
+- "**the rest of"** 用于指代除了已提及的部分之外的其他事物或人。
+  - "The first chapter of the book was interesting, but the rest of it was quite dull."（这本书的第一章很有趣，但之后的部分相当乏味。）
+- **"single sb out**" 是一个常见的短语，指的是特别关注、挑选或对某人进行单独处理、区别对待。
+  - "It's not fair to single her out for criticism just because she made one mistake."（仅仅因为她犯了一个错误，单独批评她是不公平的。）
+- **"make no sense"** 是一个常用的表达，表示某事物没有意义、不合理或不符合逻辑。
+  - "His explanation made no sense; it was completely illogical."（他的解释毫无意义，完全不合逻辑。）
+  - "The argument they presented in the meeting made no sense; it was filled with contradictions."（他们在会议上提出的论点毫无意义，充满了矛盾。）
+  - This makes no sense.“这没有意义”或者“这毫无道理”。
