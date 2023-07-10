@@ -9,7 +9,6 @@
 - **wanna＝want to想要**
 - **coulda ＝could have本来可能**
   - 本来可以，是一种[虚拟语气](https://www.zhihu.com/search?q=虚拟语气&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"article"%2C"sourceId"%3A"130674256"})，情况和现在相反
-
 - **go back and forth**  来回 往返
 - **hatchback** 掀背车 **van**货车 厢式车
 - **This is coming out of nowhere**
@@ -60,7 +59,7 @@
 - **go so far/as far to do something**  "做某事到如此地步" 或者 "做某事如此极端"。它表示某人或某事在行动上达到了一个极端或极为不寻常的程度。
   - "He went so far as to sell all his possessions to fund his startup."（他甚至卖掉了所有财产来为他的创业公司提供资金。）
 - **"Somehow to organize"** 可以解释为以某种方式来组织或安排事物。它表示在面临一些困难或不确定的情况下，寻找方法或策略来进行组织或安排。
--  **I have a proposition for you** 我有个建议给你
+- **I have a proposition for you** 我有个建议给你
 - **second-in-command**副手
 - **"demonize sb"**   "妖魔化某人"
   - demonize them in the media 用媒体将他们妖魔化
@@ -234,3 +233,37 @@
   - "His explanation made no sense; it was completely illogical."（他的解释毫无意义，完全不合逻辑。）
   - "The argument they presented in the meeting made no sense; it was filled with contradictions."（他们在会议上提出的论点毫无意义，充满了矛盾。）
   - This makes no sense.“这没有意义”或者“这毫无道理”。
+
+- "**adaptation to**" 可以翻译为 "适应" 或 "适应性"。表示对某种环境、情况或变化做出调整和适应。有时还可以翻译为“改编”
+  - "The plants have undergone adaptation to survive in the arid desert climate."（这些植物已经适应了干旱的沙漠气候，以便生存。）
+  - "best comic book adaptation to film" 可以翻译为 "最佳的漫画改编电影"。
+- "**hand down**" 可以指将某物传承或传递给下一代或后继者。
+  - "He handed down his grandfather's watch to his son."（他把他祖父的手表传给了他的儿子。）
+  - "The tradition of storytelling has been handed down through generations."（讲故事的传统代代相传。）
+- "**No argument**" 是一个常用的表达，表示没有异议、没有争论或没有反驳。
+  - "The facts are clear; there is no argument about what happened."（事实清楚明了，关于发生了什么没有任何争论。）
+- "**in the minority**" 表示处于少数派、占少数或意见不被多数人接受。
+  - "Most people prefer the beach, but I'm in the minority; I prefer the mountains."（大多数人喜欢海滩，但我是少数派，我更喜欢山区。）
+  - "In the debate, his opinion was in the minority, as most people disagreed with him."（在辩论中，他的观点是少数派，大多数人不同意他。）
+  - "Although her ideas were innovative, she found herself in the minority among her colleagues."（尽管她的想法很创新，但在同事中她发现自己是少数派。）
+- "**sth/sb be overrated**" 表示某物或某人被高估、被评价得过高。
+  - "I think that movie is overrated; the plot was predictable and the acting wasn't impressive."（我认为那部电影被高估了，剧情很可预测，演技也不令人印象深刻。）
+- **That's why I prefaced it**"那就是为什么我提前说明了" 可以表达在之前有所预先说明或解释的意思。
+  - "That's why I prefaced it with the fact that I'm not an expert in this field."（那就是为什么我提前说明了我不是这个领域的专家。）
+- "**Awkward**" 是一个常见的表达，用来形容尴尬、尴尬的或不自然的情况。
+  - "It was really awkward when I accidentally bumped into my ex at the party."（当我在派对上不小心撞到我的前任时，感觉非常尴尬。）
+- **"at least not until"** 可以理解为 "至少在...之前不会" 或 "至少在...之前没有"。
+  - "I won't be able to meet you for lunch, at least not until 2 PM."（我不能和你在午餐时间见面，至少在下午2点之前不行。）
+- "**follow it up**" 可以理解为 "跟进"、"继续" 或 "追踪"。
+  - "I received an interesting lead, and I plan to follow it up with further investigation."（我得到了一个有趣的线索，打算进行进一步调查。）
+  - "The sales team will follow up with potential customers to secure new business."（销售团队将跟进潜在客户以确保新业务。）
+- "Yikes" 是一个常见的表达，通常用来表示惊讶、吃惊、震惊或不悦的情绪。
+  - "Yikes, be careful! You almost bumped into that car."（哎呀，小心！你差点撞到那辆车了。）
+- "low-stakes"  低风险，用来描述某事或某情境的风险、重要性或投入程度较低。
+  - "It's just a **low-stakes conversation**, so feel free to speak your mind."（这只是一次不太重要的对话，所以随意表达自己的想法。）
+  - "The project is low-stakes, so there's not much pressure to deliver perfect results."（这个项目的风险较低，所以没有太大的压力要交付完美的结果。）
+- "**about anything at all**" 用来表示关于任何事情。
+  - "I'm here to help you with any questions you have, about anything at all."（我在这里帮助你解答任何问题，无论是关于什么事情。）
+- "**Just off the top of your head**" 用来表示在即兴或随意的情况下，凭借直觉或没有事先准备的思考。强调没有事先准备或仔细思考的情况下，给出即时的回答或观点。
+  - "Can you name a few countries in Asia, just off the top of your head?"（你能随口说出几个亚洲国家的名字吗？）
+
