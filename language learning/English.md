@@ -233,7 +233,6 @@
   - "His explanation made no sense; it was completely illogical."（他的解释毫无意义，完全不合逻辑。）
   - "The argument they presented in the meeting made no sense; it was filled with contradictions."（他们在会议上提出的论点毫无意义，充满了矛盾。）
   - This makes no sense.“这没有意义”或者“这毫无道理”。
-
 - "**adaptation to**" 可以翻译为 "适应" 或 "适应性"。表示对某种环境、情况或变化做出调整和适应。有时还可以翻译为“改编”
   - "The plants have undergone adaptation to survive in the arid desert climate."（这些植物已经适应了干旱的沙漠气候，以便生存。）
   - "best comic book adaptation to film" 可以翻译为 "最佳的漫画改编电影"。
@@ -259,7 +258,7 @@
   - "The sales team will follow up with potential customers to secure new business."（销售团队将跟进潜在客户以确保新业务。）
 - "Yikes" 是一个常见的表达，通常用来表示惊讶、吃惊、震惊或不悦的情绪。
   - "Yikes, be careful! You almost bumped into that car."（哎呀，小心！你差点撞到那辆车了。）
-- "low-stakes"  低风险，用来描述某事或某情境的风险、重要性或投入程度较低。
+- "**low-stakes**"  低风险，用来描述某事或某情境的风险、重要性或投入程度较低。
   - "It's just a **low-stakes conversation**, so feel free to speak your mind."（这只是一次不太重要的对话，所以随意表达自己的想法。）
   - "The project is low-stakes, so there's not much pressure to deliver perfect results."（这个项目的风险较低，所以没有太大的压力要交付完美的结果。）
 - "**about anything at all**" 用来表示关于任何事情。
@@ -267,3 +266,71 @@
 - "**Just off the top of your head**" 用来表示在即兴或随意的情况下，凭借直觉或没有事先准备的思考。强调没有事先准备或仔细思考的情况下，给出即时的回答或观点。
   - "Can you name a few countries in Asia, just off the top of your head?"（你能随口说出几个亚洲国家的名字吗？）
 
+- "**adore the place**" 可以翻译为 "喜爱这个地方" 或 "非常喜欢这个地方"。
+  - "I absolutely adore the place. The architecture and atmosphere are amazing."（我非常喜爱这个地方。建筑和氛围都很棒。）
+- "**untouched tribes**" 可以翻译"原始部落"。
+  - "The few untouched tribes left in the world are facing increasing pressures from external influences and modernization."（世界上剩下的少数未接触部落正面临着来自外界影响和现代化的日益增加的压力。）
+  - "The few untouched tribes left" 可以翻译为 "剩下的少数原始部落"。
+- "While we're on the subject" 是一个常用的表达，用来表示在谈论某个特定主题时，提出一个相关的问题、观点或话题。
+  - "While we're on the subject of travel, have you ever been to Asia?"（既然我们正在谈论旅行，你去过亚洲吗？）
+- "I have got **something of a confession to make**" 可以翻译为 "我有一点要坦白的事情" 或 "我有一点要忏悔的事情"。
+  - "I have got something of **a confession** to make. I haven't been entirely honest with you."（我有一点要坦白的事情。我对你并不完全诚实。）
+  - "I have something of a confession to make. I accidentally broke your favorite mug."（我有一点要坦白的事情。我不小心打破了你最喜欢的杯子。）
+- "**catch the attention of sb**" 可以翻译为 "引起某人的注意"。
+  - "Her unique artwork caught the attention of art collectors around the world."（她独特的艺术作品引起了全球艺术收藏家的注意。）
+  - "The bright colors and unique design of the advertisement caught the attention of many potential customers."（广告的鲜艳颜色和独特设计引起了许多潜在客户的注意。）
+- "sophisticated superman of sorts" 可以翻译为 "某种程度上的精明超人" 或 "某种程度上的高明超人"。
+  - "He's a sophisticated superman of sorts, excelling in both academics and athletics."（他在某种程度上是一位精明的超人，在学术和体育方面都表现出色。）
+- "**develop something of a liking to sb**" 可以翻译为 "开始对某人产生一些喜欢" 或 "对某人开始产生一些好感"。
+  - "Over time, she developed something of a liking to her new coworker."（随着时间的推移，她开始对她的新同事产生了一些喜欢。）
+- "**Isn't that always the way**?" 可以翻译为 "这不就是常事吗？" 或者 "这就是常态吧？"。
+  - "You work hard and put in extra effort, but things still don't go your way. Isn't that always the way?"（你努力工作并付出额外的努力，但事情仍然不尽如人意。这不就是常事吗？）
+  - "You plan and prepare for something, but things often turn out differently. **Isn't that always the way in our life?"**（你计划和准备一些事情，但事情经常会出现意想不到的变化。这不就是我们生活中的常态吗？）
+- "It's quite awful" 可以翻译为 "这真是糟糕透了" 或 "这实在太糟糕了"。
+  - "The situation we're facing right now is quite awful. We need to find a solution as soon as possible."（我们目前面临的局势真是糟糕透了。我们需要尽快找到解决办法。）
+- **come down to someplace** 去某地、来到某地
+  - "After the hike, we can all come down to my hut for some refreshments."（徒步旅行之后，我们可以一起到我的小屋来享用一些点心。）
+  - "Come down to the beach with us."（和我们一起去海滩吧。）
+  - "Why don't you come down to the restaurant for dinner?"（你为什么不到餐厅来吃晚餐呢？）
+  - "I'm going to come down to your office later."（我稍后会到你的办公室去。）
+- "fertility headdress" 可以翻译为 "生育头饰"。
+  - "The women in the tribe wore beautiful fertility headdresses during the harvest festival."（部落的妇女在丰收节期间戴着美丽的生育头饰。）
+- "**participate in the custom**" 可以翻译为 "参与习俗/风俗活动" 或 "入乡随俗"。
+  - "During the festival, tourists have the opportunity to participate in the local customs and traditions."（在节日期间，游客有机会参与当地的风俗和传统活动。）
+- "morally irresponsible" 可以翻译为 "道德上不负责任"。
+  - "It is morally irresponsible to ignore the needs of the less fortunate in society."（无视社会上弱势群体的需求是道德上不负责任的。）
+- "social structure" 可以翻译为 "社会结构"。
+  - "The social structure of the ancient civilization was hierarchical, with distinct classes and roles."（古代文明的社会结构是有层级的，存在明确的阶级和角色。）
+
+- "fell so terrible about it" 可以翻译为 "对此感到非常糟糕" 或 "对此感到非常难过"。
+  - "She felt so terrible about her mistake that she couldn't sleep at night."（她对自己的错误感到非常糟糕，晚上无法入睡。）
+- "Do tell" 表达了对对方所说的事情感兴趣并希望得到详细的信息。可以翻译为 "说吧" 或 "请告诉我"。
+- "**pack sth in.**.." 可以翻译为 "将某物打包进..." 或 "把某物装入..."。
+  - "I need to pack my clothes in the suitcase before our trip."（在旅行前，我需要把衣物打包进行李箱。）
+  - "I always make sure to pack a **lighter** in my **satchel** when I go hiking."（当我去远足时，我总是确保在我的**背包**里放一个**打火机**。）
+- **"absent-mindedly"** 描述了一个人在思维或注意力上不集中、心神不定的状态。可以翻译为 "心不在焉地" 或 "恍神地"。
+  - "She absent-mindedly left her keys on the kitchen counter."（她心不在焉地把钥匙放在了厨房的台面上。）
+- "lit the flint" 可以翻译为 "点燃打火石" 或 "用打火石点火"。
+  - "He lit the flint and started a fire to keep warm."（他点燃了打火石，点燃了火以保暖。）
+- "**take sb for ...**" 可以翻译为 "把某人当作..." 或 "**认为某人是..**."。
+  - "Don't take me for a fool. I know what you're up to."（不要把我当傻瓜。我知道你在搞什么。）
+- "Every sundown" 可以翻译为 "每个日落时刻"。"Every sunrise" 可以翻译为 "每个日出时刻"。
+- only imagine in some vivid detail 只能在脑海中生动地想象一些细节。
+  - She could only imagine in some vivid detail what it would be like to explore the ancient ruins of the lost city. （她只能以一些生动细节来想象探索失落城市的古代遗迹是什么样子。)
+- "**One thing you must do is..."** 是一个表达建议或强调重要性的句子结构。它用来引出一项重要的任务、行动或建议，强调这件事情的必要性或重要性。
+  - "One thing you must do is prioritize your health and well-being."（你必须做的一件事是优先考虑你的健康和幸福。）
+- "**adhere to...**" 可以翻译为 "遵守..."、"坚持..." 或 "奉行..."。
+  - "It is important to adhere to ethical principles in all aspects of life."（在生活的各个方面遵守道德原则是非常重要的。）
+- **"the least one can do**" 可以翻译为 "至少能做到的" 或 "最起码可以做到的"。
+  - "After all the help he provided, the least I can do is say thank you."（在他提供的所有帮助之后，我最起码可以做的是说声谢谢。）
+- "**It's getting harder and harder to...**" 可以理解为“越来越难以...”。
+  - "It's getting harder and harder to find affordable housing in the city."（在城市里找到负担得起的住房变得越来越困难。）
+- **"influence of"** 可以翻译为 "受到影响" 或 "在...的影响下"。
+  - "She made that decision in the influence of her friends."（她在朋友的影响下做出了那个决定。）
+- I know exactly what you mean 我完全明白你的意思。
+- "**deep in**" 可以翻译为 "深陷于"、"沉浸于" 或 "专注于"。
+  - "He is deep in thought and didn't notice me entering the room."（他陷入沉思，没有注意到我进入房间。）
+- "**end up deep in**" 的翻译可能是 "最终深陷于" 或 "最终陷入了深渊"。
+  - "He made some poor decisions and ended up deep in debt."（他做出了一些糟糕的决定，最终陷入了深深的债务之中。）
+- "**off to"** 可以翻译为 "去"、"出发去" 或 "前往"。
+  - "I'm off to the grocery store to buy some food."（我去杂货店买些食物。）
