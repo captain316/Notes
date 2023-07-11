@@ -2,13 +2,13 @@
 
 - **gotta＝have got to 不得不**
   - gotta表示的是客观需要
-  - gotta是老外最常用的口语缩略语，全称为have got to这是美式表达，相当于英式表达中的 have to（必须，不得不），人们也经常把 have got to中的“have”去掉，然后把 got 和 to 进行连读，变成了 [gotta](https://www.zhihu.com/search?q=gotta&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"article"%2C"sourceId"%3A"130674256"})
+  - gotta是老外最常用的口语缩略语，全称为have got to这是美式表达，相当于英式表达中的 have to（必须，不得不），人们也经常把 have got to中的“have”去掉，然后把 got 和 to 进行连读，变成了 gotta
 - **gonna=going to 将要**
   - gonna强调的是个人的主观计划
-  - gonna是going to，前面一定要加[be动词](https://www.zhihu.com/search?q=be动词&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"article"%2C"sourceId"%3A"130674256"})，gotta是have got to所以前面不需要再加动词。
+  - gonna是going to，前面一定要加be动词，gotta是have got to所以前面不需要再加动词。
 - **wanna＝want to想要**
 - **coulda ＝could have本来可能**
-  - 本来可以，是一种[虚拟语气](https://www.zhihu.com/search?q=虚拟语气&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"article"%2C"sourceId"%3A"130674256"})，情况和现在相反
+  - 本来可以，是一种虚拟语气，情况和现在相反
 - **go back and forth**  来回 往返
 - **hatchback** 掀背车 **van**货车 厢式车
 - **This is coming out of nowhere**
