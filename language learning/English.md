@@ -221,7 +221,7 @@
   - "She acted like a detective, carefully examining the evidence."（她表现得像个侦探，仔细检查证据。）
   - "You need to act like a professional during the job interview."（在面试中，你需要表现得像个专业人士。）
   - "She acts like she's happy, but I can sense that something is wrong."（她假装快乐，但我能感觉到有些不对劲。）
--  "**Mess with**" 可以指**故意干扰、扰乱或打乱某事物的正常状态**。还可以表示与**某人或某事有关联、打交道或纠缠。**
+- "**Mess with**" 可以指**故意干扰、扰乱或打乱某事物的正常状态**。还可以表示与**某人或某事有关联、打交道或纠缠。**
   - "Don't mess with my computer settings; they're working just fine."（不要搞乱我的电脑设置；它们正常运行。）
   - "I don't want to mess with that guy; he's trouble."（我不想与那个人打交道；他很麻烦。）
   - "Why are you messing with my personal life? It's none of your business."（你为什么干涉我的个人生活？那不关你的事。）
@@ -265,7 +265,6 @@
   - "I'm here to help you with any questions you have, about anything at all."（我在这里帮助你解答任何问题，无论是关于什么事情。）
 - "**Just off the top of your head**" 用来表示在即兴或随意的情况下，凭借直觉或没有事先准备的思考。强调没有事先准备或仔细思考的情况下，给出即时的回答或观点。
   - "Can you name a few countries in Asia, just off the top of your head?"（你能随口说出几个亚洲国家的名字吗？）
-
 - "**adore the place**" 可以翻译为 "喜爱这个地方" 或 "非常喜欢这个地方"。
   - "I absolutely adore the place. The architecture and atmosphere are amazing."（我非常喜爱这个地方。建筑和氛围都很棒。）
 - "**untouched tribes**" 可以翻译"原始部落"。
@@ -301,7 +300,6 @@
   - "It is morally irresponsible to ignore the needs of the less fortunate in society."（无视社会上弱势群体的需求是道德上不负责任的。）
 - "social structure" 可以翻译为 "社会结构"。
   - "The social structure of the ancient civilization was hierarchical, with distinct classes and roles."（古代文明的社会结构是有层级的，存在明确的阶级和角色。）
-
 - "fell so terrible about it" 可以翻译为 "对此感到非常糟糕" 或 "对此感到非常难过"。
   - "She felt so terrible about her mistake that she couldn't sleep at night."（她对自己的错误感到非常糟糕，晚上无法入睡。）
 - "Do tell" 表达了对对方所说的事情感兴趣并希望得到详细的信息。可以翻译为 "说吧" 或 "请告诉我"。
@@ -314,6 +312,13 @@
   - "He lit the flint and started a fire to keep warm."（他点燃了打火石，点燃了火以保暖。）
 - "**take sb for ...**" 可以翻译为 "把某人当作..." 或 "**认为某人是..**."。
   - "Don't take me for a fool. I know what you're up to."（不要把我当傻瓜。我知道你在搞什么。）
+- **sb be up to**表示某人正在做某事，或某人有意或打算做某事。这个短语通常用来描述某人的行为、计划或意图。
+
+  - "I wonder what John is up to these days."（我想知道约翰最近在忙什么。）
+
+  - "She's up to something, but I'm not sure what it is."（她正在策划某件事情，但我不确定是什么。）
+
+  - "They're up to no good. I can sense it."（他们在搞糟糕的事情。我能感觉到。）
 - "Every sundown" 可以翻译为 "每个日落时刻"。"Every sunrise" 可以翻译为 "每个日出时刻"。
 - only imagine in some vivid detail 只能在脑海中生动地想象一些细节。
   - She could only imagine in some vivid detail what it would be like to explore the ancient ruins of the lost city. （她只能以一些生动细节来想象探索失落城市的古代遗迹是什么样子。)
@@ -334,3 +339,15 @@
   - "He made some poor decisions and ended up deep in debt."（他做出了一些糟糕的决定，最终陷入了深深的债务之中。）
 - "**off to"** 可以翻译为 "去"、"出发去" 或 "前往"。
   - "I'm off to the grocery store to buy some food."（我去杂货店买些食物。）
+
+- **"beseech sb for"** 表示向某人恳求或乞求某事。
+  - "He beseeched her for forgiveness, pleading with her to give him another chance."（他乞求她原谅，恳求她给他另一次机会。）
+  - We beseech you for the **disenfranchised**, the less fortunate and those that suffer.（我们为那些被剥夺公民权的人(被掠夺的)、不幸的人和受苦的人祈求你。）
+- "Show us your will" 可以解释为请求或要求某人展示他们的意愿或决心。
+  - "If you're serious about joining the team, show us your will by putting in the effort and dedication."（如果你真的想加入这个团队，通过付出努力和奉献展示你的意愿。）
+- "Just want to clarify" 强调了对之前提到的事情的理解不清或有疑问，并希望进一步明确。具体的翻译和解释可能会因上下文和表达的需求而有所不同。可以翻译为 "只是想澄清"、"只是想弄清楚" 或 "只是想明确一下"。
+  - "Just want to clarify, are we meeting at 5 PM or 6 PM?"（只是想明确一下，我们是在下午5点还是下午6点见面？）
+- "Rid yourself of all earthly possessions" 可以翻译为 "摆脱一切尘世的财物" 或 "舍弃一切世俗的财产"。这个短语通常用于指摆脱世俗财物的概念，暗示放下物质欲望，追求更高层次的精神或内在的满足。
+  - "The monk decided to embrace a life of simplicity and rid himself of all earthly possessions."（那位僧侣决定过上简朴的生活，舍弃一切世俗财产。）
+- **insidious**潜伏的，隐袭的；阴险的，狡猾的【名】 （Insidious）《潜伏》（电影名）通常用于形容某个事物具有隐蔽或阴险的性质，指其在表面下暗中产生负面影响或具有潜在的危险。
+  - "The insidious nature of gossip can slowly destroy relationships."（流言蜚语的阴险性质可以逐渐破坏人际关系。）
