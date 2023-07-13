@@ -339,15 +339,28 @@
   - "He made some poor decisions and ended up deep in debt."（他做出了一些糟糕的决定，最终陷入了深深的债务之中。）
 - "**off to"** 可以翻译为 "去"、"出发去" 或 "前往"。
   - "I'm off to the grocery store to buy some food."（我去杂货店买些食物。）
-
 - **"beseech sb for"** 表示向某人恳求或乞求某事。
   - "He beseeched her for forgiveness, pleading with her to give him another chance."（他乞求她原谅，恳求她给他另一次机会。）
   - We beseech you for the **disenfranchised**, the less fortunate and those that suffer.（我们为那些被剥夺公民权的人(被掠夺的)、不幸的人和受苦的人祈求你。）
 - "Show us your will" 可以解释为请求或要求某人展示他们的意愿或决心。
   - "If you're serious about joining the team, show us your will by putting in the effort and dedication."（如果你真的想加入这个团队，通过付出努力和奉献展示你的意愿。）
-- "Just want to clarify" 强调了对之前提到的事情的理解不清或有疑问，并希望进一步明确。具体的翻译和解释可能会因上下文和表达的需求而有所不同。可以翻译为 "只是想澄清"、"只是想弄清楚" 或 "只是想明确一下"。
+- "Just want to **clarify"** 强调了对之前提到的事情的理解不清或有疑问，并希望进一步明确。具体的翻译和解释可能会因上下文和表达的需求而有所不同。可以翻译为 "只是想澄清"、"只是想弄清楚" 或 "只是想明确一下"。
   - "Just want to clarify, are we meeting at 5 PM or 6 PM?"（只是想明确一下，我们是在下午5点还是下午6点见面？）
-- "Rid yourself of all earthly possessions" 可以翻译为 "摆脱一切尘世的财物" 或 "舍弃一切世俗的财产"。这个短语通常用于指摆脱世俗财物的概念，暗示放下物质欲望，追求更高层次的精神或内在的满足。
+- "**Rid yourself of** all earthly possessions" 可以翻译为 "摆脱一切尘世的财物" 或 "舍弃一切世俗的财产"。这个短语通常用于指摆脱世俗财物的概念，暗示放下物质欲望，追求更高层次的精神或内在的满足。
   - "The monk decided to embrace a life of simplicity and rid himself of all earthly possessions."（那位僧侣决定过上简朴的生活，舍弃一切世俗财产。）
 - **insidious**潜伏的，隐袭的；阴险的，狡猾的【名】 （Insidious）《潜伏》（电影名）通常用于形容某个事物具有隐蔽或阴险的性质，指其在表面下暗中产生负面影响或具有潜在的危险。
   - "The insidious nature of gossip can slowly destroy relationships."（流言蜚语的阴险性质可以逐渐破坏人际关系。）
+
+- "investigate **the report of** a disturbance" 可以翻译为 "**调查**对**骚乱**的报告" 或 "调查扰乱事件的报告"。
+  - "The police were dispatched to investigate the report of a disturbance in the neighborhood."（警察接到调度，前往调查社区中的扰乱事件报告。）
+- "**Freeze**!" 可以翻译为 "停下！"、"别动！" 或 "站住！"。
+  - "The police officer shouted, 'Freeze!' as he approached the suspect."（警察向嫌疑人走近时大喊：“停下！”）
+- **popsicle** 棒冰，冰棍    **rats**胡说，瞎扯   **chief**  adj. 首要的，主要的；为首的，首席的 n. **领袖，首领**；酋长；
+- "**a holiday for** sb" 可以翻译为 "为某人安排一个假期" 或 "给某人一个假期"。
+  - "We decided to plan a holiday for our parents as a token of appreciation for their hard work."（我们决定为父母安排一个假期，以感谢他们的辛勤工作。）
+- **"sb be on a warpath**" 表示某人处于愤怒、决心或报复的状态，准备采取强硬行动。
+  - "Watch out, she's on a warpath after finding out about the deception."（小心，她发现了欺骗行为后愤怒不已，准备采取行动。）
+  - Mayor's on a warpath! (市长要气炸了)
+- **"be responsible for"** 可以翻译为 "对...负责"、"承担...的责任" 或 "负责...的事务"。
+  - "Who's responsible for this mess?" （谁对这个乱摊子负责?）
+  - "The project manager will determine who's responsible for this mess and take appropriate action."（项目经理将确定谁对这个混乱负责，并采取相应的行动。）
