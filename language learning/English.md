@@ -305,7 +305,7 @@
 - "Do tell" 表达了对对方所说的事情感兴趣并希望得到详细的信息。可以翻译为 "说吧" 或 "请告诉我"。
 - "**pack sth in.**.." 可以翻译为 "将某物打包进..." 或 "把某物装入..."。
   - "I need to pack my clothes in the suitcase before our trip."（在旅行前，我需要把衣物打包进行李箱。）
-  - "I always make sure to pack a **lighter** in my **satchel** when I go hiking."（当我去远足时，我总是确保在我的**背包**里放一个**打火机**。）
+  - "I always make sure to pack a **lighter** in my **satchel**[saCHəl] when I go hiking."（当我去远足时，我总是确保在我的**背包**里放一个**打火机**。）
 - **"absent-mindedly"** 描述了一个人在思维或注意力上不集中、心神不定的状态。可以翻译为 "心不在焉地" 或 "恍神地"。
   - "She absent-mindedly left her keys on the kitchen counter."（她心不在焉地把钥匙放在了厨房的台面上。）
 - "lit the flint" 可以翻译为 "点燃打火石" 或 "用打火石点火"。
@@ -339,7 +339,7 @@
   - "He made some poor decisions and ended up deep in debt."（他做出了一些糟糕的决定，最终陷入了深深的债务之中。）
 - "**off to"** 可以翻译为 "去"、"出发去" 或 "前往"。
   - "I'm off to the grocery store to buy some food."（我去杂货店买些食物。）
-- **"beseech sb for"** 表示向某人恳求或乞求某事。
+- "**beseech**[bəˈsēCH] **sb for**" 表示向某人恳求或乞求某事。
   - "He beseeched her for forgiveness, pleading with her to give him another chance."（他乞求她原谅，恳求她给他另一次机会。）
   - We beseech you for the **disenfranchised**, the less fortunate and those that suffer.（我们为那些被剥夺公民权的人(被掠夺的)、不幸的人和受苦的人祈求你。）
 - "Show us your will" 可以解释为请求或要求某人展示他们的意愿或决心。
@@ -350,9 +350,10 @@
   - "The monk decided to embrace a life of simplicity and rid himself of all earthly possessions."（那位僧侣决定过上简朴的生活，舍弃一切世俗财产。）
 - **insidious**潜伏的，隐袭的；阴险的，狡猾的【名】 （Insidious）《潜伏》（电影名）通常用于形容某个事物具有隐蔽或阴险的性质，指其在表面下暗中产生负面影响或具有潜在的危险。
   - "The insidious nature of gossip can slowly destroy relationships."（流言蜚语的阴险性质可以逐渐破坏人际关系。）
-
 - "investigate **the report of** a disturbance" 可以翻译为 "**调查**对**骚乱**的报告" 或 "调查扰乱事件的报告"。
   - "The police were dispatched to investigate the report of a disturbance in the neighborhood."（警察接到调度，前往调查社区中的扰乱事件报告。）
+- "**be dispatched to**" 可以翻译为 "被派遣到"、"被调度到" 或 "被送往"。通常用于描述某人被派遣或调度到特定的地点、任务或事件。
+  - "The rescue team was dispatched to the scene of the accident immediately."（救援队立即被派遣到事故现场。）
 - "**Freeze**!" 可以翻译为 "停下！"、"别动！" 或 "站住！"。
   - "The police officer shouted, 'Freeze!' as he approached the suspect."（警察向嫌疑人走近时大喊：“停下！”）
 - **popsicle** 棒冰，冰棍    **rats**胡说，瞎扯   **chief**  adj. 首要的，主要的；为首的，首席的 n. **领袖，首领**；酋长；
@@ -364,3 +365,39 @@
 - **"be responsible for"** 可以翻译为 "对...负责"、"承担...的责任" 或 "负责...的事务"。
   - "Who's responsible for this mess?" （谁对这个乱摊子负责?）
   - "The project manager will determine who's responsible for this mess and take appropriate action."（项目经理将确定谁对这个混乱负责，并采取相应的行动。）
+
+- **"be at capacity"** 可以翻译为 "达到容量上限"、"满员" 或 "达到最大限度"。
+  - "The theater is at capacity, and no more tickets **are available for** tonight's show."（剧院已经满员，今晚的演出没有更多门票可供出售。）
+- **"be available for"** 可以翻译为 "可用于"、"可供...使用" 或 "对...可提供"。通常用于描述某物或某人可以被使用、利用或接受。
+  - "The meeting room is available for booking tomorrow."（会议室明天可供预订。）
+- **"opulent"**[ˈɑːpjələnt] 是一个形容词，用于描述富裕、豪华、奢华的事物或环境。
+  - "The opulent mansion was adorned with chandeliers, marble floors, and intricate artwork."（那座奢华的豪宅装饰着枝形吊灯、大理石地板和精美的艺术品。）
+- **"binge drink for"** 通常表示为了某种目的或原因而过量饮酒。
+  - "Some individuals may binge drink for the purpose of socializing or coping with stress."（有些人可能会过量饮酒以社交或应对压力。）
+  - **binge**   n. 狂欢作乐，大吃大喝  v.  放纵，大吃大喝
+- **"have made careers**" 表示某些人已经成功建立了自己的职业或事业。强调某些人在特定领域或行业中取得了职业成功。
+  - "They have made careers in the field of technology and innovation."（他们在科技和创新领域建立了自己的职业。）
+  - "They have made careers **watching** wildlife and documenting their behavior."（他们通过观察野生动物并记录它们的行为而建立了职业。）
+- "**be paid more than..."** 强调某人获得比他人更高的薪酬或报酬。
+  - "He is paid more than his colleagues due to his higher level of experience and expertise."（由于他具有更高的经验和专业知识，他比同事们获得更高的薪酬。）
+- "It seems as though" 可以翻译为 "看起来似乎"、"好像" 或 "仿佛"。
+  - "It seems as though she is not interested in the project anymore."（看起来她对这个项目不再感兴趣了。）
+- **millionaire** /ˌmɪl.jəˈner/富豪，百万富翁          **rapist** 强奸犯   **drug addict**吸毒者,隐君子   **genetic freak**怪胎
+- "stop stalling with" 的翻译是 "停止拖延"、"别再敷衍了" 或 "别再耽搁了"。
+  - "Stop stalling with your excuses and get the work done!"（别再用借口拖延了，把工作做完！）
+- **"put sth into"** 可以根据具体情境翻译为 "将某物放入"、"投入" 或 "付出"。
+  - "Put the groceries into the refrigerator."（把杂货放进冰箱里。）
+  - "They put a lot of time and effort into organizing the event."（他们花费了很多时间和精力来组织这个活动。）
+- "**drop out"** 可以翻译为 "退出"、"退学" 或 "辍学"。
+  - "He decided to drop out of college and pursue his entrepreneurial ambitions."（他决定退学并追求自己的创业梦想。）
+  - "She dropped out of high school to focus on her music career."（她辍学以便专注于她的音乐事业。）
+- "**inbound to**" 指的是向某个目的地或位置进入的方向或行进中。
+  - "The flight is inbound to New York City."（这趟航班正飞往纽约市。）
+- "convicted **spousal**[ˈspaʊzlˌ] abuser" 可以翻译为 "被定罪的家暴者"。
+- **"slash through"** 可以翻译为 "划过"、"穿透" 或 "切割"。
+  - "He slashed through the thick vines with his **machete**.[məˈʃeti]"（他用他的砍刀划破了浓密的藤蔓。）
+  - "The bullet slashed through the air, hitting its target with precision."（子弹穿透空气，精准地击中了目标。）
+- **scam**     <非正式>欺诈，骗局   v. 欺诈，诓骗（钱财）
+- **pure nonsense**纯粹无稽之谈,胡说八道
+  - "sb be going pure nonsense" 可以翻译为 "某人在说纯粹的胡话"、"某人在说一派胡言" 或 "某人在胡扯"。
+  - "He was going on about some **conspiracy**[kənˈspɪrəsi] theory, but it was **pure nonsense**."（他在谈论某些**阴谋**论，但那**纯粹是一派胡言**。）
