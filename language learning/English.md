@@ -365,7 +365,6 @@
 - **"be responsible for"** 可以翻译为 "对...负责"、"承担...的责任" 或 "负责...的事务"。
   - "Who's responsible for this mess?" （谁对这个乱摊子负责?）
   - "The project manager will determine who's responsible for this mess and take appropriate action."（项目经理将确定谁对这个混乱负责，并采取相应的行动。）
-
 - **"be at capacity"** 可以翻译为 "达到容量上限"、"满员" 或 "达到最大限度"。
   - "The theater is at capacity, and no more tickets **are available for** tonight's show."（剧院已经满员，今晚的演出没有更多门票可供出售。）
 - **"be available for"** 可以翻译为 "可用于"、"可供...使用" 或 "对...可提供"。通常用于描述某物或某人可以被使用、利用或接受。
@@ -401,3 +400,77 @@
 - **pure nonsense**纯粹无稽之谈,胡说八道
   - "sb be going pure nonsense" 可以翻译为 "某人在说纯粹的胡话"、"某人在说一派胡言" 或 "某人在胡扯"。
   - "He was going on about some **conspiracy**[kənˈspɪrəsi] theory, but it was **pure nonsense**."（他在谈论某些**阴谋**论，但那**纯粹是一派胡言**。）
+
+- **close a deal**达成交易       **toupee**[tuːˈpeɪ]假发；男子假发
+- **"completely zone out"** 可以翻译为 "完全走神"、"彻底不专心" 或 "完全心不在焉"。
+  - "I was so tired during the meeting that I completely zoned out."（在会议期间，我太累了，完全走神了。）
+- "**belittle sb**" 可以翻译为 "贬低某人"、"轻视某人" 或 "小看某人"。
+  - "He always belittles his colleagues, making them feel **inferior**."（他总是贬低他的同事，让他们感到自卑。）
+- **"be mad at"** 是一个常见的短语，可以翻译为 "生气于"、"对...生气" 或 "对...发火"。
+  - "She was mad at her friend for not keeping her promise."（她因为朋友没有遵守承诺而生她的气。）
+  - "He's mad at me because I forgot his birthday."（他因为我忘记了他的生日而生我气。）
+  - "She was mad at her brother for breaking her favorite toy."（她因为哥哥把她最喜欢的玩具弄坏而生他气。）
+- "**on one's best behavior**" 可以翻译为 "表现得最好"、"举止端庄" 或 "规矩得体"。
+  - "During the job interview, she was on her best behavior, answering questions confidently and professionally."（在工作面试中，她表现得很好，自信而专业地回答问题。）
+- "**be crucial to"** 可以翻译为 "对...至关重要"、"对...非常重要" 或 "对...具有关键作用"。
+  - "Effective communication is crucial to building strong relationships."（有效的沟通对于建立牢固的关系至关重要。）
+  - "Technology is crucial to the success of modern businesses."（技术对于现代企业的成功非常重要。）
+- **"go against"** 可以翻译为 "违背"、"与...相悖" 或 "违反"。
+  - "His actions go against the company's code of conduct."（他的行为违背了公司的行为准则。）
+  - "Going against the advice of her friends, she decided to pursue her dream."（她违背了朋友们的建议，决定追求自己的梦想。）
+- **"vote for"** 可以翻译为 "投票支持"、"投票赞成" 或 "投票选举"。
+  - "I will vote for John in the upcoming election."（我将在即将举行的选举中支持约翰。）
+  - "The majority of the people voted for the new policy."（大多数人投票支持新政策。）
+- **"How did this happen?"** 可以翻译为 "这是怎么发生的？" 或 "为什么会这样？"。
+  - "How did this happen? I can't believe it!"（这是怎么发生的？我简直不敢相信！）
+  - "How did you manage to finish the project so quickly?"（你是如何在这么短的时间内完成这个项目的？）
+- "**calling the shots**" 和 **"call the shots"** 在含义上非常相似，都指的是某人拥有权威、控制权或决策权，可以做主、发号施令或做出决定。
+  - "calling the shots" 用作名词短语，形容某人在特定情况下的决策权和控制权，
+    - "As the CEO of the company, he is the one calling the shots."（作为公司的首席执行官，他是做主的人。）
+    - "In this project, she is the one calling the shots and making all the important decisions."（在这个项目中，她是发号施令的人，负责做出所有重要决策。）
+  - "call the shots" 用作动词短语，表示某人行使决策权或控制权
+    - "As the team leader, she gets to call the shots on how the project is managed."（作为团队领导，她有权决定如何管理项目。）
+    - "In this company, the CEO calls the shots and everyone follows their decisions."（在这家公司里，CEO做主，所有人都遵循他们的决定。）
+- **"on horseback"** 是一个短语，意思是骑在马上。
+  - "The cowboy rode into town on horseback."（牛仔骑马进城。）
+  - "We explored the beautiful countryside on horseback."（我们骑马探索了美丽的乡村。）
+- Russki   n. 俄国人（等于 Russian）adj. （美）俄国的（等于 Russian）
+-  "Electoral College" 指美国总统选举中的选举团体制度     oval椭圆形的   confidential机密的，保密的；
+- "**mumbo jumbo**"/məmbō ˈjəmbō/ 是一个习语，通常用来表示含糊不清、难以理解或没有实际意义的话语或内容。它可以用来形容迷信、废话、胡言乱语或不可信的说法。
+  - "The speaker's presentation was full of mumbo jumbo, and I couldn't understand what he was trying to say."（演讲者的演讲充斥着胡言乱语，我无法理解他想表达什么。）
+  - "Ignore all that mumbo jumbo, let's focus on the facts and evidence."（忽略所有的废话，我们来专注于事实和证据。）
+- "**make sense of**" 是一个常用的短语，意思是理解、理会或弄清楚某事物的意义或含义。
+  - "The instructions were so confusing that I couldn't make sense of them."（这些指示非常令人困惑，我无法理解它们。）
+  - "After carefully studying the data, she was able to make sense of the patterns and draw meaningful conclusions."（在仔细研究数据后，她能够理解模式并得出有意义的结论。）
+  - I can't even make sense of this 我甚至/简直无法理解这个。
+- "**It is more imperative than..**." /ɪmˈperətɪv/的中文解释是“比...更为迫切/重要”。这个短语通常需要后面跟上具体的内容或情况，以表达某件事在当前情况下比以往任何时候都更加紧急或重要。
+  - "**It is more imperative than ever** to protect our environment and preserve natural resources."（**比以往任何时候都更为迫切**，要保护我们的环境并保护自然资源。）
+  - "It is more imperative than before to address the issue of inequality and promote social justice."（现在比以前更为重要，要解决不平等问题并促进社会公正。）
+- "**move on**" 是一个常用的短语，意思是继续前进、继续生活或离开过去的事情，尤其是不再感到困扰或受到过去经历的影响。
+  - "It's time to move on from the past and focus on building a better future."（是时候从过去中继续前进，专注于建设更美好的未来。）
+  - "After the breakup, it took her some time to move on and find happiness again."（分手后，她花了一些时间来继续生活并再次找到快乐。）
+  - "I've accepted the situation and I'm ready to move on with my life."（我接受了现状，准备继续过我的生活。）
+- "in the fact that..." 是一个常见的短语，用于强调某个事实或情况对于某种情感、判断或结果的影响。它通常用于说明一种因果关系或解释为什么某种情况发生或具有特定的影响。
+  - "She found solace[ˈsɑːləs] in the fact that her friends were there to support her during difficult times."（她从这一事实中找到了慰藉，即在困难时期有朋友支持她。）
+  - "In the fact that they had been practicing for months, their performance was flawless[ˈflɔːləs]."（由于他们已经练习了几个月，所以他们的表演非常完美。）
+  - "There is strength in the fact that we have overcome similar challenges in the past."（在我们过去克服了类似的挑战的事实中，有着力量。）
+- "**Adopt** new policies" 的翻译是 "采取新政策"。这指的是组织、机构或个人在面对新的情况、挑战或需求时，决定采纳、实施或引入新的政策或规定。
+  - "The government has decided to adopt new policies to stimulate economic growth."（政府决定采取新的政策来刺激经济增长。）
+- "**Plagiarizes/ˈplājəˌrīz/ speeches**" 的翻译是 "抄袭演讲"。这指的是某人在其演讲或演说中未经允许地复制、使用他人的言论、文字或想法，而没有进行适当的引用或来源的声明。
+  - "The politician was accused of plagiarizing speeches from other prominent leaders during his campaign."（这位政治家被指控在竞选期间抄袭其他著名领导人的演讲。）
+  - "The student was caught plagiarizing her graduation speech, and it led to disciplinary action by the school."（这位学生被发现在毕业演讲中抄袭，导致学校采取纪律行动。）
+- "meet with" 的翻译是 "会面" 或 "与...见面"。它表示两个或多个人之间的正式或非正式会面。
+  - "I'm going to meet with my colleagues tomorrow to discuss the project."（我明天会与我的同事会面，讨论这个项目。）
+- **"have pledged one's support in**" 的翻译是 "已经承诺支持"。这表示某人已经表明或保证在某个问题、计划、活动或目标上给予支持或帮助。
+  - "I have pledged my support in the upcoming charity event."（我已经承诺支持即将到来的慈善活动。）
+  - "The company's CEO has pledged his support in promoting sustainability initiatives."（公司的首席执行官已经承诺支持推动可持续发展的倡议。）
+- "**I assure you that.**.." 的翻译是 "我向你保证..."。这表明说话者在一件事情上向对方作出坚定的承诺或保证。
+  - "I assure you that I will complete the project on time and with the highest quality."（我向你保证我会按时并且以最高的质量完成这个项目。）
+- **"Cherished tradition"** 的翻译是 "珍爱的传统"。它指的是在一个社区、家庭或团体中被特别重视和喜爱的习俗、惯例或做法。
+  - "The annual family reunion is a cherished tradition that brings all generations together."（每年的家庭聚会是一项珍爱的传统，把所有的代际都聚在一起。）
+- "**Stand up for"** 的翻译是 "支持、维护、捍卫"。它表示为某人或某事物挺身而出，坚定地支持并保护其权益或利益。
+  - "I will always stand up for my friends when they are facing difficult situations."（当我的朋友们遇到困难时，我会一直支持他们。）
+  - "He decided to stand up for his beliefs, even though it meant facing opposition from others."（尽管这意味着面对他人的反对，他还是决定捍卫他的信念。）
+- "I got my eye on you" 的翻译是 "我注意你了" 或 "我盯着你"。这句话通常用于表示对某人的关注、监视或观察，可能是出于好奇、怀疑、警惕或友善等不同的情感。
+  - "Don't think I didn't notice what you did. I've got my eye on you."（别以为我没注意到你的所作所为。我盯着你呢。）
+  - "The new employee seems promising. The boss has his eye on him for potential leadership roles."（那个新员工看起来很有潜力。老板对他有意让他担任领导角色。）
