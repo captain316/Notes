@@ -400,7 +400,6 @@
 - **pure nonsense**纯粹无稽之谈,胡说八道
   - "sb be going pure nonsense" 可以翻译为 "某人在说纯粹的胡话"、"某人在说一派胡言" 或 "某人在胡扯"。
   - "He was going on about some **conspiracy**[kənˈspɪrəsi] theory, but it was **pure nonsense**."（他在谈论某些**阴谋**论，但那**纯粹是一派胡言**。）
-
 - **close a deal**达成交易       **toupee**[tuːˈpeɪ]假发；男子假发
 - **"completely zone out"** 可以翻译为 "完全走神"、"彻底不专心" 或 "完全心不在焉"。
   - "I was so tired during the meeting that I completely zoned out."（在会议期间，我太累了，完全走神了。）
@@ -435,7 +434,7 @@
   - "The cowboy rode into town on horseback."（牛仔骑马进城。）
   - "We explored the beautiful countryside on horseback."（我们骑马探索了美丽的乡村。）
 - Russki   n. 俄国人（等于 Russian）adj. （美）俄国的（等于 Russian）
--  "Electoral College" 指美国总统选举中的选举团体制度     oval椭圆形的   confidential机密的，保密的；
+- "Electoral College" 指美国总统选举中的选举团体制度     oval椭圆形的   confidential机密的，保密的；
 - "**mumbo jumbo**"/məmbō ˈjəmbō/ 是一个习语，通常用来表示含糊不清、难以理解或没有实际意义的话语或内容。它可以用来形容迷信、废话、胡言乱语或不可信的说法。
   - "The speaker's presentation was full of mumbo jumbo, and I couldn't understand what he was trying to say."（演讲者的演讲充斥着胡言乱语，我无法理解他想表达什么。）
   - "Ignore all that mumbo jumbo, let's focus on the facts and evidence."（忽略所有的废话，我们来专注于事实和证据。）
@@ -474,3 +473,36 @@
 - "I got my eye on you" 的翻译是 "我注意你了" 或 "我盯着你"。这句话通常用于表示对某人的关注、监视或观察，可能是出于好奇、怀疑、警惕或友善等不同的情感。
   - "Don't think I didn't notice what you did. I've got my eye on you."（别以为我没注意到你的所作所为。我盯着你呢。）
   - "The new employee seems promising. The boss has his eye on him for potential leadership roles."（那个新员工看起来很有潜力。老板对他有意让他担任领导角色。）
+
+- **
+  mnemonic**[nɪˈmɑːnɪk] **device**助记法：一种帮助记忆的技巧或方法，通常通过将复杂的信息转化为更容易理解和记忆的形式。
+  - "To remember the colors of the rainbow in order, use the mnemonic device 'ROYGBIV' (R for red, O for orange, Y for yellow, G for green, B for blue, I for indigo, V for violet)."（为了记住彩虹的颜色顺序，使用助记设备'ROYGBIV'（R代表红色，O代表橙色，Y代表黄色，G代表绿色，B代表蓝色，I代表靛蓝色，V代表紫色）。）
+  - "She used a mnemonic device to remember all the important dates for her history exam."（她使用了助记设备来记住历史考试的所有重要日期。）
+- "**Come out**" 是一个动词短语，可以有多种意思，具体意义取决于上下文。以下是其中一些常见的意思：
+  - 出现：表示某物或某人从某个地方出现或露面。例句：The sun has come out, and the weather is beautiful. (太阳出来了，天气很好。)
+  - 公开承认：表示某人公开宣布或承认某个事实或真相。例句：He finally came out and admitted that he had made a mistake. (他终于站出来承认自己犯了一个错误。)
+  - 公开表明性取向：特指同性恋者或LGBT群体中公开宣布自己的性取向。例句：She came out as gay to her family and friends. (她向家人和朋友公开表明自己是同性恋。)
+  - 发行、发布：表示新产品、新书籍、新歌曲等的发布。例句：The band's new album will come out next month. (这支乐队的新专辑下个月将发布。)
+  - 终结、解决：表示某事物的结果或结局。例句：The meeting came out with a decision to postpone the project. (会议做出了推迟项目的决定。)
+- **"High five"** 是一种非常普遍的社交手势，常见于体育比赛、团队活动、庆祝场合或表达支持和赞赏的时候。
+  - After winning the game, the teammates gave each other a high five to celebrate their victory.（在赢得比赛后，队友们相互击掌庆祝胜利。）
+- be invented指的是某物或某个概念被创造或发明出来。这通常用于描述新的创意、发明或创新。
+  - The internet was invented in the late 20th century and has revolutionized communication and information sharing.（互联网在20世纪末期被发明，彻底改变了通信和信息共享的方式。）
+- "**Subtract**" 是一个动词，表示减去或减掉某个数或数量。当你从一个数中减去另一个数时，就使用 "subtract" 这个词。
+  - To find the difference between 10 and 5, you need to **subtract** 5 **from** 10, which gives you the result 5.（要找出10和5之间的差异，你需要从10减去5，得到的结果是5。）
+  - If you **subtract** 20 **from** 50, you'll get 30.（如果你从50中减去20，你会得到30。）
+- **puzzle sth out**意味着努力理解或解决一个复杂的问题或谜题。 puzzle  n.解谜游戏
+  - The detective is trying to puzzle out the clues to solve the mysterious case.（侦探正在努力解开线索以解决这个神秘案件。）
+  - She couldn't understand the instructions at first, but with some effort, she managed to puzzle them out.（一开始她无法理解这些指示，但经过一些努力，她设法弄清楚了。）
+- **grain**  n. 谷物，谷粒            **dairy**  adj. 奶制的，乳品的；n. 乳制品     **pineapple** 菠萝
+- "**sb is the star of**"用于描述某人是某个活动、项目、节目等的主角或明星。
+  - Tom Hanks is the star of the new blockbuster movie.（汤姆·汉克斯是这部新大片的主角。）
+  - The young singer is the star of tonight's concert.（这位年轻的歌手是今晚音乐会的明星。）
+  - The soccer player's outstanding performance made him the star of the championship game.（足球运动员出色的表现使他成为了锦标赛比赛的主角。）
+- "the same last name" 翻译成中文是 "相同的姓氏"。
+  - John and Mary have the same last name, so people often mistake them for being **siblings**[ˈsɪblɪŋz].（约翰和玛丽姓氏相同，所以人们经常把他们误认为是**兄弟姐妹**。）
+- "**Over-complicating**" 是一个动词短语，表示使某事物变得过于复杂或过分复杂化。
+  - Don't over-complicate the instructions for the recipe; keep them simple and easy to follow.（不要把食谱的说明搞得太复杂，保持简单易懂。）
+  - She has a tendency to over-complicate her explanations, making it difficult for others to understand her point.（她有一种倾向，总是把解释弄得过于复杂，让别人难以理解她的观点。）
+  - You're over-complicating the whole thing.(你把整件事情都搞的过于复杂了)
+- **handshake**  n. 握手
