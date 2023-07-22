@@ -473,7 +473,6 @@
 - "I got my eye on you" 的翻译是 "我注意你了" 或 "我盯着你"。这句话通常用于表示对某人的关注、监视或观察，可能是出于好奇、怀疑、警惕或友善等不同的情感。
   - "Don't think I didn't notice what you did. I've got my eye on you."（别以为我没注意到你的所作所为。我盯着你呢。）
   - "The new employee seems promising. The boss has his eye on him for potential leadership roles."（那个新员工看起来很有潜力。老板对他有意让他担任领导角色。）
-
 - **
   mnemonic**[nɪˈmɑːnɪk] **device**助记法：一种帮助记忆的技巧或方法，通常通过将复杂的信息转化为更容易理解和记忆的形式。
   - "To remember the colors of the rainbow in order, use the mnemonic device 'ROYGBIV' (R for red, O for orange, Y for yellow, G for green, B for blue, I for indigo, V for violet)."（为了记住彩虹的颜色顺序，使用助记设备'ROYGBIV'（R代表红色，O代表橙色，Y代表黄色，G代表绿色，B代表蓝色，I代表靛蓝色，V代表紫色）。）
@@ -506,3 +505,54 @@
   - She has a tendency to over-complicate her explanations, making it difficult for others to understand her point.（她有一种倾向，总是把解释弄得过于复杂，让别人难以理解她的观点。）
   - You're over-complicating the whole thing.(你把整件事情都搞的过于复杂了)
 - **handshake**  n. 握手
+
+- **aerobic**
+  - adj. 需氧的；有氧（健身）的
+  - aerobics n. 有氧运动法；是一个名词，指的是一种结合了节奏动作和有氧运动的健身形式
+  - "Slow steady-state cardio" 指的是一种缓慢而稳定的有氧运动
+  - interval **cardio** 间歇有氧运动
+- "**Steady-state**" 是 "稳态"。
+  - The population of the predator-prey system reached a steady-state after several years of coexistence.（捕食者与被捕食者系统经过几年的共存后达到了稳态。）
+  - The economy is expected to return to a steady-state after the initial shock caused by the financial crisis.（经济预计在金融危机的初期冲击后恢复到稳态。）
+- "**emphasize**" 是一个动词，表示强调或着重某事物，使其在整体中更加明显或突出。
+  - The manager emphasized the need for teamwork to achieve the company's goals. (经理强调了实现公司目标需要团队合作。)
+  - The speaker used bold and italic fonts to emphasize key points on the presentation slides. (演讲者在演示文稿上使用粗体和斜体字来强调关键点。)
+- "**take a little while**" 表示需要花费一段时间，通常是一个相对较短的时间，但不会立即发生或完成。
+  - The computer update will take a little while, so please be patient.（电脑更新需要一段时间，请耐心等待。）
+  - I'll be ready to leave soon, just give me a little while to get dressed.（我很快就会准备好离开，只需要给我一点时间换好衣服。）
+  - It may take a little while for the pain to go away after the surgery.（手术后，疼痛可能需要一段时间才会消失。）
+- "**get into**" 是一个动词短语，有多个不同的含义，具体意义取决于上下文。
+  - 进入、进去：表示移动或进入某个地方或位置。例句：She got into her car and drove away.（她上车驾车离开了。）
+  - 开始从事、涉足：表示开始进行某种活动或事情。例句：He decided to get into gardening and started planting vegetables.（他决定涉足园艺，并开始种植蔬菜。）
+  - 对...产生兴趣或热情：表示对某个主题、话题或活动产生浓厚兴趣。例句：She has really gotten into painting recently.（她最近对绘画产生了浓厚的兴趣。）
+  - 对待、看待：表示以某种态度或方式对待某人或某事。例句：He gets into trouble because he doesn't listen to advice.（他因为不听劝告而惹上麻烦。）
+  - 理解、掌握：表示逐渐理解或掌握某种知识或技能。例句：It took me a while to get into the rhythm of the dance.（我花了一些时间才掌握舞蹈的节奏。）
+- **athletic**[æθˈletɪk]  是一个形容词，用来描述与运动或体育活动有关的事物、人或特质。
+  - She is an athletic person and enjoys playing various sports.（她是一个喜欢参加各种体育运动的人。）
+  - The school has a well-equipped athletic facility for students to use.（学校有一个设备齐全的体育设施供学生使用。）
+  - He has an athletic build and is very strong and fit.（他身材健壮，非常强壮和健康。）
+- "**tag team** (fight)" 指的是一种团队式的战斗或比赛形式，通常用于职业摔跤、拳击等体育比赛。
+- **street riffraff**[ˈrɪfˌræf] 用来形容街头的无赖、流氓或社会底层的人群。
+- **rapscallion**[ræpˈskæljən] n. 流氓，恶棍
+- "Scrap with" 是一个词组，其中文翻译可以是 "与...争吵" 或 "与...打斗"。
+  - They often scrap with each other over trivial matters.（他们两个常常因为琐事而争吵。）
+  - The two kids were scrapping with each other over a toy. 这两个孩子因为一件玩具而争吵。
+  - He got into trouble for scrapping with a stranger in a bar.（他因与一个陌生人在酒吧打架而惹上麻烦。）
+- "**Tag out**" 的翻译是 "触身出局"，在体育比赛中，特别是棒球或垒球等比赛中，指通过用手触碰对方球员使其出局。
+  - In the soccer match, the goalkeeper tagged out the striker's shot, preventing the opposing team from scoring. (在踢球比赛中，门将触身出局了前锋射门的球，阻止了对方得分。)
+  - The sprinter skillfully tagged out the opponent in the relay race. (短跑手在接力比赛中巧妙触身出局了对方选手。)
+- **in the crotch**[krɑːtʃ] 在胯部。是一个用于描述身体位置的短语，指位于大腿与身体相连接处的区域。
+  - The athlete was accidentally hit in the crotch during the game, and he fell to the ground in pain.（运动员在比赛中不小心被击中胯部，他因疼痛倒在地上。）
+  - She felt a sudden discomfort in the crotch area while exercising and decided to take a break.（她在锻炼时突然感到胯部区域不舒服，决定休息一下。）
+- "**go hog wild**" 这个短语意味着尽情狂欢、放纵自己、尽情享受。
+  - "go hog wild" 这个短语意味着尽情狂欢、放纵自己、尽情享受。它通常用来形容人们在特定场合或情况下，完全释放自己的情感和欲望，毫不控制地尽情玩乐。
+  - After winning the lottery, she went hog wild and bought a new car, went on a luxury vacation, and threw a lavish party for all her friends.（中了彩票后，她疯狂地买了一辆新车，去了豪华度假，还为所有朋友举办了一场盛大的派对。）
+  - The music festival was so amazing that the crowd went hog wild, dancing and singing along to every song.（音乐节太棒了，观众尽情狂欢，跳舞并跟着每一首歌一起唱。）
+  - The kids went hog wild at the amusement park, riding all the roller coasters and eating lots of cotton candy.（孩子们在游乐园尽情狂欢，玩了所有过山车，还吃了很多棉花糖。）
+- **"go hog wild on sb"** 这个短语指的是对某人进行狂热攻击、猛烈抨击或是激烈批评。
+  - After the scandal was revealed, the media went hog wild on the politician, exposing every detail of his wrongdoings.（丑闻曝光后，媒体对那位政治家展开猛烈抨击，揭露他的所有错误行为。）
+  - The critics went hog wild on the movie, calling it a disaster and criticizing every aspect of the film.（评论家对这部电影进行了疯狂的批评，称其为灾难，并批评了电影的各个方面。）
+- **"lost one's mind"** 这个短语意为"失去理智"，通常用来形容某人丧失了理智、精神错乱或行为异常。
+  - After the traumatic event, she seemed to have lost her mind and couldn't recognize her own family.（在那场创伤事件后，她似乎失去了理智，无法认出自己的家人。）
+- **pissing onself**“尿自己、漏尿”是一个俗语，用来描述由于害怕、大笑或无法控制膀胱而不由自主地穿着衣服小便的行为。
+  - The child was so scared during the thunderstorm that she ended up pissing herself.（孩子在雷雨中非常害怕，结果尿湿了裤子。）
