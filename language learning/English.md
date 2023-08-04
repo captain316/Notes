@@ -16,12 +16,12 @@
   - "The sudden rainstorm was coming out of nowhere."（突如其来的暴雨毫无预兆地降临。）
 - **"be about to do sth"** 表示即将做某事
 - **"Turmoil around"** 表示周围环境或背景中存在混乱、困惑或动荡的情况。它暗示着某个特定情况下的骚动或动乱状态。
-  - "There is political turmoil around the world."（世界各地都存在政治动荡。）
-  - "The company is facing financial turmoil due to the economic crisis."（由于经济危机，该公司面临财务动荡。）
-  - "He tried to find peace amidst the turmoil around him."（他试图在周围的混乱中找到宁静。）
+  - "There is political turmoil[ˈtɜːrmɔɪl] around the world."（世界各地都存在政治动荡。）
+  - "The company is facing financial/faɪˈnænʃ(ə)l/ turmoil due to the economic crisis."（由于经济危机，该公司面临财务动荡。）
+  - "He tried to find peace **amidst** the turmoil around him."（他试图**在**周围的混乱**中**找到宁静。）
 - **All I'm asking for is sth** 我所需求的是...
 - **"lousy"**可以翻译为 "糟糕的"、"糟透的"、"糟糕透顶的"等表示质量低劣或令人不满的含义。
-- **"sth be nowhere near"** 这个短语表示某事物远远不接近或远非如此。它用于形容两者之间的差距非常大或某物与所期望的结果相去甚远。
+- **"sth be nowhere near"** 这个短语表示**某事物远远不接近或远非如此**。它用于形容两者之间的差距非常大或某物与所期望的结果相去甚远。
   - "His performance was nowhere near expectations."（他的表现远远不符合期望。）
   - "The quality of the product is nowhere near acceptable."（这个产品的质量远远不能被接受。）
 - **"the walls are closing in on me"** 这个表达意味着某人感到压迫、束缚或受困。它是一种隐喻，用来形容某人感到无处可逃、周围环境变得逼仄或压力逐渐增加。
@@ -29,24 +29,24 @@
   - "The stress and responsibilities are making me feel like the walls are closing in on me."（压力和责任让我感到压迫感越来越大。）
 - **landlord** 房东 **tenant**租户"、"房客"
 - **"sb handling your belongings"** 可以翻译为 "有人处理你的物品"。
-- **happy house**恭喜乔迁   **mustache** 胡须
-- **selent-film comedy** 默片喜剧    **adobe 寒舍**
+- **happy house**恭喜乔迁   **mustache /ˈmʌstæʃ;/**胡须
+- **selent-film comedy /ˈkɑːmədi/** 默片喜剧    **adobe 寒舍**
 - **"Ain't"** 是一个非正式的缩略词，通常用来代替 "am not"、"is not"、"are not"、"has not" 或 "have not"。它在口语和非正式的写作中经常出现，尤其在美国英语中较为常见。
 - "**dictate fashion**" 意思是 "主导时尚" 或 "决定时尚趋势"。它指的是某人或某个群体对时尚的影响力和主导地位，能够引导和塑造流行的服装、风格和趋势。
   - 例如："She has the ability to dictate fashion with her unique sense of style."（她凭借独特的时尚品味有能力主导时尚。）
-- **"for all of eternity"** 可以翻译为 "永恒地"、"永远地" 或 "一直到永远"。
+- **"for all of eternity" /ɪˈtɜːrnəti/**可以翻译为 "永恒地"、"永远地" 或 "一直到永远"。
 - **"**kind of **caught me off guard"** 可以翻译为 "有点**让我措手不及**"、"有点让我猝不及防" 或 "有点让我惊讶"。这个表达意味着某事突然发生或出乎意料，导致对方没有做好准备或感到意外。
   - "Her question **caught me off guard**, and I didn't know how to respond."（她的问题让我有点措手不及，我不知道该如何回答。）
-- **German shepherd** 德国牧羊犬
+- **German shepherd /ˈʃepərd/**德国牧羊犬
 - **"bust someone's chops"** 是一个非正式的表达，意思是 "取笑某人"、"戏弄某人" 或 "开某人的玩笑"。它通常用于形容对某人进行幽默、戏谑或嘲笑的行为。
   - Why are you busting my chops? 你为什么败坏我的兴致？
   - "He's always busting my chops about my fashion choices."（他总是拿我的时尚选择开我玩笑。）
   - "Don't take it seriously, he's just busting your chops."（别当真，他只是在开你的玩笑。）
 - **"let's crack these open"** 的意思是 "我们来打开这些"、"我们来拆开这些" 或 "我们来解决这些问题"。这个表达通常用于表示解决难题、挑战或困境的决心和行动意愿。
-  - "We have a lot of complex issues to address. Let's crack these open one by one."（我们有很多复杂的问题要解决。我们逐个来解决吧。）
+  - "We have a lot of complex/kəmˈpleks]/ issues to address. Let's crack these open one by one."（我们有很多复杂的问题要解决。我们逐个来解决吧。）
 - **"nope"** 是一个非正式的表达，表示 "不，没有" 或 "不是"。它通常用于简洁地回答否定性问题或否认某个陈述。
 - **swastika** 卍（原始符号）是一个象征 
-- **vintage comedy prop**经典喜剧道具
+- **vintage/ˈvɪntɪdʒ/ comedy prop**经典喜剧道具
 - "the musical inside the musical" 可以翻译为 "音乐剧中的音乐剧"。
 - **"Be in the cut"** 是一个非正式的口语表达，常用于美国黑人社区和嘻哈文化中，表示某人或某物处于隐藏或隐蔽的位置或状态。它通常指的是某人在一个相对较隐秘或私密的地方，远离人群或关注的焦点。
   - "He's in the cut, keeping an eye on things."（他在隐蔽的地方，观察着事情。）
@@ -56,20 +56,20 @@
 - a sense of humor 幽默感
 - **"I'll go so far as to say"** 可以翻译为 "我甚至可以说到" “**我直言不讳**...”。这个短语用于强调某人愿意做出极端或极限性的陈述，表示他们将提出一个非常明确或极端的观点。
   - "I'll go so far as to say it was the best movie I've ever seen."（我甚至可以说这是我看过的最好的电影。）
-- **go so far/as far to do something**  "做某事到如此地步" 或者 "做某事如此极端"。它表示某人或某事在行动上达到了一个极端或极为不寻常的程度。
+- **go so far as to do something**  "做某事到如此地步" 或者 "做某事如此极端"。它表示某人或某事在行动上达到了一个极端或极为不寻常的程度。
   - "He went so far as to sell all his possessions to fund his startup."（他甚至卖掉了所有财产来为他的创业公司提供资金。）
 - **"Somehow to organize"** 可以解释为以某种方式来组织或安排事物。它表示在面临一些困难或不确定的情况下，寻找方法或策略来进行组织或安排。
-- **I have a proposition for you** 我有个建议给你
+-  **I have a proposition for you** 我有个建议给你
 - **second-in-command**副手
-- **"demonize sb"**   "妖魔化某人"
+- **"demonize sb"**  /ˈdiːmənaɪz/ "妖魔化某人"
   - demonize them in the media 用媒体将他们妖魔化
 - **get rid of all**"摆脱全部  清除所有" 
 - **"Put all of sb/sth in"** can be translated as "将某人/某物全部放入"
-  - "Put all of the ingredients in the mixing bowl." (将所有的配料全部放入搅拌碗中。)
+  - "Put all of the ingredients/ɪnˈɡriːdiənts/ in the mixing bowl." (将所有的配料全部放入搅拌碗中。)
   - "He put all of his savings in the investment." (他将他所有的储蓄全部投入到投资中。)
 - **"come out of nowhere"** 的意思是 "突然出现" 或者 "出现得出乎意料"。它用于描述某事或某人在没有明显迹象或预兆的情况下突然出现或发生。
   - "The thunderstorm **came out of nowhere** and caught us by surprise."（那场雷雨突然而来，让我们感到措手不及。）
-- stop at the/that **stop sign** 在（那个）**停车标记**停下来
+- stop at the/that **stop sign**/saɪn/ 在（那个）**停车标记**停下来
 - **have** our insurance companies **take care of** it
   - "take care of sth/sb" 的意思是 "照顾某事/某人" 或者 "照料某事/某人"。这个短语通常用来描述关心、保护、管理或负责某事物或某人的行为。在这里可翻译为**“处理”**
   - **"have sb do sth**" 表示让某人做某事，即委托或要求某人执行特定的任务或行动。
@@ -81,19 +81,19 @@
 - **"I don't see how"** 这个表达常用于表示对某件事或某种情况感到困惑、不理解或无法理解。翻译为 "我不明白怎么" 或者 "我不理解如何"、“我可不这么认为”
   - "I don't see how she managed to solve that complex problem so quickly."（我不明白她是怎么那么快解决那个复杂的问题的。）
 - "**License to fart**" 可以理解为 "放屁许可证"。这个表达通常是一种幽默或戏谑的说法，用于形容某人好像拥有一种特殊的权力或许可来随意放屁。
-- "**you are just miming**" 可以理解为 "你只是在装模作样" 或者 "你只是在假装"。这句话暗指对方没有真正的行动或表现，只是在做出虚假的姿态或表演。
+- "**you are just miming**" 可以理解为 "你只是在装模作样" 或者 "你只是在假装"。这句话暗指对方没有真正的行动或表现，只是在做出虚假的姿态或表演。（mime 的现在分词）
 - "that's my **personality**" 的意思是 "那就是我的**个性**"。这句话表示对方认为自己的行为、态度或特质是与自己的个性相关的，并认为这是他们本身的特点或风格。
 - "**mess with someone**" 是一个习语，意思是 "**捉弄某人**"、"戏弄某人" 或者 "招惹某人"。它通常指的是对某人进行恶作剧、开玩笑或不友好的行为。
-  - "I wouldn't **mess with him** if I were you. He has a short temper."（如果我是你的话，我不会招惹他。他脾气很短暂。）
+  - "I wouldn't **mess with him** if I were you. He has a short temper."（如果我是你的话，我不会招惹他。他脾气暴躁。）
   - I was messing with you "我是在和你开玩笑" 或者 "我是在逗你玩"
 - "**take off and flee the scene**" 的意思是 "**迅速离开并逃离现场**"。这个短语通常用于描述某人在某种情况下突然离开并急忙逃离现场。车祸情况也可翻译为**“肇事逃逸**”
   - "The thief took off and fled the scene when he heard the sirens approaching."（当小偷听到警笛声靠近时，他迅速逃离现场。）
-- **It's obviously not** the time or the place 显然现在或这个地方不合适
-- **"Chill up my spine**" 这个表达形容一种不寻常的感觉或情绪，通常是指一种令人不安或恐惧的感觉。它指的是一股寒意或毛骨悚然的感觉沿着脊柱升起。
+- **It's obviously**/ˈɑːbviəsli/ **not** the time or the place 显然现在或这个地方不合适
+- **"Chill up my spine**"/spaɪn/ 这个表达形容一种不寻常的感觉或情绪，通常是指一种令人不安或恐惧的感觉。它指的是一股寒意或毛骨悚然的感觉沿着脊柱升起。
   - "When I heard the ghostly whisper in the dark, a chill ran up my spine."（当我在黑暗中听到幽灵般的耳语声时，一阵寒意沿着我的脊柱升起。）
-- "**Official laminated**" 意思是 "官方的层压" "**官方授权**"或者 "正式的覆膜"。这个短语通常用于描述某种文件、证件或标识经过层压处理，以提高其质量、保护其内容，并使其具有官方或正式的外观。
-  - 例如："I received an official laminated ID card from the government."（我收到了一张官方的层压身份证，来自政府。）
-- **"sociopath"** 的中文翻译是 "反社会人格" 或 "反社会性人格障碍者"。
+- "**Official laminated**"/[ˈlæmɪneɪtɪd/ 意思是 "官方的层压" "**官方授权**"或者 "正式的覆膜"。这个短语通常用于描述某种文件、证件或标识经过层压处理，以提高其质量、保护其内容，并使其具有官方或正式的外观。
+  - "I received an official laminated ID card from the government."（我收到了一张官方的层压身份证，来自政府。）
+- **"sociopath"** [ˈsoʊsioʊpæθ]的中文翻译是 "反社会人格" 或 "反社会性人格障碍者"。
 - **"Here's the deal"** 是一个常用的口语表达，意思是 "这是情况"、"这是交易" 或者 "这是安排"。它用于引入或概括即将被解释或提议的情况、交易或安排。
   - "Here's the deal: If you help me with this project, I'll give you a share of the profits."（这是情况：如果你帮我完成这个项目，我会给你一部分利润。）
 - **"run out of"** 是一个常用的短语，意思是 "耗尽"、"用完" 或者 "没有了"。它用于描述某物的数量或供应已经消耗完，不再可用。
@@ -107,22 +107,22 @@
 - "**pssh"** 是一种口语表达，通常用于表示不屑、轻视、嘲弄或表示不相信的情绪。它的含义可以根据语境和语气而有所变化。这个词并没有一个确切的中文翻译，但可以使用类似的表达来传达类似的情感，例如"嘿"、"呸"、"哈"、"嗯"等。
 - **"give sth out"** 指的是分发、分发物品或发放某物。它表示将某物分发给一群人或多个接收者。
   - "They gave out free samples of the new product."（他们发放了新产品的免费样品。）
-- "straight up legits real" 是一种非正式的口语表达，常用于强调某物或某人是真实、真正或合法的。它传达的意思是某事物或某人是真实的、可信的、合法的或没有欺骗性质的。
+- "straight up legits/lɪˈdʒɪt/ real" 是一种非正式的口语表达，常用于强调某物或某人是真实、真正或合法的。它传达的意思是某事物或某人是真实的、可信的、合法的或没有欺骗性质的。
   - "It's totally legit."（它完全合法。）
-- **"Stay fit and conscientious**" 的意思是 "保持身体健康和有责任心"。
+- **"Stay fit and conscientious**"/ˌkɑːnʃiˈenʃəs/ 的意思是 "保持身体健康和有责任心"。
 - **ask sb for assistance** 向某人求助    **"apparently**" 的意思是 "显然"、"显而易见地" 或者 "据说"
-- **"fiduciary crisis"** 的翻译可以是 "受托人危机" 或 "信贷危机"。
+- **"fiduciary crisis"** /fɪˈdjuːʃəriˌ/的翻译可以是 "信用危机" 或 "信贷危机"。
 - "**languish**" 的意思是 "衰弱"、"枯萎" 或 "失去活力"。它可以表示身体、情感或事物的状态出现衰退、凋落或无生气的情况。
-  - "The plant languished in the dry soil."（植物在干燥的土壤中枯萎了。）
+  - "The plant languished in the dry[draɪ] soil."（植物在干燥的土壤中枯萎了。）
   - my wife is languishing in the hospitial 我妻子在医院里病得很重。
 - "get eyeball replacement surgery" 意思是 "接受眼球替换手术"。
-- make sb a **full-fledged** astronaut 使某人成为一名全面合格的宇航员。
+- make sb a **full-fledged** astronaut/ ˈæstrənɔːt/使某人成为一名全面合格的宇航员。
   - "full-fledged" 意思是 "完全成熟"、"完全发展" 或 "具备完整资格"。这个词常用来描述某人或某事物已经达到其所需的全部要求、能力或条件。
   - "After completing her education and training, she became a full-fledged doctor."（在完成教育和培训后，她成为了一名合格的医生。）
-- **"translucent"** 指的是**透明度较高**的，可以透过一些光线或影像的物体或材料。它与完全透明和完全不透明之间的程度相关。
+- **"translucent"** /trænzˈluːs(ə)nt/指的是**透明度较高**的，可以透过一些光线或影像的物体或材料。它与完全透明和完全不透明之间的程度相关。
   - 透明玻璃（translucent glass）：它可以让光线透过，但并不完全清晰。
   - 透明塑料薄膜（translucent plastic film）：它可以透光，但并不完全透明。
-  - 透明液体（translucent liquid）：它在透光时可能会显示出某种程度的模糊效果。
+  - 透明液体（translucent liquid）/lɪkwɪd/：它在透光时可能会显示出某种程度的模糊效果。
 - sb had gotten dust in sb's lungs 某人的肺部进入了灰尘。
 - "what's the chance of it?" 的意思是 "它的可能性有多大？" "这是什么概率“
 - **take  a look** 看一看，看一下
@@ -130,15 +130,15 @@
 - **lip-read**进行唇读
   - "I couldn't hear what she was saying, so I tried to lip-read to understand her better."（我听不清她在说什么，所以我尝试通过唇读来更好地理解她。）
 - **In that dress**可以表示对某人穿着的评论、观察或描述。具体来说，这句话可能是在谈论某人在某种特定的连衣裙里的外貌或外观。
-  - "She looked stunning in that dress."（她穿着那件连衣裙看起来很漂亮。）
+  - "She looked stunning/ˈstʌnɪŋ/ in that dress."（她穿着那件连衣裙看起来很漂亮。）
 - honeysuckle 金银花
 - **"Follow someone's lead"** 表示跟随某人的引导或榜样。这句话用于表示愿意跟随某人的指导、决策或行动，认为该人具有权威或经验，值得他人效仿。
   - "I trust John's judgment, so I'll follow his lead on this project."（我信任约翰的判断力，所以在这个项目上我会跟随他的引导。）
 - "**Heavy-handed with something**" 表示对某事物过度或粗暴地处理，通常指某人在处理问题、表达意见或施加控制时采取了过度强硬或不灵活的方式。
-  - "The teacher was heavy-handed with the discipline, giving severe punishments for minor infractions."（老师在纪律方面过于严厉，对于轻微的违规行为给予严厉的惩罚。）
+  - "The teacher was heavy-handed with the discipline, giving severe punishments for minor/ˈmaɪnər/ infractions."（老师在纪律方面过于严厉，对于轻微的违规行为给予严厉的惩罚。）
 - **mountain creek** 山泉小溪
 - **"Simply refreshing"** 表示某物或某事物非常简单，但给人一种令人耳目一新的感觉或体验。这个短语常用于描述事物的简洁和清新之处，使人感到舒适、愉悦或焕然一新。
-  - "The minimalist design of the room is simply refreshing."（房间的简约设计非常令人耳目一新。）
+  - "The **minimalist**/ˈmɪnɪməlɪst/ design of the room is simply refreshing."（房间的**简约**设计非常令人耳目一新。）
 - **Spring thaw（"春天解冻"）**指的是春季时期冻结的水，如雪或冰开始融化并转化为液态的过程。
 - The way that...（那样的方式，或以那种方式）
   - "The way that she handled the situation was admirable."（她处理这个情况的方式令人钦佩。）
@@ -149,26 +149,26 @@
   - **弹出、挤出或脱落**：这表示某物从原来的位置或容器中迅速弹出、挤出或脱落。例如：
     - "The button on my shirt popped out and needs to be sewn back."（我衬衫上的纽扣弹了出来，需要重新缝合。）
     - "The cork from the champagne bottle popped out with a loud noise."（香槟瓶塞发出巨响地弹了出来。）
-- **"That's verbatim"** 的意思是 **"完全一字不差"** 或 "逐字逐句地"。如果某人说 "That's verbatim"，他们可能在强调他们所说的内容与原文或先前的陈述之间的准确一致性。这表明他们没有进行解释、改变或概括，而是直接使用了原文的措辞。
+- **"That's verbatim"**[vɜːrˈbeɪtɪm] 的意思是 **"完全一字不差"** 或 "逐字逐句地"。如果某人说 "That's verbatim"，他们可能在强调他们所说的内容与原文或先前的陈述之间的准确一致性。这表明他们没有进行解释、改变或概括，而是直接使用了原文的措辞。
   - "He repeated the statement verbatim, without adding or removing any words."（他逐字重复了这个陈述，没有增加或删减任何词语。）
   - "I copied the email verbatim in my report to ensure accuracy."（我在报告中逐字复制了电子邮件，以确保准确性。）
 - **"No words altogether"** 可以解释为 "完全**没有话可说**" 或 "一言不发"。**这个短语通常用于表达某人因为震惊、惊讶、困惑或沉默而无法说话的状态**。它可以暗示情感上的无法言表、思绪混乱或意外的情况。
   - "When he saw the surprise proposal, he was speechless and had no words altogether."（当他看到那个令人惊喜的求婚场景时，他目瞪口呆，一言不发。）
 - What the hell was that?那是什么鬼东西？
-- "Shake your tail feathers" 是一个俚语表达，意思是开始跳舞、动起来或展示你的活力和自信。
+- "Shake your tail feathers" /ˈfeðər]是一个俚语表达，意思是开始跳舞、动起来或展示你的活力和自信。
 - **chase sb away**意味着追赶某人离开，通常指通过言行或行为导致某人离开或逃离某个地方或情境。
   - 请注意，**这个短语通常表示某人的行为导致他人离开，而不一定涉及实际的追赶动作。**具体解释取决于上下文和情境。
   - "The aggressive behavior of the dog chased the children away from the park."（那只狗的攻击性行为使孩子们离开了公园。）
-  - "The security guard chased the trespassers away from the private property."（保安把闯入者赶离了私人财产。）
+  - "The security guard chased the **trespassers**/ˈtrespæsər/ away from the private property."（保安把闯入者赶离了私人财产。）
 - **stay away from sb** 远离某人
 - **"You got to be subtle"** 是一种表达，意思是 "你必须要细腻/巧妙"。它强调在某种行为、表达或处理方式中需要运用细腻、巧妙或不显眼的技巧。
   - "When asking for a raise, you **have to be subtle** and highlight your accomplishments."（当要求加薪时，你必须细腻地强调你的成就。）
 - **"On the issue of..."** 意思是**关于...的问题**，用于引入对特定问题或主题的讨论。它指的是在讨论、评估或探讨某个特定问题时，提出相关观点、讨论或解决方案。
-  - "There is a heated debate **on the issue of legitimacy** surrounding the recent election."（最近的选举在合法性问题上引发了激烈的辩论。）
-  - "**On the issue of climate change**, there are diverging opinions on the causes and appropriate solutions."（在气候变化问题上，对于其原因和适当的解决方案存在不同的观点。）
+  - "There is a heated debate **on the issue of legitimacy**[lɪˈdʒɪtɪməsi] surrounding the recent election."（最近的选举在合法性问题上引发了激烈的辩论。）
+  - "**On the issue of climate change**, there are **diverging**[dɪˈvɜːrdʒɪŋ] opinions on the causes and appropriate solutions."（在气候变化问题上，对于其原因和适当的解决方案存在不同的观点。）
   - "**On the issue of education reform**, policymakers are considering various strategies to improve student outcomes."（在教育改革问题上，决策者正在考虑各种策略以提高学生的学习成果。）
 - **"crescendoing"** 指的是在音乐或其他领域中音量、强度或力量逐渐增强的过程。它表示某种声音、动作、情绪或活动逐渐变得更强烈或更显著。
-  - "The music was crescendoing in this symphony, reaching its peak of intensity."（在这支交响乐中，音乐逐渐增强，达到了强度的顶峰。）
+  - "The music was crescendoing in this symphony/ˈsɪmfəni/, reaching its peak of intensity."（在这支交响乐中，音乐逐渐增强，达到了强度的顶峰。）
 - "**This is going to be our right here"** 可以表示对某个地点或位置的占有权、归属权或所有权的主张。它可以指示某个地方将成为我们的专属领域、归属地或个人领域。
   - "After years of hard work, this house is going to be our right here."（经过多年的努力，这所房子将成为我们的归宿。）
 - "Get music jams going up" 意思是开始或启动音乐演奏或音乐创作的活动。
@@ -184,8 +184,8 @@
 - **admit sth**承认做某事
 - That's **ridiculous**.这真荒谬。请注意，这句话可以根据上下文和语气的不同，表达出不同程度的不满、嘲笑或批评。
 - "Make up something" 可以指编造、创作或构思某个事物。它表示虚构或创造一个新的事物、概念、故事或解释。
-  - "She likes to **make up** stories to entertain her friends."（她喜欢编造故事来取悦她的朋友。）
-  - "The author **made up** a fictional world for her novel."（作者为她的小说构思了一个虚构的世界。）
+  - "She likes to **make up** stories to entertain/ˌentərˈteɪn/ her friends."（她喜欢编造故事来取悦她的朋友。）
+  - "The author **made up** a fictional world for her novel."/ˈnɑːv(ə)l/（作者为她的小说构思了一个虚构的世界。）
   - "He had to **make up** an excuse for being late."（他不得不编造一个迟到的借口。）
 - "**seems like**" 表示某事物或情况看起来或似乎是某种方式。它常用于表达主观的观察、感受或推测。
   - "It seems like it's going to rain later."（看起来晚些时候会下雨。）
@@ -221,7 +221,7 @@
   - "She acted like a detective, carefully examining the evidence."（她表现得像个侦探，仔细检查证据。）
   - "You need to act like a professional during the job interview."（在面试中，你需要表现得像个专业人士。）
   - "She acts like she's happy, but I can sense that something is wrong."（她假装快乐，但我能感觉到有些不对劲。）
-- "**Mess with**" 可以指**故意干扰、扰乱或打乱某事物的正常状态**。还可以表示与**某人或某事有关联、打交道或纠缠。**
+-  "**Mess with**" 可以指**故意干扰、扰乱或打乱某事物的正常状态**。还可以表示与**某人或某事有关联、打交道或纠缠。**
   - "Don't mess with my computer settings; they're working just fine."（不要搞乱我的电脑设置；它们正常运行。）
   - "I don't want to mess with that guy; he's trouble."（我不想与那个人打交道；他很麻烦。）
   - "Why are you messing with my personal life? It's none of your business."（你为什么干涉我的个人生活？那不关你的事。）
@@ -238,19 +238,19 @@
   - "best comic book adaptation to film" 可以翻译为 "最佳的漫画改编电影"。
 - "**hand down**" 可以指将某物传承或传递给下一代或后继者。
   - "He handed down his grandfather's watch to his son."（他把他祖父的手表传给了他的儿子。）
-  - "The tradition of storytelling has been handed down through generations."（讲故事的传统代代相传。）
+  - "The tradition of storytelling has been **handed down through generations.**"（讲故事的传统**代代相传**。）
 - "**No argument**" 是一个常用的表达，表示没有异议、没有争论或没有反驳。
   - "The facts are clear; there is no argument about what happened."（事实清楚明了，关于发生了什么没有任何争论。）
-- "**in the minority**" 表示处于少数派、占少数或意见不被多数人接受。
+- "**in the minority**"[maɪˈnɔːrəti] 表示处于少数派、占少数或意见不被多数人接受。
   - "Most people prefer the beach, but I'm in the minority; I prefer the mountains."（大多数人喜欢海滩，但我是少数派，我更喜欢山区。）
   - "In the debate, his opinion was in the minority, as most people disagreed with him."（在辩论中，他的观点是少数派，大多数人不同意他。）
-  - "Although her ideas were innovative, she found herself in the minority among her colleagues."（尽管她的想法很创新，但在同事中她发现自己是少数派。）
+  - "Although her ideas were innovative/ˈɪnəveɪtɪv/, she found herself in the minority among her colleagues."（尽管她的想法很创新，但在同事中她发现自己是少数派。）
 - "**sth/sb be overrated**" 表示某物或某人被高估、被评价得过高。
   - "I think that movie is overrated; the plot was predictable and the acting wasn't impressive."（我认为那部电影被高估了，剧情很可预测，演技也不令人印象深刻。）
-- **That's why I prefaced it**"那就是为什么我提前说明了" 可以表达在之前有所预先说明或解释的意思。
+- **That's why I prefaced**[ˈprefəst] **it**"那就是为什么我提前说明了" 可以表达在之前有所预先说明或解释的意思。
   - "That's why I prefaced it with the fact that I'm not an expert in this field."（那就是为什么我提前说明了我不是这个领域的专家。）
 - "**Awkward**" 是一个常见的表达，用来形容尴尬、尴尬的或不自然的情况。
-  - "It was really awkward when I accidentally bumped into my ex at the party."（当我在派对上不小心撞到我的前任时，感觉非常尴尬。）
+  - "It was really awkward when I accidentally **bumped into** my ex at the party."（当我在派对上不小心**撞到**我的前任时，感觉非常尴尬。）
 - **"at least not until"** 可以理解为 "至少在...之前不会" 或 "至少在...之前没有"。
   - "I won't be able to meet you for lunch, at least not until 2 PM."（我不能和你在午餐时间见面，至少在下午2点之前不行。）
 - "**follow it up**" 可以理解为 "跟进"、"继续" 或 "追踪"。
@@ -266,137 +266,143 @@
 - "**Just off the top of your head**" 用来表示在即兴或随意的情况下，凭借直觉或没有事先准备的思考。强调没有事先准备或仔细思考的情况下，给出即时的回答或观点。
   - "Can you name a few countries in Asia, just off the top of your head?"（你能随口说出几个亚洲国家的名字吗？）
 - "**adore the place**" 可以翻译为 "喜爱这个地方" 或 "非常喜欢这个地方"。
-  - "I absolutely adore the place. The architecture and atmosphere are amazing."（我非常喜爱这个地方。建筑和氛围都很棒。）
+  - "I absolutely[ˌæbsəˈluːtli] adore the place. The architecture and atmosphere are amazing."（我非常喜爱这个地方。建筑和氛围都很棒。）
 - "**untouched tribes**" 可以翻译"原始部落"。
   - "The few untouched tribes left in the world are facing increasing pressures from external influences and modernization."（世界上剩下的少数未接触部落正面临着来自外界影响和现代化的日益增加的压力。）
   - "The few untouched tribes left" 可以翻译为 "剩下的少数原始部落"。
 - "While we're on the subject" 是一个常用的表达，用来表示在谈论某个特定主题时，提出一个相关的问题、观点或话题。
   - "While we're on the subject of travel, have you ever been to Asia?"（既然我们正在谈论旅行，你去过亚洲吗？）
-- "I have got **something of a confession to make**" 可以翻译为 "我有一点要坦白的事情" 或 "我有一点要忏悔的事情"。
+- "I have got **something of a confession**[kənˈfeʃ(ə)n] **to make**" 可以翻译为 "我有一点要坦白的事情" 或 "我有一点要忏悔的事情"。
   - "I have got something of **a confession** to make. I haven't been entirely honest with you."（我有一点要坦白的事情。我对你并不完全诚实。）
   - "I have something of a confession to make. I accidentally broke your favorite mug."（我有一点要坦白的事情。我不小心打破了你最喜欢的杯子。）
 - "**catch the attention of sb**" 可以翻译为 "引起某人的注意"。
   - "Her unique artwork caught the attention of art collectors around the world."（她独特的艺术作品引起了全球艺术收藏家的注意。）
   - "The bright colors and unique design of the advertisement caught the attention of many potential customers."（广告的鲜艳颜色和独特设计引起了许多潜在客户的注意。）
 - "sophisticated superman of sorts" 可以翻译为 "某种程度上的精明超人" 或 "某种程度上的高明超人"。
-  - "He's a sophisticated superman of sorts, excelling in both academics and athletics."（他在某种程度上是一位精明的超人，在学术和体育方面都表现出色。）
+  - "He's a sophisticated superman of sorts, excelling in both academics[ˌækəˈdemɪks] and athletics.[æθˈletɪks]"（他在某种程度上是一位精明的超人，在学术和体育方面都表现出色。）
 - "**develop something of a liking to sb**" 可以翻译为 "开始对某人产生一些喜欢" 或 "对某人开始产生一些好感"。
   - "Over time, she developed something of a liking to her new coworker."（随着时间的推移，她开始对她的新同事产生了一些喜欢。）
 - "**Isn't that always the way**?" 可以翻译为 "这不就是常事吗？" 或者 "这就是常态吧？"。
-  - "You work hard and put in extra effort, but things still don't go your way. Isn't that always the way?"（你努力工作并付出额外的努力，但事情仍然不尽如人意。这不就是常事吗？）
+  - "You work hard and put in extra[ˈekstrə] effort, but things still don't go your way. Isn't that always the way?"（你努力工作并付出额外的努力，但事情仍然不尽如人意。这不就是常事吗？）
   - "You plan and prepare for something, but things often turn out differently. **Isn't that always the way in our life?"**（你计划和准备一些事情，但事情经常会出现意想不到的变化。这不就是我们生活中的常态吗？）
 - "It's quite awful" 可以翻译为 "这真是糟糕透了" 或 "这实在太糟糕了"。
   - "The situation we're facing right now is quite awful. We need to find a solution as soon as possible."（我们目前面临的局势真是糟糕透了。我们需要尽快找到解决办法。）
 - **come down to someplace** 去某地、来到某地
-  - "After the hike, we can all come down to my hut for some refreshments."（徒步旅行之后，我们可以一起到我的小屋来享用一些点心。）
+  - "After the hike[haɪk], we can all come down to my hut for some refreshments."（徒步旅行之后，我们可以一起到我的小屋来享用一些点心。）
   - "Come down to the beach with us."（和我们一起去海滩吧。）
   - "Why don't you come down to the restaurant for dinner?"（你为什么不到餐厅来吃晚餐呢？）
   - "I'm going to come down to your office later."（我稍后会到你的办公室去。）
-- "fertility headdress" 可以翻译为 "生育头饰"。
+- "fertility[fərˈtɪləti] headdress" 可以翻译为 "生育头饰"。
   - "The women in the tribe wore beautiful fertility headdresses during the harvest festival."（部落的妇女在丰收节期间戴着美丽的生育头饰。）
 - "**participate in the custom**" 可以翻译为 "参与习俗/风俗活动" 或 "入乡随俗"。
   - "During the festival, tourists have the opportunity to participate in the local customs and traditions."（在节日期间，游客有机会参与当地的风俗和传统活动。）
 - "morally irresponsible" 可以翻译为 "道德上不负责任"。
   - "It is morally irresponsible to ignore the needs of the less fortunate in society."（无视社会上弱势群体的需求是道德上不负责任的。）
 - "social structure" 可以翻译为 "社会结构"。
-  - "The social structure of the ancient civilization was hierarchical, with distinct classes and roles."（古代文明的社会结构是有层级的，存在明确的阶级和角色。）
-- "fell so terrible about it" 可以翻译为 "对此感到非常糟糕" 或 "对此感到非常难过"。
+  - "The social structure of the ancient civilization was **hierarchical**[**ˌ**haɪəˈrɑːrkɪkl], with distinct classes and roles."（古代文明的社会结构是有层级的，存在明确的阶级和角色。）
+
+- "fell so terrible about sth" 可以翻译为 "对某事感到非常糟糕" 或 "对某事感到非常难过"。
   - "She felt so terrible about her mistake that she couldn't sleep at night."（她对自己的错误感到非常糟糕，晚上无法入睡。）
 - "Do tell" 表达了对对方所说的事情感兴趣并希望得到详细的信息。可以翻译为 "说吧" 或 "请告诉我"。
 - "**pack sth in.**.." 可以翻译为 "将某物打包进..." 或 "把某物装入..."。
   - "I need to pack my clothes in the suitcase before our trip."（在旅行前，我需要把衣物打包进行李箱。）
-  - "I always make sure to pack a **lighter** in my **satchel**[saCHəl] when I go hiking."（当我去远足时，我总是确保在我的**背包**里放一个**打火机**。）
+  - "I always make sure to pack a **lighter** in my **satchel** when I go hiking."（当我去远足时，我总是确保在我的**背包**里放一个**打火机**。）
 - **"absent-mindedly"** 描述了一个人在思维或注意力上不集中、心神不定的状态。可以翻译为 "心不在焉地" 或 "恍神地"。
   - "She absent-mindedly left her keys on the kitchen counter."（她心不在焉地把钥匙放在了厨房的台面上。）
 - "lit the flint" 可以翻译为 "点燃打火石" 或 "用打火石点火"。
   - "He lit the flint and started a fire to keep warm."（他点燃了打火石，点燃了火以保暖。）
 - "**take sb for ...**" 可以翻译为 "把某人当作..." 或 "**认为某人是..**."。
   - "Don't take me for a fool. I know what you're up to."（不要把我当傻瓜。我知道你在搞什么。）
-- **sb be up to**表示某人正在做某事，或某人有意或打算做某事。这个短语通常用来描述某人的行为、计划或意图。
-
+- **sb be up to** 表示某人正在做某事，或某人有意或打算做某事。这个短语通常用来描述某人的行为、计划或意图。
   - "I wonder what John is up to these days."（我想知道约翰最近在忙什么。）
-
   - "She's up to something, but I'm not sure what it is."（她正在策划某件事情，但我不确定是什么。）
-
-  - "They're up to no good. I can sense it."（他们在搞糟糕的事情。我能感觉到。）
+  - "They're up to no good. I can sense[sens] it."（他们在搞糟糕的事情。我能感觉到。）
 - "Every sundown" 可以翻译为 "每个日落时刻"。"Every sunrise" 可以翻译为 "每个日出时刻"。
 - only imagine in some vivid detail 只能在脑海中生动地想象一些细节。
-  - She could only imagine in some vivid detail what it would be like to explore the ancient ruins of the lost city. （她只能以一些生动细节来想象探索失落城市的古代遗迹是什么样子。)
+  - She could only imagine in some vivid detail what it would be like to explore the ancient[ˈeɪnʃənt] ruins of the lost city. （她只能以一些生动细节来想象探索失落城市的古代遗迹是什么样子。)
 - "**One thing you must do is..."** 是一个表达建议或强调重要性的句子结构。它用来引出一项重要的任务、行动或建议，强调这件事情的必要性或重要性。
-  - "One thing you must do is prioritize your health and well-being."（你必须做的一件事是优先考虑你的健康和幸福。）
+  - "One thing you must do is **prioritize**[praɪˈɔːrətaɪz] your health and **well-being**."（你必须做的一件事是优先考虑你的健康和**幸福**。）
 - "**adhere to...**" 可以翻译为 "遵守..."、"坚持..." 或 "奉行..."。
-  - "It is important to adhere to ethical principles in all aspects of life."（在生活的各个方面遵守道德原则是非常重要的。）
-- **"the least one can do**" 可以翻译为 "至少能做到的" 或 "最起码可以做到的"。
+  - "It is important to adhere to **ethical[**ˈeθɪk(ə)l] **principles**[ˈprɪnsəp(ə)lz] **in all aspects of** life."（在生活的各个方面遵守道德原则是非常重要的。）
+- **"the least**[liːst] **one can do**" 可以翻译为 "至少能做到的" 或 "最起码可以做到的"。
   - "After all the help he provided, the least I can do is say thank you."（在他提供的所有帮助之后，我最起码可以做的是说声谢谢。）
+  - **Donning**[dɑn] a smoking jacket and **bow tie** seems the least one can do. **身穿**一件便服，戴一个**领结**似乎是最起码的了
+  - Still, if they do, at least the executives[ɪɡˈzekjətɪvz] can point out that their fun was paid for by the British[ˈbrɪtɪʃ], and cost America not one penny.[ˈpeni]  然而，如果国内知道了，至少管理层可以指出这些游客的玩乐费用是由英国买单，没有花美国一个便士。
 - "**It's getting harder and harder to...**" 可以理解为“越来越难以...”。
-  - "It's getting harder and harder to find affordable housing in the city."（在城市里找到负担得起的住房变得越来越困难。）
-- **"influence of"** 可以翻译为 "受到影响" 或 "在...的影响下"。
+  - "It's getting harder and harder to find affordable[əˈfɔːrdəb(ə)l] housing in the city."（在城市里找到负担得起的住房变得越来越困难。）
+- **"in the influence of"** 可以翻译为 "受到影响" 或 "在...的影响下"。
   - "She made that decision in the influence of her friends."（她在朋友的影响下做出了那个决定。）
 - I know exactly what you mean 我完全明白你的意思。
 - "**deep in**" 可以翻译为 "深陷于"、"沉浸于" 或 "专注于"。
   - "He is deep in thought and didn't notice me entering the room."（他陷入沉思，没有注意到我进入房间。）
 - "**end up deep in**" 的翻译可能是 "最终深陷于" 或 "最终陷入了深渊"。
-  - "He made some poor decisions and ended up deep in debt."（他做出了一些糟糕的决定，最终陷入了深深的债务之中。）
+  - "He made some poor decisions and ended up deep in debt.[det]"（他做出了一些糟糕的决定，最终陷入了深深的债务之中。）
 - "**off to"** 可以翻译为 "去"、"出发去" 或 "前往"。
-  - "I'm off to the grocery store to buy some food."（我去杂货店买些食物。）
-- "**beseech**[bəˈsēCH] **sb for**" 表示向某人恳求或乞求某事。
-  - "He beseeched her for forgiveness, pleading with her to give him another chance."（他乞求她原谅，恳求她给他另一次机会。）
-  - We beseech you for the **disenfranchised**, the less fortunate and those that suffer.（我们为那些被剥夺公民权的人(被掠夺的)、不幸的人和受苦的人祈求你。）
+  - "I'm off to the grocery[ˈɡroʊsəri] store to buy some food."（我去杂货店买些食物。）
+- **"beseech**[bɪˈsiːtʃ] **sb for"** 表示向某人恳求或乞求某事。
+  - "He beseeched her for forgiveness[fərˈɡɪvnəs], pleading with her to give him another chance."（他乞求她原谅，恳求她给他另一次机会。）
+  - We beseech you for the **disenfranchised**[ˌdɪsɪnˈfræntʃaɪzd], the less fortunate and those that suffer.（我们为那些被剥夺公民权的人(被掠夺的)、不幸的人和受苦的人祈求你。）
+- **plead with**恳求，请求：向某人提出强烈要求或恳求，希望对方同意或接受。
+  - They will plead with him to **pull back** from confrontation[ˌkɑːnfrənˈteɪʃn].  他们会恳求他不要再对抗下去。
 - "Show us your will" 可以解释为请求或要求某人展示他们的意愿或决心。
-  - "If you're serious about joining the team, show us your will by putting in the effort and dedication."（如果你真的想加入这个团队，通过付出努力和奉献展示你的意愿。）
-- "Just want to **clarify"** 强调了对之前提到的事情的理解不清或有疑问，并希望进一步明确。具体的翻译和解释可能会因上下文和表达的需求而有所不同。可以翻译为 "只是想澄清"、"只是想弄清楚" 或 "只是想明确一下"。
+  - "If you're serious about joining[ˈdʒɔɪnɪŋ] the team, show us your will by putting in the effort[ˈefərt] and dedication."（如果你真的想加入这个团队，通过付出努力和奉献展示你的意愿。）
+- "Just want to clarify" 强调了对之前提到的事情的理解不清或有疑问，并希望进一步明确。具体的翻译和解释可能会因上下文和表达的需求而有所不同。可以翻译为 "只是想澄清"、"只是想弄清楚" 或 "只是想明确一下"。
   - "Just want to clarify, are we meeting at 5 PM or 6 PM?"（只是想明确一下，我们是在下午5点还是下午6点见面？）
-- "**Rid yourself of** all earthly possessions" 可以翻译为 "摆脱一切尘世的财物" 或 "舍弃一切世俗的财产"。这个短语通常用于指摆脱世俗财物的概念，暗示放下物质欲望，追求更高层次的精神或内在的满足。
-  - "The monk decided to embrace a life of simplicity and rid himself of all earthly possessions."（那位僧侣决定过上简朴的生活，舍弃一切世俗财产。）
+- "Rid oneself of all earthly possessions[pəˈzeʃnz]" 可以翻译为 "摆脱一切尘世的财物" 或 "舍弃一切世俗的财产"。这个短语通常用于指摆脱世俗财物的概念，暗示放下物质欲望，追求更高层次的精神或内在的满足。
+  - "The monk[mʌŋk] decided to embrace a life of simplicity[sɪmˈplɪsəti] and rid himself of all earthly possessions."（那位僧侣决定过上简朴的生活，舍弃一切世俗财产。）
 - **insidious**潜伏的，隐袭的；阴险的，狡猾的【名】 （Insidious）《潜伏》（电影名）通常用于形容某个事物具有隐蔽或阴险的性质，指其在表面下暗中产生负面影响或具有潜在的危险。
   - "The insidious nature of gossip can slowly destroy relationships."（流言蜚语的阴险性质可以逐渐破坏人际关系。）
-- "investigate **the report of** a disturbance" 可以翻译为 "**调查**对**骚乱**的报告" 或 "调查扰乱事件的报告"。
+- "investigate **the report of** a disturbance" 可以翻译为 "调查对骚乱的报告" 或 "调查扰乱事件的报告"。
   - "The police were dispatched to investigate the report of a disturbance in the neighborhood."（警察接到调度，前往调查社区中的扰乱事件报告。）
 - "**be dispatched to**" 可以翻译为 "被派遣到"、"被调度到" 或 "被送往"。通常用于描述某人被派遣或调度到特定的地点、任务或事件。
-  - "The rescue team was dispatched to the scene of the accident immediately."（救援队立即被派遣到事故现场。）
+  - "The rescue team was dispatched to the scene[siːn] of the accident immediately."（救援队立即被派遣到事故现场。）
 - "**Freeze**!" 可以翻译为 "停下！"、"别动！" 或 "站住！"。
-  - "The police officer shouted, 'Freeze!' as he approached the suspect."（警察向嫌疑人走近时大喊：“停下！”）
+  - "The police officer shouted, 'Freeze!' as he approached the **suspect**.[səˈspekt]"（警察向嫌疑人走近时大喊：“停下！”）
 - **popsicle** 棒冰，冰棍    **rats**胡说，瞎扯   **chief**  adj. 首要的，主要的；为首的，首席的 n. **领袖，首领**；酋长；
 - "**a holiday for** sb" 可以翻译为 "为某人安排一个假期" 或 "给某人一个假期"。
-  - "We decided to plan a holiday for our parents as a token of appreciation for their hard work."（我们决定为父母安排一个假期，以感谢他们的辛勤工作。）
+  - "We decided to plan a holiday for our parents **as a token of a**ppreciation for their hard work."（我们决定为父母安排一个假期，以感谢他们的辛勤工作。）
+- **as a token of**作为......的象征：表示对某事物的尊重、感激或友谊的一种表示方式。
+  - They regard gifts as a token of friendship.  他们把礼物当作友谊的象征。
+  - As a token of good intent, they have agreed to start resettling[ˌriːˈsetlɪŋ] Arabs from Kirkuk. 为了表示善意，他们同意开始重新安置基尔库克的阿拉伯人。
 - **"sb be on a warpath**" 表示某人处于愤怒、决心或报复的状态，准备采取强硬行动。
   - "Watch out, she's on a warpath after finding out about the deception."（小心，她发现了欺骗行为后愤怒不已，准备采取行动。）
-  - Mayor's on a warpath! (市长要气炸了)
+  - Mayor's[ˈmeɪər] on a warpath! (市长要气炸了)
 - **"be responsible for"** 可以翻译为 "对...负责"、"承担...的责任" 或 "负责...的事务"。
   - "Who's responsible for this mess?" （谁对这个乱摊子负责?）
-  - "The project manager will determine who's responsible for this mess and take appropriate action."（项目经理将确定谁对这个混乱负责，并采取相应的行动。）
+  - "The project manager will determine who's responsible for this mess and take appropriate[əˈproʊpriət] action."（项目经理将确定谁对这个混乱负责，并采取相应的行动。）
+- "**Roger that**r[ˈrɑːdʒər]" 是一种表示理解和接受信息的口语表达，可以翻译为 "收到"、"明白" 或 "了解"。
 - **"be at capacity"** 可以翻译为 "达到容量上限"、"满员" 或 "达到最大限度"。
-  - "The theater is at capacity, and no more tickets **are available for** tonight's show."（剧院已经满员，今晚的演出没有更多门票可供出售。）
+  - "The theater is at capacity, and no more tickets **are available**[əˈveɪləb(ə)l] **for** tonight's show."（剧院已经满员，今晚的演出没有更多门票可供出售。）
 - **"be available for"** 可以翻译为 "可用于"、"可供...使用" 或 "对...可提供"。通常用于描述某物或某人可以被使用、利用或接受。
   - "The meeting room is available for booking tomorrow."（会议室明天可供预订。）
 - **"opulent"**[ˈɑːpjələnt] 是一个形容词，用于描述富裕、豪华、奢华的事物或环境。
-  - "The opulent mansion was adorned with chandeliers, marble floors, and intricate artwork."（那座奢华的豪宅装饰着枝形吊灯、大理石地板和精美的艺术品。）
+  - "The opulent mansion was adorned[əˈdɔːrn] with chandeliers*/ˌʃændɪˈlɪə/*, marble floors, and **intricate** [ˈɪntrɪkət] artwork."（那座奢华的豪宅装饰着枝形吊灯、大理石地板和精美的艺术品。）
 - **"binge drink for"** 通常表示为了某种目的或原因而过量饮酒。
-  - "Some individuals may binge drink for the purpose of socializing or coping with stress."（有些人可能会过量饮酒以社交或应对压力。）
+  - "Some individuals[ˌɪndɪˈvɪdʒuəlz] may binge drink for the purpose[ˈpɜːpəs] of socializing or coping with stress."（有些人可能会过量饮酒以社交或应对压力。）
   - **binge**   n. 狂欢作乐，大吃大喝  v.  放纵，大吃大喝
-- **"have made careers**" 表示某些人已经成功建立了自己的职业或事业。强调某些人在特定领域或行业中取得了职业成功。
-  - "They have made careers in the field of technology and innovation."（他们在科技和创新领域建立了自己的职业。）
+- **"have made careers***/kəˈrɪə/* " 表示某些人已经成功建立了自己的职业或事业。强调某些人在特定领域或行业中取得了职业成功。
+  - "They have made careers **in the field of** technology and innovation."（他们**在**科技和创新**领域**建立了自己的职业。）
   - "They have made careers **watching** wildlife and documenting their behavior."（他们通过观察野生动物并记录它们的行为而建立了职业。）
 - "**be paid more than..."** 强调某人获得比他人更高的薪酬或报酬。
-  - "He is paid more than his colleagues due to his higher level of experience and expertise."（由于他具有更高的经验和专业知识，他比同事们获得更高的薪酬。）
+  - "He is paid more than his colleagues[ˈkɑːliːɡz] due to his higher level of experience and expertise.[ˌekspɜːrˈtiːz]"（由于他具有更高的经验和专业知识，他比同事们获得更高的薪酬。）
 - "It seems as though" 可以翻译为 "看起来似乎"、"好像" 或 "仿佛"。
   - "It seems as though she is not interested in the project anymore."（看起来她对这个项目不再感兴趣了。）
-- **millionaire** /ˌmɪl.jəˈner/富豪，百万富翁          **rapist** 强奸犯   **drug addict**吸毒者,隐君子   **genetic freak**怪胎
-- "stop stalling with" 的翻译是 "停止拖延"、"别再敷衍了" 或 "别再耽搁了"。
+- **millionaire** /ˌmɪl.jəˈner/富豪，百万富翁          **rapist**[ˈreɪpɪst] 强奸犯   **drug addict**[ˈædɪkt]吸毒者,隐君子   **genetic**[dʒəˈnetɪk] **freak**[friːk]怪胎
+- "stop stalling[ˈstɔːlɪŋ] with" 的翻译是 "停止拖延"、"别再敷衍了" 或 "别再耽搁了"。
   - "Stop stalling with your excuses and get the work done!"（别再用借口拖延了，把工作做完！）
 - **"put sth into"** 可以根据具体情境翻译为 "将某物放入"、"投入" 或 "付出"。
   - "Put the groceries into the refrigerator."（把杂货放进冰箱里。）
   - "They put a lot of time and effort into organizing the event."（他们花费了很多时间和精力来组织这个活动。）
 - "**drop out"** 可以翻译为 "退出"、"退学" 或 "辍学"。
-  - "He decided to drop out of college and pursue his entrepreneurial ambitions."（他决定退学并追求自己的创业梦想。）
+  - "He decided to drop out of college and pursue his **entrepreneurial**[ˌɑːntrəprəˈnɜːriəl] ambitions."（他决定退学并追求自己的创业梦想。）
   - "She dropped out of high school to focus on her music career."（她辍学以便专注于她的音乐事业。）
 - "**inbound to**" 指的是向某个目的地或位置进入的方向或行进中。
   - "The flight is inbound to New York City."（这趟航班正飞往纽约市。）
 - "convicted **spousal**[ˈspaʊzlˌ] abuser" 可以翻译为 "被定罪的家暴者"。
 - **"slash through"** 可以翻译为 "划过"、"穿透" 或 "切割"。
-  - "He slashed through the thick vines with his **machete**.[məˈʃeti]"（他用他的砍刀划破了浓密的藤蔓。）
+  - "He slashed through the thick vines with his **machete**.[məˈʃ**e**ti]"（他用他的砍刀划破了浓密的藤蔓。）
   - "The bullet slashed through the air, hitting its target with precision."（子弹穿透空气，精准地击中了目标。）
-- **scam**     <非正式>欺诈，骗局   v. 欺诈，诓骗（钱财）
+- **scam** [skæm]    <非正式>欺诈，骗局   v. 欺诈，诓骗（钱财）
 - **pure nonsense**纯粹无稽之谈,胡说八道
   - "sb be going pure nonsense" 可以翻译为 "某人在说纯粹的胡话"、"某人在说一派胡言" 或 "某人在胡扯"。
   - "He was going on about some **conspiracy**[kənˈspɪrəsi] theory, but it was **pure nonsense**."（他在谈论某些**阴谋**论，但那**纯粹是一派胡言**。）
@@ -404,77 +410,79 @@
 - **"completely zone out"** 可以翻译为 "完全走神"、"彻底不专心" 或 "完全心不在焉"。
   - "I was so tired during the meeting that I completely zoned out."（在会议期间，我太累了，完全走神了。）
 - "**belittle sb**" 可以翻译为 "贬低某人"、"轻视某人" 或 "小看某人"。
-  - "He always belittles his colleagues, making them feel **inferior**."（他总是贬低他的同事，让他们感到自卑。）
+  - "He always belittles his colleagues, making them feel **inferior**[ɪnˈfɪriər]."（他总是贬低他的同事，让他们感到自卑。）
 - **"be mad at"** 是一个常见的短语，可以翻译为 "生气于"、"对...生气" 或 "对...发火"。
   - "She was mad at her friend for not keeping her promise."（她因为朋友没有遵守承诺而生她的气。）
   - "He's mad at me because I forgot his birthday."（他因为我忘记了他的生日而生我气。）
-  - "She was mad at her brother for breaking her favorite toy."（她因为哥哥把她最喜欢的玩具弄坏而生他气。）
 - "**on one's best behavior**" 可以翻译为 "表现得最好"、"举止端庄" 或 "规矩得体"。
   - "During the job interview, she was on her best behavior, answering questions confidently and professionally."（在工作面试中，她表现得很好，自信而专业地回答问题。）
-- "**be crucial to"** 可以翻译为 "对...至关重要"、"对...非常重要" 或 "对...具有关键作用"。
+- "**be crucial to (doing)"** 可以翻译为 "对...至关重要"、"对...非常重要" 或 "对...具有关键作用"。
   - "Effective communication is crucial to building strong relationships."（有效的沟通对于建立牢固的关系至关重要。）
+  - Proper[ˈprɑːpər] nutrition is crucial to maintaining good health.（适当的营养对于保持良好的健康至关重要。）
   - "Technology is crucial to the success of modern businesses."（技术对于现代企业的成功非常重要。）
 - **"go against"** 可以翻译为 "违背"、"与...相悖" 或 "违反"。
   - "His actions go against the company's code of conduct."（他的行为违背了公司的行为准则。）
   - "Going against the advice of her friends, she decided to pursue her dream."（她违背了朋友们的建议，决定追求自己的梦想。）
 - **"vote for"** 可以翻译为 "投票支持"、"投票赞成" 或 "投票选举"。
   - "I will vote for John in the upcoming election."（我将在即将举行的选举中支持约翰。）
-  - "The majority of the people voted for the new policy."（大多数人投票支持新政策。）
+  - "The majority[məˈdʒɔːrəti] of the people voted for the new policy."（大多数人投票支持新政策。）
 - **"How did this happen?"** 可以翻译为 "这是怎么发生的？" 或 "为什么会这样？"。
   - "How did this happen? I can't believe it!"（这是怎么发生的？我简直不敢相信！）
   - "How did you manage to finish the project so quickly?"（你是如何在这么短的时间内完成这个项目的？）
 - "**calling the shots**" 和 **"call the shots"** 在含义上非常相似，都指的是某人拥有权威、控制权或决策权，可以做主、发号施令或做出决定。
   - "calling the shots" 用作名词短语，形容某人在特定情况下的决策权和控制权，
-    - "As the CEO of the company, he is the one calling the shots."（作为公司的首席执行官，他是做主的人。）
-    - "In this project, she is the one calling the shots and making all the important decisions."（在这个项目中，她是发号施令的人，负责做出所有重要决策。）
+    - "As the CEO of the company, he is **the one calling the shots**."（作为公司的首席执行官，他是做主的人。）
+    - "In this project, she is **the one calling the shots** and making all the important decisions."（在这个项目中，她是发号施令的人，负责做出所有重要决策。）
   - "call the shots" 用作动词短语，表示某人行使决策权或控制权
     - "As the team leader, she gets to call the shots on how the project is managed."（作为团队领导，她有权决定如何管理项目。）
     - "In this company, the CEO calls the shots and everyone follows their decisions."（在这家公司里，CEO做主，所有人都遵循他们的决定。）
 - **"on horseback"** 是一个短语，意思是骑在马上。
-  - "The cowboy rode into town on horseback."（牛仔骑马进城。）
+  - "The cowboy[ˈkaʊbɔɪ] rode into town on horseback."（牛仔骑马进城。）
   - "We explored the beautiful countryside on horseback."（我们骑马探索了美丽的乡村。）
-- Russki   n. 俄国人（等于 Russian）adj. （美）俄国的（等于 Russian）
-- "Electoral College" 指美国总统选举中的选举团体制度     oval椭圆形的   confidential机密的，保密的；
+- Russki   n. 俄国人（等于 Russian[ˈrʌʃ(ə)n]）adj. （美）俄国的（等于 Russian）
+-  "Electoral[ɪˈlektərəl] College" 指美国总统选举中的选举团体制度     oval[ˈoʊv(ə)l]椭圆形的   confidential机密的，保密的；
 - "**mumbo jumbo**"/məmbō ˈjəmbō/ 是一个习语，通常用来表示含糊不清、难以理解或没有实际意义的话语或内容。它可以用来形容迷信、废话、胡言乱语或不可信的说法。
   - "The speaker's presentation was full of mumbo jumbo, and I couldn't understand what he was trying to say."（演讲者的演讲充斥着胡言乱语，我无法理解他想表达什么。）
-  - "Ignore all that mumbo jumbo, let's focus on the facts and evidence."（忽略所有的废话，我们来专注于事实和证据。）
+  - "Ignore all that mumbo jumbo; let's focus on the facts and evidence[ˈevɪdəns]."（忽略所有的废话，我们来专注于事实和证据。）
 - "**make sense of**" 是一个常用的短语，意思是理解、理会或弄清楚某事物的意义或含义。
   - "The instructions were so confusing that I couldn't make sense of them."（这些指示非常令人困惑，我无法理解它们。）
-  - "After carefully studying the data, she was able to make sense of the patterns and draw meaningful conclusions."（在仔细研究数据后，她能够理解模式并得出有意义的结论。）
+  - "After carefully studying the data, she was able to make sense of the patterns[ˈpætərn] and draw meaningful conclusions."（在仔细研究数据后，她能够理解模式并得出有意义的结论。）
   - I can't even make sense of this 我甚至/简直无法理解这个。
-- "**It is more imperative than..**." /ɪmˈperətɪv/的中文解释是“比...更为迫切/重要”。这个短语通常需要后面跟上具体的内容或情况，以表达某件事在当前情况下比以往任何时候都更加紧急或重要。
+- "**It is more imperative than ever..**." /ɪmˈperətɪv/的中文解释是“比以往...更为迫切/重要”。这个短语通常需要后面跟上具体的内容或情况，以表达某件事在当前情况下比以往任何时候都更加紧急或重要。
   - "**It is more imperative than ever** to protect our environment and preserve natural resources."（**比以往任何时候都更为迫切**，要保护我们的环境并保护自然资源。）
-  - "It is more imperative than before to address the issue of inequality and promote social justice."（现在比以前更为重要，要解决不平等问题并促进社会公正。）
-- "**move on**" 是一个常用的短语，意思是继续前进、继续生活或离开过去的事情，尤其是不再感到困扰或受到过去经历的影响。
+  - "It is more imperative than before to address the issue of inequality[ˌɪnɪˈkwɑːləti] and promote social justice."（现在比以前更为重要，要解决不平等问题并促进社会公正。）
+- "**Move on**" 是一个常用的短语，意思是继续前进、继续生活或离开过去的事情，尤其是不再感到困扰或受到过去经历的影响。
   - "It's time to move on from the past and focus on building a better future."（是时候从过去中继续前进，专注于建设更美好的未来。）
   - "After the breakup, it took her some time to move on and find happiness again."（分手后，她花了一些时间来继续生活并再次找到快乐。）
-  - "I've accepted the situation and I'm ready to move on with my life."（我接受了现状，准备继续过我的生活。）
+  - "I've accepted[əkˈseptɪd] the situation and I'm ready to move on with my life."（我接受了现状，准备继续过我的生活。）
 - "in the fact that..." 是一个常见的短语，用于强调某个事实或情况对于某种情感、判断或结果的影响。它通常用于说明一种因果关系或解释为什么某种情况发生或具有特定的影响。
   - "She found solace[ˈsɑːləs] in the fact that her friends were there to support her during difficult times."（她从这一事实中找到了慰藉，即在困难时期有朋友支持她。）
   - "In the fact that they had been practicing for months, their performance was flawless[ˈflɔːləs]."（由于他们已经练习了几个月，所以他们的表演非常完美。）
-  - "There is strength in the fact that we have overcome similar challenges in the past."（在我们过去克服了类似的挑战的事实中，有着力量。）
-- "**Adopt** new policies" 的翻译是 "采取新政策"。这指的是组织、机构或个人在面对新的情况、挑战或需求时，决定采纳、实施或引入新的政策或规定。
+  - "There is strength[streŋθ] in the fact that we have overcome similar challenges in the past."（在我们过去克服了类似的挑战的事实中，有着力量。）
+- "Adopt new policies" 的翻译是 "采取新政策"。这指的是组织、机构或个人在面对新的情况、挑战或需求时，决定采纳、实施或引入新的政策或规定。
   - "The government has decided to adopt new policies to stimulate economic growth."（政府决定采取新的政策来刺激经济增长。）
-- "**Plagiarizes/ˈplājəˌrīz/ speeches**" 的翻译是 "抄袭演讲"。这指的是某人在其演讲或演说中未经允许地复制、使用他人的言论、文字或想法，而没有进行适当的引用或来源的声明。
+- "**Plagiarizes**[ˈpleɪdʒəraɪz] **speeches**" 的翻译是 "抄袭演讲"。这指的是某人在其演讲或演说中未经允许地复制、使用他人的言论、文字或想法，而没有进行适当的引用或来源的声明。
   - "The politician was accused of plagiarizing speeches from other prominent leaders during his campaign."（这位政治家被指控在竞选期间抄袭其他著名领导人的演讲。）
   - "The student was caught plagiarizing her graduation speech, and it led to disciplinary action by the school."（这位学生被发现在毕业演讲中抄袭，导致学校采取纪律行动。）
-- "meet with" 的翻译是 "会面" 或 "与...见面"。它表示两个或多个人之间的正式或非正式会面。
+- **be accused**[əˈkjuːzd] **of** 被指控：指某人被指责或被控告犯有某种罪行或不当行为。
+  - he was accused of taking **bribes**[braɪbz].  她被控受贿。 bribes 赃物
+  - He was accused of lies and **deceit**[dɪˈsiːt].  他被指控撒谎和欺诈。
+- "Meet with" 的翻译是 "会面" 或 "与...见面"。它表示两个或多个人之间的正式或非正式会面。
   - "I'm going to meet with my colleagues tomorrow to discuss the project."（我明天会与我的同事会面，讨论这个项目。）
 - **"have pledged one's support in**" 的翻译是 "已经承诺支持"。这表示某人已经表明或保证在某个问题、计划、活动或目标上给予支持或帮助。
-  - "I have pledged my support in the upcoming charity event."（我已经承诺支持即将到来的慈善活动。）
-  - "The company's CEO has pledged his support in promoting sustainability initiatives."（公司的首席执行官已经承诺支持推动可持续发展的倡议。）
-- "**I assure you that.**.." 的翻译是 "我向你保证..."。这表明说话者在一件事情上向对方作出坚定的承诺或保证。
+  - "I have pledged my support in the upcoming charity[ˈtʃærəti] event."（我已经承诺支持即将到来的慈善活动。）
+  - "The company's CEO has pledged his support in promoting **sustainability**[səˌsteɪnəˈbɪləti] **initiatives**[ɪˈnɪʃɪətɪvz]."（公司的首席执行官已经承诺支持推动**可持续发展**的倡议。）
+- "**I assure**[əˈʃʊr] **you that.**.." 的翻译是 "我向你保证..."。这表明说话者在一件事情上向对方作出坚定的承诺或保证。
   - "I assure you that I will complete the project on time and with the highest quality."（我向你保证我会按时并且以最高的质量完成这个项目。）
 - **"Cherished tradition"** 的翻译是 "珍爱的传统"。它指的是在一个社区、家庭或团体中被特别重视和喜爱的习俗、惯例或做法。
-  - "The annual family reunion is a cherished tradition that brings all generations together."（每年的家庭聚会是一项珍爱的传统，把所有的代际都聚在一起。）
+  - "The annual[ˈænjuəl] family reunion[ˌriːˈjuːniən] is a cherished tradition that brings all generations together."（每年的家庭聚会是一项珍爱的传统，把所有的代际都聚在一起。）
 - "**Stand up for"** 的翻译是 "支持、维护、捍卫"。它表示为某人或某事物挺身而出，坚定地支持并保护其权益或利益。
   - "I will always stand up for my friends when they are facing difficult situations."（当我的朋友们遇到困难时，我会一直支持他们。）
   - "He decided to stand up for his beliefs, even though it meant facing opposition from others."（尽管这意味着面对他人的反对，他还是决定捍卫他的信念。）
 - "I got my eye on you" 的翻译是 "我注意你了" 或 "我盯着你"。这句话通常用于表示对某人的关注、监视或观察，可能是出于好奇、怀疑、警惕或友善等不同的情感。
   - "Don't think I didn't notice what you did. I've got my eye on you."（别以为我没注意到你的所作所为。我盯着你呢。）
   - "The new employee seems promising. The boss has his eye on him for potential leadership roles."（那个新员工看起来很有潜力。老板对他有意让他担任领导角色。）
-- **
-  mnemonic**[nɪˈmɑːnɪk] **device**助记法：一种帮助记忆的技巧或方法，通常通过将复杂的信息转化为更容易理解和记忆的形式。
+- **mnemonic**[nɪˈmɑːnɪk] **device**助记法：一种帮助记忆的技巧或方法，通常通过将复杂的信息转化为更容易理解和记忆的形式。
   - "To remember the colors of the rainbow in order, use the mnemonic device 'ROYGBIV' (R for red, O for orange, Y for yellow, G for green, B for blue, I for indigo, V for violet)."（为了记住彩虹的颜色顺序，使用助记设备'ROYGBIV'（R代表红色，O代表橙色，Y代表黄色，G代表绿色，B代表蓝色，I代表靛蓝色，V代表紫色）。）
   - "She used a mnemonic device to remember all the important dates for her history exam."（她使用了助记设备来记住历史考试的所有重要日期。）
 - "**Come out**" 是一个动词短语，可以有多种意思，具体意义取决于上下文。以下是其中一些常见的意思：
@@ -487,36 +495,35 @@
   - After winning the game, the teammates gave each other a high five to celebrate their victory.（在赢得比赛后，队友们相互击掌庆祝胜利。）
 - be invented指的是某物或某个概念被创造或发明出来。这通常用于描述新的创意、发明或创新。
   - The internet was invented in the late 20th century and has revolutionized communication and information sharing.（互联网在20世纪末期被发明，彻底改变了通信和信息共享的方式。）
-- "**Subtract**" 是一个动词，表示减去或减掉某个数或数量。当你从一个数中减去另一个数时，就使用 "subtract" 这个词。
+- "**Subtract**" [səbˈtrækt]是一个动词，表示减去或减掉某个数或数量。当你从一个数中减去另一个数时，就使用 "subtract" 这个词。
   - To find the difference between 10 and 5, you need to **subtract** 5 **from** 10, which gives you the result 5.（要找出10和5之间的差异，你需要从10减去5，得到的结果是5。）
   - If you **subtract** 20 **from** 50, you'll get 30.（如果你从50中减去20，你会得到30。）
-- **puzzle sth out**意味着努力理解或解决一个复杂的问题或谜题。 puzzle  n.解谜游戏
-  - The detective is trying to puzzle out the clues to solve the mysterious case.（侦探正在努力解开线索以解决这个神秘案件。）
+- **puzzle**[ˈpʌz(ə)l] **sth out**意味着努力理解或解决一个复杂的问题或谜题。 puzzle  n.解谜游戏
+  - The detective is trying to puzzle out the **clues** to solve the mysterious[mɪˈstɪriəs] case.（侦探正在努力解开**线索**以解决这个神秘案件。）
   - She couldn't understand the instructions at first, but with some effort, she managed to puzzle them out.（一开始她无法理解这些指示，但经过一些努力，她设法弄清楚了。）
-- **grain**  n. 谷物，谷粒            **dairy**  adj. 奶制的，乳品的；n. 乳制品     **pineapple** 菠萝
+- **grain**  n. 谷物，谷粒            **dairy**  adj. 奶制的，乳品的；n. 乳制品     **pineapple** [ˈpaɪnæp(ə)l]菠萝
 - "**sb is the star of**"用于描述某人是某个活动、项目、节目等的主角或明星。
   - Tom Hanks is the star of the new blockbuster movie.（汤姆·汉克斯是这部新大片的主角。）
   - The young singer is the star of tonight's concert.（这位年轻的歌手是今晚音乐会的明星。）
-  - The soccer player's outstanding performance made him the star of the championship game.（足球运动员出色的表现使他成为了锦标赛比赛的主角。）
+  - The soccer player's outstanding performance made him the star of the championship[ˈtʃæmpiənʃɪp] game.（足球运动员出色的表现使他成为了锦标赛比赛的主角。）
 - "the same last name" 翻译成中文是 "相同的姓氏"。
-  - John and Mary have the same last name, so people often mistake them for being **siblings**[ˈsɪblɪŋz].（约翰和玛丽姓氏相同，所以人们经常把他们误认为是**兄弟姐妹**。）
+  - John and Mary have the same last name, so people often mistake them for being **siblings**[ˈsɪblɪŋz].（约翰和玛丽姓氏相同，所以人们经常把他们误认为是兄弟姐妹。）
 - "**Over-complicating**" 是一个动词短语，表示使某事物变得过于复杂或过分复杂化。
   - Don't over-complicate the instructions for the recipe; keep them simple and easy to follow.（不要把食谱的说明搞得太复杂，保持简单易懂。）
-  - She has a tendency to over-complicate her explanations, making it difficult for others to understand her point.（她有一种倾向，总是把解释弄得过于复杂，让别人难以理解她的观点。）
+  - She has a tendency[ˈtendənsi] to over-complicate her explanations, making it difficult for others to understand her point.（她有一种倾向，总是把解释弄得过于复杂，让别人难以理解她的观点。）
   - You're over-complicating the whole thing.(你把整件事情都搞的过于复杂了)
-- **handshake**  n. 握手
-
-- **aerobic**
+- **handshake**  n. 握手  "Healthcare regimen" （健康护理方案） health care regiment 保健团
+- **aerobic**[eˈroʊbɪk]
   - adj. 需氧的；有氧（健身）的
   - aerobics n. 有氧运动法；是一个名词，指的是一种结合了节奏动作和有氧运动的健身形式
   - "Slow steady-state cardio" 指的是一种缓慢而稳定的有氧运动
   - interval **cardio** 间歇有氧运动
-- "**Steady-state**" 是 "稳态"。
-  - The population of the predator-prey system reached a steady-state after several years of coexistence.（捕食者与被捕食者系统经过几年的共存后达到了稳态。）
+- "**Steady**[ˈstedi]**-state**" 是 "稳态"。
+  - The population of the **predator[ˈpredətər]-prey system** reached a steady-state after several years of **coexistence**[ˌkoʊɪɡˈzɪstəns].（**捕食者与被捕食者系统**经过几年的**共存**后达到了稳态。）
   - The economy is expected to return to a steady-state after the initial shock caused by the financial crisis.（经济预计在金融危机的初期冲击后恢复到稳态。）
 - "**emphasize**" 是一个动词，表示强调或着重某事物，使其在整体中更加明显或突出。
   - The manager emphasized the need for teamwork to achieve the company's goals. (经理强调了实现公司目标需要团队合作。)
-  - The speaker used bold and italic fonts to emphasize key points on the presentation slides. (演讲者在演示文稿上使用粗体和斜体字来强调关键点。)
+  - The speaker used bold and **italic**[ɪˈtælɪk] fonts to emphasize key points on the presentation slides. (演讲者在演示文稿上使用粗体和斜体字来强调关键点。)
 - "**take a little while**" 表示需要花费一段时间，通常是一个相对较短的时间，但不会立即发生或完成。
   - The computer update will take a little while, so please be patient.（电脑更新需要一段时间，请耐心等待。）
   - I'll be ready to leave soon, just give me a little while to get dressed.（我很快就会准备好离开，只需要给我一点时间换好衣服。）
@@ -534,7 +541,7 @@
 - "**tag team** (fight)" 指的是一种团队式的战斗或比赛形式，通常用于职业摔跤、拳击等体育比赛。
 - **street riffraff**[ˈrɪfˌræf] 用来形容街头的无赖、流氓或社会底层的人群。
 - **rapscallion**[ræpˈskæljən] n. 流氓，恶棍
-- "Scrap with" 是一个词组，其中文翻译可以是 "与...争吵" 或 "与...打斗"。
+- "**Scrap**[skræp] **with**" 是一个词组，其中文翻译可以是 "与...争吵" 或 "与...打斗"。
   - They often scrap with each other over trivial matters.（他们两个常常因为琐事而争吵。）
   - The two kids were scrapping with each other over a toy. 这两个孩子因为一件玩具而争吵。
   - He got into trouble for scrapping with a stranger in a bar.（他因与一个陌生人在酒吧打架而惹上麻烦。）
@@ -546,13 +553,30 @@
   - She felt a sudden discomfort in the crotch area while exercising and decided to take a break.（她在锻炼时突然感到胯部区域不舒服，决定休息一下。）
 - "**go hog wild**" 这个短语意味着尽情狂欢、放纵自己、尽情享受。
   - "go hog wild" 这个短语意味着尽情狂欢、放纵自己、尽情享受。它通常用来形容人们在特定场合或情况下，完全释放自己的情感和欲望，毫不控制地尽情玩乐。
-  - After winning the lottery, she went hog wild and bought a new car, went on a luxury vacation, and threw a lavish party for all her friends.（中了彩票后，她疯狂地买了一辆新车，去了豪华度假，还为所有朋友举办了一场盛大的派对。）
+  - After winning the lottery, she went hog wild and bought a new car, went on a luxury[ˈlʌkʃəri] vacation, and threw a **lavish**[ˈlævɪʃ] party for all her friends.（中了彩票后，她疯狂地买了一辆新车，去了豪华度假，还为所有朋友举办了一场**盛大**的派对。）
   - The music festival was so amazing that the crowd went hog wild, dancing and singing along to every song.（音乐节太棒了，观众尽情狂欢，跳舞并跟着每一首歌一起唱。）
   - The kids went hog wild at the amusement park, riding all the roller coasters and eating lots of cotton candy.（孩子们在游乐园尽情狂欢，玩了所有过山车，还吃了很多棉花糖。）
 - **"go hog wild on sb"** 这个短语指的是对某人进行狂热攻击、猛烈抨击或是激烈批评。
-  - After the scandal was revealed, the media went hog wild on the politician, exposing every detail of his wrongdoings.（丑闻曝光后，媒体对那位政治家展开猛烈抨击，揭露他的所有错误行为。）
+  - After the scandal[ˈskænd(ə)l] was revealed, the media went hog wild on the politician, exposing every detail of his **wrongdoings**.（丑闻曝光后，媒体对那位政治家展开猛烈抨击，揭露他的所有**错误行为**。）
   - The critics went hog wild on the movie, calling it a disaster and criticizing every aspect of the film.（评论家对这部电影进行了疯狂的批评，称其为灾难，并批评了电影的各个方面。）
 - **"lost one's mind"** 这个短语意为"失去理智"，通常用来形容某人丧失了理智、精神错乱或行为异常。
   - After the traumatic event, she seemed to have lost her mind and couldn't recognize her own family.（在那场创伤事件后，她似乎失去了理智，无法认出自己的家人。）
 - **pissing onself**“尿自己、漏尿”是一个俗语，用来描述由于害怕、大笑或无法控制膀胱而不由自主地穿着衣服小便的行为。
   - The child was so scared during the thunderstorm that she ended up pissing herself.（孩子在雷雨中非常害怕，结果尿湿了裤子。）
+- **turn out** 结果是，证明是：表示事情的最终结果或事实的真相。
+  - If I had known my life was going to turn out like this, I would have let them kill me.
+  - 如果我知道我的一生会是这样的结果，我早就该让他们杀了我。
+- **have a hard time with sb**  和某人相处不好
+  - I know that you had a hard time with your father.
+- **spank sb** 打/扇 某人
+  - When I used to do that when I was a kid, my mom would spank me.
+  - 我小时候做那种事时，我妈妈总是打我的屁股。
+- **be real with sb**对某人坦诚相待
+  - I appreciate it when my friends are real with me and don't **sugarcoat**[ˈʃʊɡərˌkoʊt] things.（我欣赏朋友们对我坦诚相待，不**掩饰**事实。）
+  - It's important to be real with your partner and talk openly about your feelings.（与伴侣坦诚相待，坦率地谈论你的感受是很重要的。）
+- **play one's role** 扮演自己的角色
+  - As a team member, everyone needs to play their role effectively to achieve our goals.（作为团队成员，每个人都需要有效地发挥自己的角色，以实现我们的目标。）
+  - In a family, each member has a role to play in contributing to the household.（在一个家庭中，每个成员都有自己在家务方面的责任。）
+- **"Cover one's bases"**是指采取措施以确保事情或计划在各个方面都有适当的准备或保障。这个短语通常用于强调预防措施，以防止出现问题或遗漏细节。
+  - Before submitting the proposal, make sure to cover all your bases and double-check for any errors.（在提交建议书之前，请确保做好全面的准备，并仔细检查是否有任何错误。）
+  - The project manager covered his bases by assigning backup resources in case of unexpected delays.[dɪˈleɪz]（项目经理为了应对意外延误，安排了备用资源来确保各个方面都有准备。
