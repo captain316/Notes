@@ -122,7 +122,7 @@ private:
 
 ##### 考点：节点交换三部曲
 
-![image-20240303143930067](../image/image-20240303143930067.png)
+<img src="../image/image-20240303143930067.png" alt="image-20240303143930067" style="zoom: 67%;" />
 
 ```
         //注意条件顺序，防止空指针异常
@@ -150,7 +150,7 @@ private:
 
 - tips: fast首先走n + 1步 ，为什么是n+1呢，因为只有这样同时移动的时候slow才能指向删除节点的上一个节点（方便做删除操作）
 
-![img](../image/19.删除链表的倒数第N个节点3.png)
+<img src="../image/19.删除链表的倒数第N个节点3.png" alt="img" style="zoom:50%;" />
 
 
 
@@ -212,7 +212,7 @@ private:
 从头结点出发一个指针，从相遇节点 也出发一个指针，这两个指针每次只走一个节点， 那么当这两个指针相遇的时候就是 环形入口的节点。
 ```
 
-![img](../image/20220925103433.png)
+<img src="../image/20220925103433.png" alt="img" style="zoom:50%;" />
 
 ![142.环形链表II（求入口）](../image/142.环形链表II（求入口）-17094509568125.gif)
 
@@ -231,7 +231,7 @@ private:
 
 
 
-![image-20240303160632658](../image/image-20240303160632658.png)
+<img src="../image/image-20240303160632658.png" alt="image-20240303160632658" style="zoom: 67%;" />
 
 > 当我们要使用集合来解决哈希问题的时候，优先使用unordered_set，因为它的查询和增删效率是最优的，如果需要集合是有序的，那么就用set，如果要求不仅有序还要有重复数据的话，那么就用multiset。
 
@@ -638,7 +638,7 @@ public:
 
 1. 首先扩充数组到每个数字字符替换成 "number" 之后的大小。
 
-   ![img](../image/20231030165201-170946792345511.png)
+   <img src="../image/20231030165201-170946792345511.png" alt="img" style="zoom:50%;" />
 
 2. 然后从后向前替换数字字符，也就是双指针法，过程如下：i指向新长度的末尾，j指向旧长度的末尾。
 
@@ -717,7 +717,7 @@ public:
     reverse(s.begin() + n, s.end()); // 再反转后一段
 ```
 
-![img](../image/20231106172058.png)
+<img src="../image/20231106172058.png" alt="img" style="zoom:50%;" />
 
 
 
@@ -729,9 +729,55 @@ public:
 
 **当出现字符串不匹配时，可以记录一部分之前已经匹配的文本内容，利用这些信息避免从头再去做匹配。**
 
+```C++
+class Solution {
+public:
+    // 求next数组
+    void getNext(int* next, const string& s) {
+        int j = 0;
+        next[0] = 0; // 初始化next数组的第一个元素为0
+        for (int i = 1; i < s.size(); i++) {
+            while (j > 0 && s[i] != s[j]) {
+                j = next[j - 1]; // 回溯到前一个匹配点
+            }
+            if (s[i] == s[j]) {
+                j++; // 匹配成功，移动指针
+            }
+            next[i] = j; // 更新next数组
+        }
+    }
 
+    int strStr(string haystack, string needle) {
+        int next[needle.size()];
+        getNext(next, needle); // 获取needle字符串的next数组
+        int j = 0;
+        for (int i = 0; i < haystack.size(); i++) {
+            while (j > 0 && haystack[i] != needle[j]) {
+                j = next[j - 1]; // 在匹配失败时回溯
+            }
+            if (haystack[i] == needle[j]) {
+                j++; // 匹配成功，移动指针
+            }
+            //j 表示当前匹配的字符数，当 j 等于 needle.size() 时，说明整个子串都已经匹配成功
+            if (j == needle.size()) {
+                return (i - needle.size() + 1); // 返回匹配的起始位置
+            }
+        }
+        return -1; // 未找到匹配子串
+    }
+};
 
+```
 
+对于：
+
+```
+if (j == needle.size()) {
+    return (i - needle.size() + 1); // 返回匹配的起始位置
+}
+举个例子：
+如果 `needle` 是 "abc"，而 `haystack` 是 "xyzabc"，当匹配到 "abc" 时，`i` 的位置是 5，`needle.size()` 是 3，所以匹配的起始位置就是 `5 - 3 + 1 = 3`。因此，返回值是匹配的起始位置。
+```
 
 
 
@@ -751,7 +797,7 @@ public:
 
 注意：在判断 s + s 拼接的字符串里是否出现一个s的的时候，**要刨除 s + s 的首字符和尾字符**，这样避免在s+s中搜索出原来的s，我们要搜索的是中间拼接出来的s。
 
-![图二](../image/20220728104931.png)
+<img src="../image/20220728104931.png" alt="图二" style="zoom:50%;" />
 
 ```C++
 class Solution {
@@ -774,3 +820,428 @@ public:
 
 
 ###### 方法二：KMP
+
+- **在一个串中查找是否出现过另一个串，这是KMP的看家本领**
+
+结论：
+
+由**重复子串组成的字符串**中，**最长相等前后缀不包含的子串就是最小重复子串**，这里拿字符串s：abababab 来举例，ab就是最小重复单位，如图所示：
+
+<img src="../image/20220728205249.png" alt="图三" style="zoom:50%;" />
+
+
+
+# 六、栈与队列
+
+### [232. 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)
+
+> 使用栈实现队列的下列操作：
+>
+> push(x) -- 将一个元素放入队列的尾部。
+> pop() -- 从队列首部移除元素。
+> peek() -- 返回队列首部的元素。
+> empty() -- 返回队列是否为空。
+
+
+
+使用栈来模式队列的行为，需要两个栈**一个输入栈，一个输出栈**，这里要注意输入栈和输出栈的关系。
+
+```
+queue.push(1);
+queue.push(2);
+queue.pop(); 注意此时的输出栈的操作
+queue.push(3);
+queue.push(4);
+queue.pop();
+queue.pop();注意此时的输出栈的操作
+queue.pop();
+queue.empty();
+```
+
+![232.用栈实现队列版本2](../image/232.用栈实现队列版本2.gif)
+
+分析：
+
+- 在push数据的时候，只要数据放进输入栈就好
+- **在pop的时候**
+  - **输出栈如果为空，就把进栈数据全部导入进来（注意是全部导入）**，再从出栈弹出数据
+  - 输出栈不为空，则直接从出栈弹出数据就可以了。
+- 判断队列为空
+  - **如果进栈和出栈都为空的话，说明模拟的队列为空了。**
+- pop() 和 peek()两个函数功能类似，代码实现上也是类似的
+  - 直接使用已有的pop函数弹出首原属，因为pop函数弹出了元素res，所以再添加回去。
+
+
+
+### [225. 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/)
+
+> 使用队列实现栈的下列操作：
+>
+> - push(x) -- 元素 x 入栈
+> - pop() -- 移除栈顶元素
+> - top() -- 获取栈顶元素
+> - empty() -- 返回栈是否为空
+
+**用两个队列que1和que2实现队列的功能，que2其实完全就是一个备份的作用**，把que1最后面的元素以外的元素都备份到que2，然后弹出最后面的元素，再把其他元素从que2导回que1。
+
+```
+queue.push(1);        
+queue.push(2);        
+queue.pop();   // 注意弹出的操作       
+queue.push(3);        
+queue.push(4);       
+queue.pop();  // 注意弹出的操作    
+queue.pop();    
+queue.pop();    
+queue.empty();    
+```
+
+![225.用队列实现栈](../image/225.用队列实现栈.gif)
+
+先创建两个队列que1、que2，以及初始化栈
+
+- push(x) -- 元素 x 入栈
+
+  - `que1.push(x);` 即：直接push进que1
+
+- pop() -- 移除栈顶元素
+
+  - 获取que1大小，将que1 导入que2，但要留下最后一个元素
+
+  - 留下的最后一个元素就是要返回的值，记录最后一个元素之后 que1.pop()
+  - 再将que2赋值给que1，清空que2，返回记录的元素
+
+  ```C++
+      int pop() {
+          int size = que1.size();
+          size--;
+          while (size--) { // 将que1 导入que2，但要留下最后一个元素
+              que2.push(que1.front());
+              que1.pop();
+          }
+  
+          int result = que1.front(); // 留下的最后一个元素就是要返回的值
+          que1.pop();
+          que1 = que2;            // 再将que2赋值给que1
+          while (!que2.empty()) { // 清空que2
+              que2.pop();
+          }
+          return result;
+      }
+  ```
+
+- top() -- 获取栈顶元素
+
+  - `return que1.back();`
+
+- empty() -- 返回栈是否为空
+
+  - `return que1.empty();`
+
+
+
+优化：用一个队列就够了
+
+**一个队列在模拟栈弹出元素的时候只要将队列头部的元素（除了最后一个元素外） 重新添加到队列尾部，此时再去弹出元素就是栈的顺序了。**
+
+```C++
+class MyStack {
+public:
+    queue<int> que;
+    /** Initialize your data structure here. */
+    MyStack() {
+
+    }
+    /** Push element x onto stack. */
+    void push(int x) {
+        que.push(x);
+    }
+    /** Removes the element on top of the stack and returns that element. */
+    int pop() {
+        int size = que.size();
+        size--;
+        while (size--) { // 将队列头部的元素（除了最后一个元素外） 重新添加到队列尾部
+            que.push(que.front());
+            que.pop();
+        }
+        int result = que.front(); // 此时弹出的元素顺序就是栈的顺序了
+        que.pop();
+        return result;
+    }
+
+    /** Get the top element. */
+    int top() {
+        return que.back();
+    }
+
+    /** Returns whether the stack is empty. */
+    bool empty() {
+        return que.empty();
+    }
+};
+```
+
+
+
+### [20. 有效的括号](https://leetcode.cn/problems/valid-parentheses/)
+
+> 给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串 `s` ，判断字符串是否有效。
+>
+> 有效字符串需满足：
+>
+> 1. 左括号必须用相同类型的右括号闭合。
+> 2. 左括号必须以正确的顺序闭合。
+> 3. 每个右括号都有一个对应的相同类型的左括号。
+
+<img src="../image/20.有效括号.gif" alt="20.有效括号" style="zoom:50%;" />
+
+第一种情况：已经遍历完了字符串，但是栈不为空，说明有相应的左括号没有右括号来匹配，所以return false
+
+第二种情况：遍历字符串匹配的过程中，发现栈里没有要匹配的字符。所以return false
+
+第三种情况：遍历字符串匹配的过程中，栈已经为空了，没有匹配的字符了，说明右括号没有找到对应的左括号return false
+
+> 技巧，在匹配左括号的时候，右括号先入栈，就只需要比较当前元素和栈顶相不相等就可以了，比左括号先入栈代码实现要简单的多了
+
+
+
+
+
+### [1047. 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)
+
+> 示例：
+>
+> - 输入："abbaca"
+> - 输出："ca"
+> - 解释：例如，在 "abbaca" 中，我们可以删除 "bb" 由于两字母相邻且相同，这是此时唯一可以执行删除操作的重复项。之后我们得到字符串 "aaca"，其中又只有 "aa" 可以执行重复项删除操作，所以最后的字符串为 "ca"。
+
+![1047.删除字符串中的所有相邻重复项](../image/1047.删除字符串中的所有相邻重复项.gif)
+
+```c++
+class Solution {
+public:
+    string removeDuplicates(string S) {
+        stack<char> st;
+        for (char s : S) {
+            if (st.empty() || s != st.top()) {
+                st.push(s);
+            } else {
+                st.pop(); // s 与 st.top()相等的情况
+            }
+        }
+        string result = "";
+        while (!st.empty()) { // 将栈中元素放到result字符串汇总
+            result += st.top();
+            st.pop();
+        }
+        //此时是字符串ac，因为从栈里弹出的元素是倒序的，所以再对字符串进行反转一下
+        reverse (result.begin(), result.end()); // 此时字符串需要反转一下
+        return result;
+
+    }
+};
+```
+
+优化：拿字符串直接作为栈，这样省去了栈还要转为字符串的操作。
+
+```C++
+class Solution {
+public:
+    string removeDuplicates(string S) {
+        string result;
+        for(char s : S) {
+            if(result.empty() || result.back() != s) {
+                result.push_back(s);
+            }
+            else {
+                result.pop_back();
+            }
+        }
+        return result;
+    }
+};
+```
+
+
+
+
+
+### [150. 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
+
+> 示例 ：
+>
+> - 输入: ["4", "13", "5", "/", "+"]
+> - 输出: 6
+> - 解释: 该算式转化为常见的中缀算术表达式为：(4 + (13 / 5)) = 6
+
+![150.逆波兰表达式求值](../image/150.逆波兰表达式求值.gif)
+
+```C++
+class Solution {
+public:
+    int evalRPN(vector<string>& tokens) {
+        // 力扣修改了后台测试数据，需要用longlong
+        stack<long long> st; 
+        for (int i = 0; i < tokens.size(); i++) {
+            if (tokens[i] == "+" || tokens[i] == "-" || tokens[i] == "*" || tokens[i] == "/") {
+                long long num1 = st.top();
+                st.pop();
+                long long num2 = st.top();
+                st.pop();
+                if (tokens[i] == "+") st.push(num2 + num1);
+                if (tokens[i] == "-") st.push(num2 - num1);
+                if (tokens[i] == "*") st.push(num2 * num1);
+                if (tokens[i] == "/") st.push(num2 / num1);
+            } else {
+                //stoll 是 C++ 中的一个函数，用于将字符串转换为 long long 类型。
+                st.push(stoll(tokens[i]));
+            }
+        }
+
+        int result = st.top();
+        st.pop(); // 把栈里最后一个元素弹出（其实不弹出也没事）
+        return result;
+    }
+};
+```
+
+
+
+### [239. 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/)
+
+> 给你一个整数数组 `nums`，有一个大小为 `k` 的滑动窗口从数组的最左侧移动到数组的最右侧。你只可以看到在滑动窗口内的 `k` 个数字。滑动窗口每次只向右移动一位。
+
+###### 技巧：单调队列
+
+设计单调队列的时候，pop，和push操作要保持如下规则：
+
+1. pop(value)：如果窗口**移除的元素value等于单调队列的出口元素**，那么队列弹出元素，否则不用任何操作
+2. push(value)：如果push的元素value大于入口元素的数值，那么就将队列入口的元素弹出，直到push元素的数值小于等于队列入口元素的数值为止
+
+保持如上规则，每次窗口移动的时候，只要问que.front()就可以返回当前窗口的最大值。
+
+为了更直观的感受到单调队列的工作过程，以题目示例为例，输入: nums = [1,3,-1,-3,5,3,6,7], 和 k = 3，动画如下：
+
+![239.滑动窗口最大值-2](../image/239.滑动窗口最大值-2.gif)
+
+```C++
+class Solution {
+private:
+    class MyQueue { //单调队列（从大到小）
+    public:
+        deque<int> que; // 使用deque来实现单调队列
+        // 每次弹出的时候，比较当前要弹出的数值是否等于队列出口元素的数值，如果相等则弹出。
+        // 同时pop之前判断队列当前是否为空。
+        void pop(int value) {
+            if (!que.empty() && value == que.front()) {
+                que.pop_front();
+            }
+        }
+        // 如果push的数值大于入口元素的数值，那么就将队列后端的数值弹出，直到push的数值小于等于队列入口元素的数值为止。
+        // 这样就保持了队列里的数值是单调从大到小的了。
+        void push(int value) {
+            while (!que.empty() && value > que.back()) {
+                que.pop_back();
+            }
+            que.push_back(value);
+
+        }
+        // 查询当前队列里的最大值 直接返回队列前端也就是front就可以了。
+        int front() {
+            return que.front();
+        }
+    };
+public:
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+        MyQueue que;
+        vector<int> result;
+        for (int i = 0; i < k; i++) { // 先将前k的元素放进队列
+            que.push(nums[i]);
+        }
+        result.push_back(que.front()); // result 记录前k的元素的最大值
+        for (int i = k; i < nums.size(); i++) {
+            que.pop(nums[i - k]); // 滑动窗口移除最前面元素
+            que.push(nums[i]); // 滑动窗口前加入最后面的元素
+            result.push_back(que.front()); // 记录对应的最大值
+        }
+        return result;
+    }
+};
+
+输入：nums = [1,3,-1,-3,5,3,6,7], k = 3
+输出：[3,3,5,5,6,7]
+解释：
+滑动窗口的位置                最大值
+---------------               -----
+[1  3  -1] -3  5  3  6  7       3
+ 1 [3  -1  -3] 5  3  6  7       3
+ 1  3 [-1  -3  5] 3  6  7       5
+ 1  3  -1 [-3  5  3] 6  7       5
+ 1  3  -1  -3 [5  3  6] 7       6
+ 1  3  -1  -3  5 [3  6  7]      7
+```
+
+
+
+### [347. 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)
+
+> 给定一个非空的整数数组，返回其中出现频率前 k 高的元素。
+>
+> 示例 1:
+>
+> - 输入: nums = [1,1,1,2,2,3], k = 2
+> - 输出: [1,2]
+
+###### 考点：优先级队列
+
+使用小顶堆呢，还是大顶堆？
+
+> 定义一个大小为k的大顶堆，在每次移动更新大顶堆的时候，每次弹出都把最大的元素弹出去了，那么怎么保留下来前K个高频元素呢。
+>
+> 而且使用大顶堆就要把所有元素都进行排序，那能不能只排序k个元素呢？
+>
+> **所以我们要用小顶堆，因为要统计最大前k个元素，只有小顶堆每次将最小的元素弹出，最后小顶堆里积累的才是前k个最大元素。**
+
+<img src="../image/347.前K个高频元素.jpg" alt="347.前K个高频元素" style="zoom:50%;" />
+
+```C++
+class Solution {
+public:
+    // 小顶堆
+    class mycomparison {
+    public:
+        bool operator()(const pair<int, int>& lhs, const pair<int, int>& rhs) {
+            return lhs.second > rhs.second;
+        }
+    };
+    vector<int> topKFrequent(vector<int>& nums, int k) {
+        // 要统计元素出现频率
+        unordered_map<int, int> map; // map<nums[i],对应出现的次数>
+        for (int i = 0; i < nums.size(); i++) {
+            map[nums[i]]++;
+        }
+
+        // 对频率排序
+        // 定义一个小顶堆，大小为k
+        priority_queue<pair<int, int>, vector<pair<int, int>>, mycomparison> pri_que;
+
+        // 用固定大小为k的小顶堆，扫面所有频率的数值
+        for (unordered_map<int, int>::iterator it = map.begin(); it != map.end(); it++) {
+            pri_que.push(*it);
+            if (pri_que.size() > k) { // 如果堆的大小大于了K，则队列弹出，保证堆的大小一直为k
+                pri_que.pop();
+            }
+        }
+
+        // 找出前K个高频元素，因为小顶堆先弹出的是最小的，所以倒序来输出到数组
+        vector<int> result(k);
+        for (int i = k - 1; i >= 0; i--) {
+            result[i] = pri_que.top().first;
+            pri_que.pop();
+        }
+        return result;
+
+    }
+};
+```
+
