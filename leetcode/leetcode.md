@@ -1326,6 +1326,8 @@ public:
 
 二叉树的 **最大深度** 是指从根节点到最远叶子节点的最长路径上的节点数。
 
+- 层序遍历
+
 ```C++
 class Solution {
 public:
@@ -1349,51 +1351,9 @@ public:
 };
 ```
 
-### [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
-
-> 给定一个二叉树，找出其最小深度。
->
-> 最小深度是从根节点到最近叶子节点的最短路径上的节点数量。
->
-> **说明：**叶子节点是指没有子节点的节点。
-
-
-
-- **层序遍历**
-
-**只有当左右孩子都为空的时候，才说明遍历的最低点了。如果其中一个孩子为空则不是最低点**
-
-```C++
-class Solution {
-public:
-    int minDepth(TreeNode* root) {
-        if (root == NULL) return 0;
-        int depth = 0;
-        queue<TreeNode*> que;
-        que.push(root);
-        while(!que.empty()) {
-            int size = que.size();
-            depth++; // 记录最小深度
-            for (int i = 0; i < size; i++) {
-                TreeNode* node = que.front();
-                que.pop();
-                if (node->left) que.push(node->left);
-                if (node->right) que.push(node->right);
-                if (!node->left && !node->right) { // 当左右孩子都为空的时候，说明是最低点的一层了，退出
-                    return depth;
-                }
-            }
-        }
-        return depth;
-    }
-};
-```
-
-
-
 - 递归法
 
-本题可以使用前序（中左右），也可以使用后序遍历（左右中），使用前序求的就是深度，使用后序求的是高度。
+本题可以使用前序（中左右），也可以使用后序遍历（左右中），使用**前序求的就是深度，使用后序求的是高度**。
 
 - 二叉树节点的深度：指从根节点到该节点的最长简单路径边的条数或者节点数（取决于深度从0开始还是从1开始）
 - 二叉树节点的高度：指从该节点到叶子节点的最长简单路径边的条数或者节点数（取决于高度从0开始还是从1开始）
@@ -1440,6 +1400,130 @@ public:
     int maxDepth(TreeNode* root) {
         result = 0;
         if (root == NULL) return result;
+        getdepth(root, 1);
+        return result;
+    }
+};
+```
+
+
+
+### [111. 二叉树的最小深度](https://leetcode.cn/problems/minimum-depth-of-binary-tree/)
+
+> 给定一个二叉树，找出其最小深度。
+>
+> 最小深度是从根节点到最近叶子节点的最短路径上的节点数量。
+>
+> **说明：**叶子节点是指没有子节点的节点。
+
+<img src="../image/111.二叉树的最小深度.png" alt="111.二叉树的最小深度" style="zoom:50%;" />
+
+本题还有一个误区，题目中说的是：**最小深度是从根节点到最近叶子节点的最短路径上的节点数量。**注意是**叶子节点**。
+
+什么是叶子节点，左右孩子都为空的节点才是叶子节点！
+
+- **层序遍历**
+
+**只有当左右孩子都为空的时候，才说明遍历的最低点了。如果其中一个孩子为空则不是最低点**
+
+```C++
+class Solution {
+public:
+    int minDepth(TreeNode* root) {
+        if (root == NULL) return 0;
+        int depth = 0;
+        queue<TreeNode*> que;
+        que.push(root);
+        while(!que.empty()) {
+            int size = que.size();
+            depth++; // 记录最小深度
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = que.front();
+                que.pop();
+                if (node->left) que.push(node->left);
+                if (node->right) que.push(node->right);
+                if (!node->left && !node->right) { // 当左右孩子都为空的时候，说明是最低点的一层了，退出
+                    return depth;
+                }
+            }
+        }
+        return depth;
+    }
+};
+```
+
+
+
+- 递归法
+
+确定单层递归的逻辑时，和求最大深度可就不一样了，一些同学可能会写如下代码：
+
+```text
+int leftDepth = getDepth(node->left);
+int rightDepth = getDepth(node->right);
+int result = 1 + min(leftDepth, rightDepth);
+return result;
+```
+
+这个代码就犯了上图中的误区，如果这么求的话，没有左孩子的分支会算为最短深度。
+
+所以，**如果左子树为空，右子树不为空，说明最小深度是 1 + 右子树的深度**。
+
+反之，**右子树为空，左子树不为空，最小深度是 1 + 左子树的深度**。 **最后如果左右子树都不为空，返回左右子树深度最小值 + 1** 。
+
+```C++
+class Solution {
+public:
+    int getDepth(TreeNode* node) {
+        if (node == NULL) return 0;
+        int leftDepth = getDepth(node->left);           // 左
+        int rightDepth = getDepth(node->right);         // 右
+                                                        // 中
+        // 当一个左子树为空，右不为空，这时并不是最低点
+        if (node->left == NULL && node->right != NULL) { 
+            return 1 + rightDepth;
+        }   
+        // 当一个右子树为空，左不为空，这时并不是最低点
+        if (node->left != NULL && node->right == NULL) { 
+            return 1 + leftDepth;
+        }
+        int result = 1 + min(leftDepth, rightDepth);
+        return result;
+    }
+
+    int minDepth(TreeNode* root) {
+        return getDepth(root);
+    }
+};
+
+//前序遍历——回溯
+class Solution {
+private:
+    int result;
+    void getdepth(TreeNode* node, int depth) {
+        // 函数递归终止条件
+        if (node == nullptr) {
+            return;
+        }
+        // 中，处理逻辑：判断是不是叶子结点
+        if (node -> left == nullptr && node->right == nullptr) {
+            result = min(result, depth);
+        }
+        if (node->left) { // 左
+            getdepth(node->left, depth + 1);
+        }
+        if (node->right) { // 右
+            getdepth(node->right, depth + 1);
+        }
+        return ;
+    }
+
+public:
+    int minDepth(TreeNode* root) {
+        if (root == nullptr) {
+            return 0;
+        }
+        result = INT_MAX;
         getdepth(root, 1);
         return result;
     }
@@ -1528,6 +1612,189 @@ public:
     bool isSymmetric(TreeNode* root) {
         if (root == NULL) return true;
         return compare(root->left, root->right);
+    }
+};
+```
+
+
+
+### [222完全二叉树的节点个数](https://leetcode.cn/problems/count-complete-tree-nodes/)
+
+- #### 普通二叉树的求法
+
+单层递归的逻辑：先求它的左子树的节点数量，再求右子树的节点数量，最后取总和再加一 （加1是因为算上当前中间节点）就是目前节点为根节点的节点数量。
+
+```cpp
+//递归
+class Solution {
+private:
+    int getNodesNum(TreeNode* cur) {
+        if (cur == NULL) return 0;
+        int leftNum = getNodesNum(cur->left);      // 左
+        int rightNum = getNodesNum(cur->right);    // 右
+        int treeNum = leftNum + rightNum + 1;      // 中
+        return treeNum;
+    }
+public:
+    int countNodes(TreeNode* root) {
+        return getNodesNum(root);
+    }
+};
+//迭代——层序遍历
+class Solution {
+public:
+    int countNodes(TreeNode* root) {
+        queue<TreeNode*> que;
+        if (root != NULL) que.push(root);
+        int result = 0;
+        while (!que.empty()) {
+            int size = que.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = que.front();
+                que.pop();
+                result++;   // 记录节点数量
+                if (node->left) que.push(node->left);
+                if (node->right) que.push(node->right);
+            }
+        }
+        return result;
+    }
+};
+```
+
+- ##### 完全二叉树求法
+
+完全二叉树中，除了最底层节点可能没填满外，其余每层节点数都达到最大值
+
+完全二叉树只有两种情况，情况一：就是满二叉树，情况二：最后一层叶子节点没有满。
+
+对于情况一，可以直接用 2^树深度 - 1 来计算，注意这里根节点深度为1。
+
+对于情况二，分别递归左孩子，和右孩子，递归到某一深度一定会有左孩子或者右孩子为满二叉树，然后依然可以按照情况1来计算。
+
+<img src="../image/20201124092634138.png" alt="222.完全二叉树的节点个数1" style="zoom:50%;" />
+
+在完全二叉树中，如果递归向左遍历的深度等于递归向右遍历的深度，那说明就是满二叉树。
+
+```c++
+class Solution {
+public:
+    int countNodes(TreeNode* root) {
+        if (root == nullptr) return 0;
+        TreeNode* left = root->left;
+        TreeNode* right = root->right;
+        int leftDepth = 0, rightDepth = 0; // 这里初始为0是有目的的，为了下面求指数方便
+        while (left) {  // 求左子树深度
+            left = left->left;
+            leftDepth++;
+        }
+        while (right) { // 求右子树深度
+            right = right->right;
+            rightDepth++;
+        }
+        if (leftDepth == rightDepth) {
+            return (2 << leftDepth) - 1; // 注意(2<<1) 相当于2^2，所以leftDepth初始为0
+        }
+        int leftTreeNum = countNodes(root->left);       // 左
+        int rightTreeNum = countNodes(root->right);     // 右
+        int result = leftTreeNum + rightTreeNum + 1;    // 中
+        return result;
+    }
+};
+```
+
+
+
+### [110. 平衡二叉树](https://leetcode.cn/problems/balanced-binary-tree/)
+
+> 给定一个二叉树，判断它是否是 平衡二叉树
+>
+> 本题中，一棵高度平衡二叉树定义为：一个二叉树每个节点 的左右两个子树的高度差的绝对值不超过1。
+
+既然要求比较高度，必然是要后序遍历。
+
+```c++
+class Solution {
+public:
+    // 返回以该节点为根节点的二叉树的高度，如果不是平衡二叉树了则返回-1
+    int getHeight(TreeNode* node) {
+        //终止条件
+        if (node == NULL) {
+            return 0;
+        }
+        //单层递归逻辑 分别求出其左右子树的高度，然后如果差值小于等于1，则返回当前二叉树的高度，否则返回-1，表示已经不是二叉平衡树了。
+        int leftHeight = getHeight(node->left); // 左
+        if (leftHeight == -1) return -1;
+        int rightHeight = getHeight(node->right); // 右
+        if (rightHeight == -1) return -1;
+
+        int result;
+        if (abs(leftHeight - rightHeight) > 1) {  // 中
+            result = -1;
+        } else {
+            result = 1 + max(leftHeight, rightHeight); // 以当前节点为根节点的树的最大高度
+        }
+        return result;
+    }
+    bool isBalanced(TreeNode* root) {
+        return getHeight(root) == -1 ? false : true;
+    }
+};
+```
+
+### [257. 二叉树的所有路径](https://leetcode.cn/problems/binary-tree-paths/)
+
+> 给定一个二叉树，返回所有从根节点到叶子节点的路径。
+>
+> 说明: 叶子节点是指没有子节点的节点。
+
+这道题目要求从根节点到叶子的路径，所以需要**前序遍历**，这样才方便让父节点指向孩子节点，找到对应的路径。
+
+在这道题目中将第一次涉及到回溯，因为我们要把路径记录下来，需要回溯来回退一个路径再进入另一个路径。
+
+前序遍历以及回溯的过程如图：
+
+<img src="../image/20210204151702443.png" alt="257.二叉树的所有路径" style="zoom:50%;" />
+
+
+
+```C++
+class Solution {
+private:
+	//要传入根节点，记录每一条路径的path，和存放结果集的result，这里递归不需要返回值
+    //使用了vector 结构来记录路径，下面处理单层递归逻辑的时候，要做回溯，使用vector方便来做回溯。
+    void traversal(TreeNode* cur, vector<int>& path, vector<string>& result) {
+        //前序遍历，需要先处理中间节点，中间节点就是我们要记录路径上的节点，先放进path中。
+        path.push_back(cur->val); // 中，中为什么写在这里，因为最后一个节点也要加入到path中 
+        // 这才到了叶子节点 找到叶子节点，就开始结束的处理逻辑了（把路径放进result里）。
+        //为什么没有判断cur是否为空呢，因为下面的逻辑可以控制空节点不入循环。
+        if (cur->left == NULL && cur->right == NULL) {
+            string sPath;
+            for (int i = 0; i < path.size() - 1; i++) {
+                sPath += to_string(path[i]);
+                sPath += "->";
+            }
+            sPath += to_string(path[path.size() - 1]);
+            result.push_back(sPath);
+            return;
+        }
+        if (cur->left) { // 左 
+            traversal(cur->left, path, result);
+            path.pop_back(); // 回溯
+        }
+        if (cur->right) { // 右
+            traversal(cur->right, path, result);
+            path.pop_back(); // 回溯
+        }
+    }
+
+public:
+    vector<string> binaryTreePaths(TreeNode* root) {
+        vector<string> result;
+        vector<int> path;
+        if (root == NULL) return result;
+        traversal(root, path, result);
+        return result;
     }
 };
 ```
