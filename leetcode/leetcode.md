@@ -1251,6 +1251,34 @@ public:
 
 # 七、二叉树
 
+### 1、二叉树的特点：
+
+###### 1）二叉搜索树
+
+- **中序遍历**下，输出的二叉搜索树节点的数值是有序序列。（递增）
+- 节点的左子树只包含小于当前节点的数；节点的右子树只包含大于当前节点的数；所有左子树和右子树自身必须也是二叉搜索树。
+- 搜索树里不能有相同元素
+
+###### 2）满二叉树
+
+- 节点个树 = 2^树深度 - 1
+
+### **2、二叉树的前序、中序、后序遍历**
+
+![img](../image/v2-0fcc909a2787cd92c1315481748d2b57_720w.webp)
+
+```
+前序遍历A-B-D-F-G-H-I-E-C
+
+中序遍历F-D-H-G-I-B-E-A-C
+
+后序遍历F-H-I-G-D-E-B-C-A
+
+前序(根左右)，中序(左根右)，后序(左右根)
+```
+
+
+
 ### [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
 
 ![102二叉树的层序遍历](../image/102二叉树的层序遍历.gif)
@@ -1668,7 +1696,7 @@ public:
 
 完全二叉树只有两种情况，情况一：就是满二叉树，情况二：最后一层叶子节点没有满。
 
-对于情况一，可以直接用 2^树深度 - 1 来计算，注意这里根节点深度为1。
+对于情况一，可以直接用 **2^树深度 - 1** 来计算，注意这里根节点深度为1。
 
 对于情况二，分别递归左孩子，和右孩子，递归到某一深度一定会有左孩子或者右孩子为满二叉树，然后依然可以按照情况1来计算。
 
@@ -1774,6 +1802,7 @@ private:
                 sPath += to_string(path[i]);
                 sPath += "->";
             }
+            //添加最后一个节点
             sPath += to_string(path[path.size() - 1]);
             result.push_back(sPath);
             return;
@@ -1795,6 +1824,560 @@ public:
         if (root == NULL) return result;
         traversal(root, path, result);
         return result;
+    }
+};
+```
+
+
+
+
+
+### [404. 左叶子之和](https://leetcode.cn/problems/sum-of-left-leaves/)
+
+计算给定二叉树的所有左叶子之和。
+
+<img src="../image/20220902165805.png" alt="图二" style="zoom:50%;" />
+
+注意：
+
+- **判断当前节点是不是左叶子是无法判断的，必须要通过节点的父节点来判断其左孩子是不是左叶子。**
+
+> 如果该节点的左节点不为空，该节点的左节点的左节点为空，该节点的左节点的右节点为空，则找到了一个左叶子
+
+- 递归的遍历顺序为后序遍历（左右中），是因为要通过递归函数的返回值来累加求取左叶子数值之和。
+
+```c++
+class Solution {
+public:
+    int sumOfLeftLeaves(TreeNode* root) {
+        if (root == NULL) return 0;
+		if (root->left == NULL && root->right== NULL) return 0; //其实这个也可以不写，如果不写不影响结果，但就会让递归多进行了一层。
+        
+        int leftValue = sumOfLeftLeaves(root->left);    // 左
+        int rightValue = sumOfLeftLeaves(root->right);  // 右
+
+        // 中
+        if (root->left && !root->left->left && !root->left->right) { // 左子树就是一个左叶子的情况
+            leftValue = root->left->val;
+        }
+        int sum = leftValue + rightValue;               
+        return sum;
+    }
+};
+
+//迭代法
+class Solution {
+public:
+    int sumOfLeftLeaves(TreeNode* root) {
+        stack<TreeNode*> st;
+        if (root == NULL) return 0;
+        st.push(root);
+        int result = 0;
+        while (!st.empty()) {
+            TreeNode* node = st.top();
+            st.pop();
+            if (node->left != NULL && node->left->left == NULL && node->left->right == NULL) {
+                result += node->left->val;
+            }
+            if (node->right) st.push(node->right);
+            if (node->left) st.push(node->left);
+        }
+        return result;
+    }
+};
+```
+
+
+
+
+
+### [513. 找树左下角的值](https://leetcode.cn/problems/find-bottom-left-tree-value/)
+
+> 给定一个二叉树，在树的最后一行找到最左边的值。
+
+- 深度最大的叶子节点一定是最后一行
+- 找最左边，可以使用前序遍历（当然中序，后序都可以，因为本题没有 中间节点的处理逻辑，只要左优先就行），保证优先左边搜索，然后记录深度最大的叶子节点，此时就是树的最后一行最左边的值。
+
+```c++
+//递归
+class Solution {
+public:
+    int maxDepth = INT_MIN;
+    int result;
+    void traversal(TreeNode* root, int depth) {
+        //遇到叶子节点来更新最大深度
+        if (root->left == NULL && root->right == NULL) {
+            if (depth > maxDepth) {
+                maxDepth = depth;
+                result = root->val;
+            }
+            return;
+        }
+        if (root->left) {
+            depth++;
+            traversal(root->left, depth);
+            depth--; // 回溯
+        }
+        if (root->right) {
+            depth++;
+            traversal(root->right, depth);
+            depth--; // 回溯
+        }
+        return;
+    }
+    int findBottomLeftValue(TreeNode* root) {
+        traversal(root, 0);
+        return result;
+    }
+};
+
+//迭代法
+class Solution {
+public:
+    int findBottomLeftValue(TreeNode* root) {
+        queue<TreeNode*> que;
+        if (root != NULL) que.push(root);
+        int result = 0;
+        while (!que.empty()) {
+            int size = que.size();
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = que.front();
+                que.pop();
+                if (i == 0) result = node->val; // 记录最后一行第一个元素
+                if (node->left) que.push(node->left);
+                if (node->right) que.push(node->right);
+            }
+        }
+        return result;
+    }
+};
+```
+
+
+
+### [112. 路径总和](https://leetcode.cn/problems/path-sum/)
+
+`targetSum = 22`
+
+<img src="../image/2021020316051216.png" alt="112.路径总和" style="zoom:50%;" />
+
+###### 递归函数什么时候需要返回值？
+
+- 如果需要搜**索整棵二叉树且不用处理递归返回值**，递归函数就不要返回值。（这种情况就是本文下半部分介绍的113.路径总和ii）
+- 如果需要搜索整棵二叉树且需要处理递归返回值，递归函数就需要返回值。 （这种情况我们在[236. 二叉树的最近公共祖先 (opens new window)](https://programmercarl.com/0236.二叉树的最近公共祖先.html)中介绍）
+- 如果要**搜索其中一条符合条件**的路径，那么递归一定需要返回值，因为遇到符合条件的路径了就要及时返回。（本题的情况）
+
+终止条件：
+
+- 不要去累加然后判断是否等于目标和，那么代码比较麻烦，可以用递减，让计数器count初始为目标和，然后每次减去遍历路径节点上的数值。如果最后count == 0，同时到了叶子节点的话，说明找到了目标和。
+
+单层递归的逻辑：
+
+- 因为终止条件是判断叶子节点，所以递归的过程中就不要让空节点进入递归了。
+- 归函数是有返回值的，如果递归函数返回true，说明找到了合适的路径，应该立刻返回。
+
+```c++
+class Solution {
+private:
+    bool traversal(TreeNode* cur, int count) {
+        if (!cur->left && !cur->right && count == 0) return true; // 遇到叶子节点，并且计数为0
+        if (!cur->left && !cur->right) return false; // 遇到叶子节点直接返回
+
+        if (cur->left) { // 左
+            count -= cur->left->val; // 递归，处理节点;
+            if (traversal(cur->left, count)) return true;
+            count += cur->left->val; // 回溯，撤销处理结果
+        }
+        if (cur->right) { // 右
+            count -= cur->right->val; // 递归，处理节点;
+            if (traversal(cur->right, count)) return true;
+            count += cur->right->val; // 回溯，撤销处理结果
+        }
+        return false;
+    }
+
+public:
+    bool hasPathSum(TreeNode* root, int sum) {
+        if (root == NULL) return false;
+        return traversal(root, sum - root->val);
+    }
+};
+
+//迭代法
+class solution {
+public:
+    bool haspathsum(TreeNode* root, int sum) {
+        if (root == null) return false;
+        // 此时栈里要放的是pair<节点指针，路径数值>
+        stack<pair<TreeNode*, int>> st;
+        st.push(pair<TreeNode*, int>(root, root->val));
+        while (!st.empty()) {
+            pair<TreeNode*, int> node = st.top();
+            st.pop();
+            // 如果该节点是叶子节点了，同时该节点的路径数值等于sum，那么就返回true
+            if (!node.first->left && !node.first->right && sum == node.second) return true;
+
+            // 右节点，压进去一个节点的时候，将该节点的路径数值也记录下来
+            if (node.first->right) {
+                st.push(pair<TreeNode*, int>(node.first->right, node.second + node.first->right->val));
+            }
+
+            // 左节点，压进去一个节点的时候，将该节点的路径数值也记录下来
+            if (node.first->left) {
+                st.push(pair<TreeNode*, int>(node.first->left, node.second + node.first->left->val));
+            }
+        }
+        return false;
+    }
+};
+```
+
+
+
+### [113. 路径总和 II](https://leetcode.cn/problems/path-sum-ii/)
+
+> 给你二叉树的根节点 `root` 和一个整数目标和 `targetSum` ，找出所有 **从根节点到叶子节点** 路径总和等于给定目标和的路径。
+
+<img src="../image/20210203160922745.png" alt="113.路径总和ii" style="zoom:50%;" />
+
+```
+输出：[[5,4,11,2],[5,8,4,5]]
+```
+
+- 要遍历整个树，找到所有路径，**所以递归函数不要返回值！**
+
+```c++
+class solution {
+private:
+    vector<vector<int>> result;
+    vector<int> path;
+    // 递归函数不需要返回值，因为我们要遍历整个树
+    void traversal(TreeNode* cur, int count) {
+        if (!cur->left && !cur->right && count == 0) { // 遇到了叶子节点且找到了和为sum的路径
+            result.push_back(path);
+            return;
+        }
+
+        if (!cur->left && !cur->right) return ; // 遇到叶子节点而没有找到合适的边，直接返回
+
+        if (cur->left) { // 左 （空节点不遍历）
+            path.push_back(cur->left->val);
+            count -= cur->left->val;
+            traversal(cur->left, count);    // 递归
+            count += cur->left->val;        // 回溯
+            path.pop_back();                // 回溯
+        }
+        if (cur->right) { // 右 （空节点不遍历）
+            path.push_back(cur->right->val);
+            count -= cur->right->val;
+            traversal(cur->right, count);   // 递归
+            count += cur->right->val;       // 回溯
+            path.pop_back();                // 回溯
+        }
+        return ;
+    }
+
+public:
+    vector<vector<int>> pathSum(TreeNode* root, int sum) {
+        result.clear();
+        path.clear();
+        if (root == NULL) return result;
+        path.push_back(root->val); // 把根节点放进路径
+        traversal(root, sum - root->val);
+        return result;
+    }
+};
+```
+
+
+
+### [106. 从中序与后序遍历序列构造二叉树](https://leetcode.cn/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+
+给定两个整数数组 `inorder` 和 `postorder` ，其中 `inorder` 是二叉树的中序遍历， `postorder` 是同一棵树的后序遍历，请你构造并返回这颗 *二叉树* 。
+
+```
+输入：inorder = [9,3,15,20,7], postorder = [9,15,7,20,3]
+输出：[3,9,20,null,null,15,7]
+```
+
+<img src="../image/20210203154249860.png" alt="106.从中序与后序遍历序列构造二叉树" style="zoom:50%;" />
+
+1. 第一步：如果数组大小为零的话，说明是空节点了。
+2. 第二步：如果不为空，那么取后序数组最后一个元素作为节点元素。
+3. 第三步：找到后序数组最后一个元素在中序数组的位置，作为切割点
+4. 第四步：切割中序数组，切成中序左数组和中序右数组 （顺序别搞反了，一定是先切中序数组）
+5. 第五步：切割后序数组（后序数组的最后一个元素指定不能要），切成后序左数组和后序右数组
+6. 第六步：递归处理左区间和右区间
+
+注意点：
+
+- 注意确定切割的标准，是左闭右开，还有左开右闭，还是左闭右闭，这个就是不变量，要在递归中保持这个不变量。
+- 后序数组没有明确的切割元素来进行左右切割，不像中序数组有明确的切割点，切割点左右分开就可以了。
+- 切割后序数组**时有一个很重的点，就是中序数组大小一定是和后序数组的大小相同的（这是必然）。**
+- 后序数组就可以按照左中序数组的大小来切割，切成左后序数组和右后序数组。
+
+```c++
+class Solution {
+private:
+    TreeNode* traversal (vector<int>& inorder, vector<int>& postorder) {
+        if (postorder.size() == 0) return NULL;
+
+        // 后序遍历数组最后一个元素，就是当前的中间节点
+        int rootValue = postorder[postorder.size() - 1];
+        TreeNode* root = new TreeNode(rootValue);
+
+        // 叶子节点
+        if (postorder.size() == 1) return root;
+
+        // 找到中序遍历的切割点
+        int delimiterIndex;
+        for (delimiterIndex = 0; delimiterIndex < inorder.size(); delimiterIndex++) {
+            if (inorder[delimiterIndex] == rootValue) break;
+        }
+
+        // 切割中序数组
+        // 左闭右开区间：[0, delimiterIndex)
+        vector<int> leftInorder(inorder.begin(), inorder.begin() + delimiterIndex);
+        // [delimiterIndex + 1, end)
+        vector<int> rightInorder(inorder.begin() + delimiterIndex + 1, inorder.end() );
+
+        // postorder 舍弃末尾元素
+        postorder.resize(postorder.size() - 1);
+
+        // 切割后序数组
+        // 依然左闭右开，注意这里使用了左中序数组大小作为切割点
+        // [0, leftInorder.size)
+        vector<int> leftPostorder(postorder.begin(), postorder.begin() + leftInorder.size());
+        // [leftInorder.size(), end)
+        vector<int> rightPostorder(postorder.begin() + leftInorder.size(), postorder.end());
+
+        root->left = traversal(leftInorder, leftPostorder);
+        root->right = traversal(rightInorder, rightPostorder);
+
+        return root;
+    }
+public:
+    TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
+        if (inorder.size() == 0 || postorder.size() == 0) return NULL;
+        return traversal(inorder, postorder);
+    }
+};
+```
+
+
+
+### [654. 最大二叉树](https://leetcode.cn/problems/maximum-binary-tree/)
+
+> 给定一个不含重复元素的整数数组。一个以此数组构建的最大二叉树定义如下：
+>
+> - 二叉树的根是数组中的最大元素。
+> - 左子树是通过数组中最大值左边部分构造出的最大二叉树。
+> - 右子树是通过数组中最大值右边部分构造出的最大二叉树。
+>
+> 通过给定的数组构建最大二叉树，并且输出这个树的根节点。
+
+![654.最大二叉树](../image/654.最大二叉树.gif)
+
+- 构造树一般采用的是前序遍历，因为先构造中间节点，然后递归构造左子树和右子树。
+
+```C++
+class Solution {
+private:
+    // 在左闭右开区间[left, right)，构造二叉树
+    TreeNode* traversal(vector<int>& nums, int left, int right) {
+        if (left >= right) return nullptr;
+
+        // 分割点下标：maxValueIndex
+        int maxValueIndex = left;
+        for (int i = left + 1; i < right; ++i) {
+            if (nums[i] > nums[maxValueIndex]) maxValueIndex = i;
+        }
+
+        TreeNode* root = new TreeNode(nums[maxValueIndex]);
+
+        // 左闭右开：[left, maxValueIndex)
+        root->left = traversal(nums, left, maxValueIndex);
+
+        // 左闭右开：[maxValueIndex + 1, right)
+        root->right = traversal(nums, maxValueIndex + 1, right);
+
+        return root;
+    }
+public:
+    TreeNode* constructMaximumBinaryTree(vector<int>& nums) {
+        return traversal(nums, 0, nums.size());
+    }
+};
+```
+
+### [617. 合并二叉树](https://leetcode.cn/problems/merge-two-binary-trees/)
+
+<img src="../image/image-20240314193657274.png" alt="image-20240314193657274" style="zoom: 80%;" />
+
+```C++
+/**
+可以使用深度优先搜索合并两个二叉树。从根节点开始同时遍历两个二叉树，并将对应的节点进行合并。
+两个二叉树的对应节点可能存在以下三种情况，对于每种情况使用不同的合并方式。
+    1、如果两个二叉树的对应节点都为空，则合并后的二叉树的对应节点也为空；
+    2、如果两个二叉树的对应节点只有一个为空，则合并后的二叉树的对应节点为其中的非空节点；
+    3、如果两个二叉树的对应节点都不为空，则合并后的二叉树的对应节点的值为两个二叉树的对应节点的值之和，此时需要显性合并两个节点。
+
+对一个节点进行合并之后，还要对该节点的左右子树分别进行合并。这是一个递归的过程。
+
+ */
+
+class Solution {
+public:
+    TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
+        if (root1 == nullptr) {
+            return root2;
+        }
+        if (root2 == nullptr) {
+            return root1;
+        }
+
+        auto merged = new TreeNode(root1->val + root2->val);
+        merged->left = mergeTrees(root1->left, root2->left);
+        merged->right = mergeTrees(root1->right, root2->right);
+        return merged;
+    }
+};
+
+//迭代法
+class Solution {
+public:
+    TreeNode* mergeTrees(TreeNode* t1, TreeNode* t2) {
+        if (t1 == NULL) return t2;
+        if (t2 == NULL) return t1;
+        queue<TreeNode*> que;
+        que.push(t1);
+        que.push(t2);
+        while(!que.empty()) {
+            TreeNode* node1 = que.front(); que.pop();
+            TreeNode* node2 = que.front(); que.pop();
+            // 此时两个节点一定不为空，val相加
+            node1->val += node2->val;
+
+            // 如果两棵树左节点都不为空，加入队列
+            if (node1->left != NULL && node2->left != NULL) {
+                que.push(node1->left);
+                que.push(node2->left);
+            }
+            // 如果两棵树右节点都不为空，加入队列
+            if (node1->right != NULL && node2->right != NULL) {
+                que.push(node1->right);
+                que.push(node2->right);
+            }
+
+            // 当t1的左节点 为空 t2左节点不为空，就赋值过去
+            if (node1->left == NULL && node2->left != NULL) {
+                node1->left = node2->left;
+            }
+            // 当t1的右节点 为空 t2右节点不为空，就赋值过去
+            if (node1->right == NULL && node2->right != NULL) {
+                node1->right = node2->right;
+            }
+        }
+        return t1;
+    }
+};
+```
+
+
+
+
+
+### [700. 二叉搜索树中的搜索](https://leetcode.cn/problems/search-in-a-binary-search-tree/)
+
+![image-20240314195704788](../image/image-20240314195704788.png)
+
+```c++
+//对于二叉搜索树，不需要回溯的过程，因为节点的有序性就帮我们确定了搜索的方向。
+class Solution {
+public:
+    TreeNode* searchBST(TreeNode* root, int val) {
+        if (root == nullptr) 
+            return nullptr;
+        // 搜索左子树
+        if (root->val > val)
+            return searchBST(root->left, val);
+        
+        // 搜索右子树
+        if (root->val < val)
+            return searchBST(root->right, val);
+        //root->val == val
+        return root;
+    }
+};
+```
+
+- 迭代法
+
+因为二叉搜索树的特殊性，也就是节点的有序性，可以不使用辅助栈或者队列就可以写出迭代法。
+
+```C++
+class Solution {
+public:
+    TreeNode* searchBST(TreeNode* root, int val) {
+        while (root != NULL) {
+            if (root->val > val) root = root->left;
+            else if (root->val < val) root = root->right;
+            else return root;
+        }
+        return NULL;
+    }
+};
+```
+
+
+
+### [98. 验证二叉搜索树](https://leetcode.cn/problems/validate-binary-search-tree/)
+
+> 给定一个二叉树，判断其是否是一个有效的二叉搜索树。
+
+###### 二叉搜索树的特性
+
+- 中序遍历下，输出的二叉搜索树节点的数值是有序序列。
+
+有了这个特性，**验证二叉搜索树，就相当于变成了判断一个序列是不是递增的了。**
+
+```C++
+//转为数组
+class Solution {
+private:
+    vector<int> vec;
+    void traversal(TreeNode* root) {
+        if (root == NULL) return;
+        traversal(root->left);
+        vec.push_back(root->val); // 将二叉搜索树转换为有序数组
+        traversal(root->right);
+    }
+public:
+    bool isValidBST(TreeNode* root) {
+        vec.clear(); // 不加这句在leetcode上也可以过，但最好加上
+        traversal(root);
+        for (int i = 1; i < vec.size(); i++) {
+            // 注意要小于等于，搜索树里不能有相同元素
+            if (vec[i] <= vec[i - 1]) return false;
+        }
+        return true;
+    }
+};
+
+//中序遍历时，判断当前节点是否大于中序遍历的前一个节点，如果大于，说明满足 BST，继续遍历；否则直接返回 false。
+class Solution {
+public:
+    TreeNode* pre = NULL; // 用来记录前一个节点
+    bool isValidBST(TreeNode* root) {
+        if (root == NULL) return true;
+        /* 中序遍历 */
+        bool left = isValidBST(root->left);
+		//注意【<=】
+        if (pre != NULL && pre->val >= root->val) return false;
+        pre = root; // 记录前一个节点
+
+        bool right = isValidBST(root->right);
+        return left && right;
     }
 };
 ```
