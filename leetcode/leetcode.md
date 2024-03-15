@@ -2382,3 +2382,332 @@ public:
 };
 ```
 
+
+
+### [530. 二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/)
+
+> 给你一个二叉搜索树的根节点 `root` ，返回 **树中任意两不同节点值之间的最小差值** 。
+>
+> 差值是一个正数，其数值等于两值之差的绝对值。
+
+- 遇到在二叉搜索树上求什么最值啊，差值之类的，就把它想成在一个有序数组上求最值，求差值，这样就简单多了。
+- 要学会在递归遍历的过程中如何记录前后两个指针，这也是一个小技巧，学会了还是很受用的。
+
+```c++
+class Solution {
+private:
+vector<int> vec;
+void traversal(TreeNode* root) {
+    if (root == NULL) return;
+    traversal(root->left);
+    vec.push_back(root->val); // 将二叉搜索树转换为有序数组
+    traversal(root->right);
+}
+public:
+    int getMinimumDifference(TreeNode* root) {
+        vec.clear();
+        traversal(root);
+        if (vec.size() < 2) return 0;
+        int result = INT_MAX;
+        for (int i = 1; i < vec.size(); i++) { // 统计有序数组的最小差值
+            result = min(result, vec[i] - vec[i-1]);
+        }
+        return result;
+    }
+};
+
+//用一个pre节点记录一下cur节点的前一个节点
+class Solution {
+private:
+int result = INT_MAX;
+TreeNode* pre = NULL;
+void traversal(TreeNode* cur) {
+    if (cur == NULL) return;
+    traversal(cur->left);   // 左
+    if (pre != NULL){       // 中
+        result = min(result, cur->val - pre->val);
+    }
+    pre = cur; // 记录前一个
+    traversal(cur->right);  // 右
+}
+public:
+    int getMinimumDifference(TreeNode* root) {
+        traversal(root);
+        return result;
+    }
+};
+```
+
+
+
+### [501. 二叉搜索树中的众数](https://leetcode.cn/problems/find-mode-in-binary-search-tree/)
+
+> 给定一个有相同值的二叉搜索树（BST），找出 BST 中的所有众数（出现频率最高的元素）。
+>
+> 假定 BST 有如下定义：
+>
+> - 结点左子树中所含结点的值小于等于当前结点的值
+> - 结点右子树中所含结点的值大于等于当前结点的值
+> - 左子树和右子树都是二叉搜索树
+
+
+
+- #### 如果不是二叉搜索树
+
+如果不是二叉搜索树，最直观的方法一定是把这个树都遍历了，用map统计频率，把频率排个序，最后取前面高频的元素的集合。
+
+注意：
+
+> 有的同学可能可以想直接对map中的value排序，还真做不到，C++中如果使用std::map或者std::multimap可以对key排序，但不能对value排序。
+>
+> 所以**要把map转化数组即vector，再进行排序**，当然vector里面放的也是`pair<int, int>`类型的数据，第一个int为元素，第二个int为出现频率。
+
+```C++
+class Solution {
+private:
+
+void searchBST(TreeNode* cur, unordered_map<int, int>& map) { // 前序遍历
+    if (cur == NULL) return ;
+    map[cur->val]++; // 统计元素频率
+    searchBST(cur->left, map);
+    searchBST(cur->right, map);
+    return ;
+}
+bool static cmp (const pair<int, int>& a, const pair<int, int>& b) {
+    return a.second > b.second;
+}
+public:
+    vector<int> findMode(TreeNode* root) {
+        unordered_map<int, int> map; // key:元素，value:出现频率
+        vector<int> result;
+        if (root == NULL) return result;
+        searchBST(root, map);
+        vector<pair<int, int>> vec(map.begin(), map.end());
+        sort(vec.begin(), vec.end(), cmp); // 给频率排个序
+        result.push_back(vec[0].first);
+        for (int i = 1; i < vec.size(); i++) {
+            // 取最高的放到result数组中
+            if (vec[i].second == vec[0].second) result.push_back(vec[i].first);
+            else break;
+        }
+        return result;
+    }
+};
+```
+
+
+
+- ####  是二叉搜索树
+
+**既然是搜索树，它中序遍历就是有序的**。
+
+- 遍历有序数组的元素出现频率，从头遍历，那么一定是相邻两个元素作比较，然后就把出现频率最高的元素输出就可以了。
+
+- 使用pre指针和cur指针的技巧
+
+  - 弄一个指针指向前一个节点，这样每次cur（当前节点）才能和pre（前一个节点）作比较。
+
+  - 而且初始化的时候pre = NULL，这样当pre为NULL时候，我们就知道这是比较的第一个元素。
+
+```c++
+//只需要遍历一遍二叉搜索树，就求出了众数的集合
+class Solution {
+private:
+    int maxCount = 0; // 最大频率
+    int count = 0; // 统计频率
+    TreeNode* pre = NULL;
+    vector<int> result;
+    void searchBST(TreeNode* cur) {
+        if (cur == NULL) return ;
+
+        searchBST(cur->left);       // 左
+                                    // 中
+        if (pre == NULL) { // 第一个节点
+            count = 1;
+        } else if (pre->val == cur->val) { // 与前一个节点数值相同
+            count++;
+        } else { // 与前一个节点数值不同
+            count = 1;
+        }
+        pre = cur; // 更新上一个节点
+
+        if (count == maxCount) { // 如果和最大值相同，放进result中
+            result.push_back(cur->val);
+        }
+
+        if (count > maxCount) { // 如果计数大于最大值频率
+            maxCount = count;   // 更新最大频率
+            result.clear();     // 很关键的一步，不要忘记清空result，之前result里的元素都失效了
+            result.push_back(cur->val);
+        }
+
+        searchBST(cur->right);      // 右
+        return ;
+    }
+
+public:
+    vector<int> findMode(TreeNode* root) {
+        count = 0;
+        maxCount = 0;
+        pre = NULL; // 记录前一个节点
+        result.clear();
+
+        searchBST(root);
+        return result;
+    }
+};
+```
+
+
+
+
+
+### [236. 二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+> 给定一个二叉树, 找到该树中两个指定节点的最近公共祖先。
+>
+> 百度百科中最近公共祖先的定义为：“对于有根树 T 的两个结点 p、q，最近公共祖先表示为一个结点 x，满足 x 是 p、q 的祖先且 x 的深度尽可能大（一个节点也可以是它自己的祖先）。”
+
+<img src="../image/20220922173502.png" alt="img" style="zoom:50%;" />
+
+到这个题目首先想的是要是能自底向上查找就好了，这样就可以找到公共祖先了。
+
+那么二叉树如何可以自底向上查找呢？
+
+回溯啊，二叉树回溯的过程就是从低到上。
+
+后序遍历（左右中）就是天然的回溯过程，可以根据左右子树的返回值，来处理中节点的逻辑。
+
+```c++
+ /* 
+ 递归解析：
+终止条件：
+    当越过叶节点，则直接返回 null ；
+    当 root等于 p,q 则直接返回 root；
+递推工作：
+    开启递归左子节点，返回值记为 left；
+    开启递归右子节点，返回值记为 right；
+返回值： 根据 left和 right ，可展开为四种情况；
+    1、当 left 和 right同时为空 ：说明 root的左 / 右子树中都不包含 p,q，返回 null；
+    2、当 left 和 right同时不为空 ：说明 p,q分列在 root的 异侧 （分别在 左 / 右子树），因此 root为最近公共祖先，返回 root ；
+    3、当 left 为空 ，right不为空 ：p,q都不在 root 的左子树中，直接返回 right。具体可分为两种情况：
+        p,q 其中一个在 root的 右子树 中，此时 right指向 p（假设为 p）；
+        p,q两节点都在 root的 右子树 中，此时的right 指向 最近公共祖先节点 ；
+    4、当left 不为空 ，right 为空 ：与情况 3. 同理；
+
+  */
+class Solution {
+public:
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        //只要当前根节点是p和q中的任意一个，就返回（因为不能比这个更深了，再深p和q中的一个就没了）
+        if (root == nullptr || root == p || root == q)  return root;
+        //根节点不是p和q中的任意一个，那么就继续分别往左子树和右子树找p和q
+        TreeNode* left = lowestCommonAncestor(root->left, p, q);
+        TreeNode* right = lowestCommonAncestor(root->right, p, q);
+        //p和q都没找到，那就没有
+        if (left == nullptr && right == nullptr)    return nullptr; // 1、     
+        //左子树没有p也没有q，就返回右子树的结果
+        if (left == nullptr)    return right; //3、
+        //右子树没有p也没有q就返回左子树的结果
+        if (right == nullptr)   return left;  //4、
+        //左右子树都找到p和q了，那就说明p和q分别在左右两个子树上，所以此时的最近公共祖先就是root
+        return root;  //2、if(left != null and right != null)
+    } 
+};
+```
+
+
+
+### [235. 二叉搜索树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+<img src="../image/20220926164214.png" alt="235.二叉搜索树的最近公共祖先" style="zoom:50%;" />
+
+- 因为是有序树，所有 如果 中间节点是 q 和 p 的公共祖先，那么 中节点的数组 一定是在 [p, q]区间的。即 中节点 > p && 中节点 < q 或者 中节点 > q && 中节点 < p。
+- 从上向下去递归遍历，**第一次遇到 cur节点是数值在[q, p]区间中，那么cur就是 q和p的最近公共祖先。**
+- 递归遍历顺序，本题就不涉及到 前中后序了（这里没有中节点的处理逻辑，遍历顺序无所谓了）。
+
+- 确定单层递归的逻辑
+
+  > 在遍历二叉搜索树的时候就是寻找区间[p->val, q->val]（注意这里是左闭又闭）
+  >
+  > 那么如果 cur->val 大于 p->val，同时 cur->val 大于q->val，那么就应该向左遍历（说明目标区间在左子树上）。
+  >
+  > **需要注意的是此时不知道p和q谁大，所以两个都要判断**
+
+```c++
+class Solution {
+private:
+    TreeNode* traversal(TreeNode* cur, TreeNode* p, TreeNode* q) {
+        if (cur == NULL) return cur;
+                                                        // 中
+        if (cur->val > p->val && cur->val > q->val) {   // 左
+            TreeNode* left = traversal(cur->left, p, q);
+            if (left != NULL) {
+                return left;
+            }
+        }
+
+        if (cur->val < p->val && cur->val < q->val) {   // 右
+            TreeNode* right = traversal(cur->right, p, q);
+            if (right != NULL) {
+                return right;
+            }
+        }
+        //就是cur节点在区间（p->val <= cur->val && cur->val <= q->val）
+        //或者 （q->val <= cur->val && cur->val <= p->val）中，那么cur就是最近公共祖先了，直接返回cur。
+        return cur;
+    }
+public:
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        return traversal(root, p, q);
+    }
+};
+```
+
+在[二叉树：公共祖先问题 (opens new window)](https://programmercarl.com/0236.二叉树的最近公共祖先.html)中，如果递归函数有返回值，如何区分要搜索一条边，还是搜索整个树。
+
+搜索一条边的写法：
+
+```text
+if (递归函数(root->left)) return ;
+if (递归函数(root->right)) return ;
+```
+
+搜索整个树写法：
+
+```text
+left = 递归函数(root->left);
+right = 递归函数(root->right);
+left与right的逻辑处理;
+```
+
+本题就是标准的搜索一条边的写法，遇到递归函数的返回值，如果不为空，立刻返回。
+
+
+
+### [701. 二叉搜索树中的插入操作](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)
+
+> 给定二叉搜索树（BST）的根节点 `root` 和要插入树中的值 `value` ，将值插入二叉搜索树。 返回插入后二叉搜索树的根节点。 输入数据 **保证** ，新值和原始二叉搜索树中的任意节点值都不同。
+>
+> **注意**，可能存在多种有效的插入方式，只要树在插入后仍保持为二叉搜索树即可。 你可以返回 **任意有效的结果** 。
+
+- **只要按照二叉搜索树的规则去遍历，遇到空节点就插入节点就可以了。**
+
+![701.二叉搜索树中的插入操作](../image/701.二叉搜索树中的插入操作.gif)
+
+```c++
+class Solution {
+public:
+    TreeNode* insertIntoBST(TreeNode* root, int val) {
+        //找到空位置插入新节点
+        if (root == nullptr) 
+            return new TreeNode(val);
+        if (root->val < val)
+            root->right = insertIntoBST(root->right, val);
+        if (root->val > val)
+            root->left = insertIntoBST(root->left, val);
+        return root;
+    }
+};
+```
+
