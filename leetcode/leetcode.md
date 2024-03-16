@@ -1251,7 +1251,11 @@ public:
 
 # 七、二叉树
 
-### 1、二叉树的特点：
+![img](../image/20211030125421.png)
+
+### 二叉树必备知识
+
+#### 1、二叉树的特点：
 
 ###### 1）二叉搜索树
 
@@ -1263,7 +1267,9 @@ public:
 
 - 节点个树 = 2^树深度 - 1
 
-### **2、二叉树的前序、中序、后序遍历**
+
+
+#### **2、二叉树的前序、中序、后序遍历**
 
 ![img](../image/v2-0fcc909a2787cd92c1315481748d2b57_720w.webp)
 
@@ -1277,7 +1283,15 @@ public:
 前序(根左右)，中序(左根右)，后序(左右根)
 ```
 
+#### 3、遍历顺序的选择
 
+- 涉及到二叉树的构造，无论普通二叉树还是二叉搜索树一定前序，都是先构造中节点。
+- 求普通二叉树的属性，一般是后序，一般要通过递归函数的返回值做计算。
+- 求二叉搜索树的属性，一定是中序了，要不白瞎了有序性了。
+
+注意在普通二叉树的属性中，我用的是一般为后序，例如单纯求深度就用前序，[二叉树：找所有路径 (opens new window)](https://programmercarl.com/0257.二叉树的所有路径.html)也用了前序，这是为了方便让父节点指向子节点。
+
+所以求普通二叉树的属性还是要具体问题具体分析。
 
 ### [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/)
 
@@ -2706,6 +2720,215 @@ public:
             root->right = insertIntoBST(root->right, val);
         if (root->val > val)
             root->left = insertIntoBST(root->left, val);
+        return root;
+    }
+};
+```
+
+
+
+### [450. 删除二叉搜索树中的节点](https://leetcode.cn/problems/delete-node-in-a-bst/)
+
+> 给定一个二叉搜索树的根节点 **root** 和一个值 **key**，删除二叉搜索树中的 **key** 对应的节点，并保证二叉搜索树的性质不变。返回二叉搜索树（有可能被更新）的根节点的引用。
+>
+> 一般来说，删除节点可分为两个步骤：
+>
+> 1. 首先找到需要删除的节点；
+> 2. 如果找到了，删除它。
+
+![image-20240316140505871](../image/image-20240316140505871.png)
+
+有以下五种情况：
+
+- 第一种情况：没找到删除的节点，遍历到空节点直接返回了
+- 找到删除的节点
+  - 第二种情况：左右孩子都为空（叶子节点），直接删除节点， 返回NULL为根节点
+  - 第三种情况：删除节点的左孩子为空，右孩子不为空，删除节点，右孩子补位，返回右孩子为根节点
+  - 第四种情况：删除节点的右孩子为空，左孩子不为空，删除节点，左孩子补位，返回左孩子为根节点
+  - 第五种情况：左右孩子节点都不为空，则将删除节点的左子树头结点（左孩子）放到删除节点的右子树的最左面节点的左孩子上，返回删除节点右孩子为新的根节点。
+
+第五种情况有点难以理解，看下面动画：
+
+![450.删除二叉搜索树中的节点](../image/450.删除二叉搜索树中的节点.gif)
+
+```c++
+class Solution {
+public:
+    TreeNode* deleteNode(TreeNode* root, int key) {
+        if (root == nullptr) return root; // 第一种情况：没找到删除的节点，遍历到空节点直接返回了
+        if (root->val == key) {
+            // 第二种情况：左右孩子都为空（叶子节点），直接删除节点， 返回NULL为根节点
+            if (root->left == nullptr && root->right == nullptr) {
+                ///! 内存释放
+                delete root;
+                return nullptr;
+            }
+            // 第三种情况：其左孩子为空，右孩子不为空，删除节点，右孩子补位 ，返回右孩子为根节点
+            else if (root->left == nullptr) {
+                auto retNode = root->right;
+                ///! 内存释放
+                delete root;
+                return retNode;
+            }
+            // 第四种情况：其右孩子为空，左孩子不为空，删除节点，左孩子补位，返回左孩子为根节点
+            else if (root->right == nullptr) {
+                auto retNode = root->left;
+                ///! 内存释放
+                delete root;
+                return retNode;
+            }
+            // 第五种情况：左右孩子节点都不为空，则将删除节点的左子树放到删除节点的右子树的最左面节点的左孩子的位置
+            // 并返回删除节点右孩子为新的根节点。
+            else {
+                TreeNode* cur = root->right; // 找右子树最左面的节点
+                while(cur->left != nullptr) {
+                    cur = cur->left;
+                }
+                cur->left = root->left; // 把要删除的节点（root）左子树放在cur的左孩子的位置
+                TreeNode* retNode = root->right;   
+                delete root;             // 释放节点内存（这里不写也可以，但C++最好手动释放一下吧）
+                return retNode;
+            }
+        }
+        if (root->val > key) root->left = deleteNode(root->left, key);
+        if (root->val < key) root->right = deleteNode(root->right, key);
+        return root;
+    }
+};
+```
+
+
+
+### [669. 修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)
+
+> 给定一个二叉搜索树，同时给定最小边界L 和最大边界 R。通过修剪二叉搜索树，使得所有节点的值在[L, R]中 (R>=L) 。你可能需要改变树的根节点，所以结果应当返回修剪好的二叉搜索树的新的根节点。
+
+![image-20240316142742597](../image/image-20240316142742597.png)
+
+在上图中我们发现节点0并不符合区间要求，那么将节点0的右孩子 节点2 直接赋给 节点3的左孩子就可以了（就是把节点0从二叉树中移除），如图：
+
+<img src="../image/20210204155327203.png" alt="669.修剪二叉搜索树1" style="zoom:50%;" />
+
+- 确定单层递归的逻辑
+  - 如果root（当前节点）的元素小于low的数值，那么应该递归右子树，并返回右子树符合条件的头结点。
+  - 如果root(当前节点)的元素大于high的，那么应该递归左子树，并返回左子树符合条件的头结点
+  - 接下来要将下一层处理完左子树的结果赋给root->left，处理完右子树的结果赋给root->right。最后返回root节点
+
+```c++
+class Solution {
+public:
+    TreeNode* trimBST(TreeNode* root, int low, int high) {
+        if (root == nullptr ) return nullptr;
+        if (root->val < low) {
+            TreeNode* right = trimBST(root->right, low, high); // 寻找符合区间[low, high]的节点
+            return right;
+        }
+        if (root->val > high) {
+            TreeNode* left = trimBST(root->left, low, high); // 寻找符合区间[low, high]的节点
+            return left;
+        }
+        root->left = trimBST(root->left, low, high); // root->left接入符合条件的左孩子
+        root->right = trimBST(root->right, low, high); // root->right接入符合条件的右孩子
+        return root;
+    }
+};
+```
+
+
+
+### [108. 将有序数组转换为二叉搜索树](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/)
+
+> 给你一个整数数组 `nums` ，其中元素已经按 **升序** 排列，请你将其转换为一棵 **平衡** 二叉**搜索**树。
+>
+> 注：一个高度平衡二叉树是指一个二叉树每个节点 的左右两个子树的高度差的绝对值不超过 1。
+
+![image-20240316144307329](../image/image-20240316144307329.png)
+
+构造一棵 **平衡** 二叉**搜索**树，**本质就是寻找分割点，分割点作为当前节点，然后递归左区间和右区间**。
+
+分割点就是数组中间位置的节点。
+
+那么为问题来了，如果数组长度为偶数，中间节点有两个，取哪一个？
+
+取哪一个都可以，只不过构成了不同的平衡二叉搜索树。
+
+例如：输入：[-10,-3,0,5,9]
+
+<img src="../image/108.将有序数组转换为二叉搜索树.png" alt="108.将有序数组转换为二叉搜索树" style="zoom:50%;" />
+
+- **这里定义的是左闭右开区间，在不断分割的过程中，也会坚持左闭右闭的区间，这又涉及到我们讲过的循环不变量**。
+
+```c++
+class Solution {
+private:
+    // 左闭右闭区间[left, right)
+    TreeNode* traversal(vector<int>& nums, int left, int right) {
+        //定义的是左闭右开的区间，所以当区间 left >= right的时候，就是空节点了。
+        if (left >= right) return nullptr;
+        int mid = left + ((right - left) / 2);
+        TreeNode* root = new TreeNode(nums[mid]);
+        root->left = traversal(nums, left, mid);
+        root->right = traversal(nums, mid + 1, right);
+        return root;
+    }
+public:
+    TreeNode* sortedArrayToBST(vector<int>& nums) {
+        TreeNode* root = traversal(nums, 0, nums.size());
+        return root;
+    }
+};
+```
+
+
+
+### [538. 把二叉搜索树转换为累加树](https://leetcode.cn/problems/convert-bst-to-greater-tree/)
+
+> 给出二叉 **搜索** 树的根节点，该树的节点值各不相同，请你将其转换为累加树（Greater Sum Tree），使每个节点 `node` 的新值等于原树中大于或等于 `node.val` 的值之和。
+>
+> 提醒一下，二叉搜索树满足下列约束条件：
+>
+> - 节点的左子树仅包含键 **小于** 节点键的节点。
+> - 节点的右子树仅包含键 **大于** 节点键的节点。
+> - 左右子树也必须是二叉搜索树。
+
+<img src="../image/20201023160751832.png" alt="538.把二叉搜索树转换为累加树" style="zoom:50%;" />
+
+- 输入：[4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]
+- 输出：[30,36,21,36,35,26,15,null,null,null,33,null,null,null,8]
+
+
+
+关键点
+
+- 这是一棵**二叉搜索树**，二是**有序**的。
+- **其实这就是一棵树，大家可能看起来有点别扭，换一个角度来看，这就是一个有序数组[2, 5, 13]，求从后到前的累加数组，也就是[20, 18, 13]，是不是感觉这就简单了。**
+
+如何遍历这个二叉树
+
+- **从树中可以看出累加的顺序是右中左，所以我们需要反中序遍历这个二叉树，然后顺序累加就可以了**。
+
+<img src="../image/20210204153440666.png" alt="538.把二叉搜索树转换为累加树" style="zoom:67%;" />
+
+技巧
+
+- 本题依然需要一个pre指针记录当前遍历节点cur的前一个节点，这样才方便做累加
+
+```c++
+class Solution {
+private:
+    int pre = 0; // 记录前一个节点的数值
+    //不需要递归函数的返回值做什么操作了，要遍历整棵树。
+    void traversal(TreeNode* cur) { // 右中左遍历 中节点的处理逻辑就是让cur的数值加上前一个节点的数值。
+        if (cur == NULL) return;
+        traversal(cur->right);
+        cur->val += pre;
+        pre = cur->val;
+        traversal(cur->left);
+    }
+public:
+    TreeNode* convertBST(TreeNode* root) {
+        pre = 0;
+        traversal(root);
         return root;
     }
 };
